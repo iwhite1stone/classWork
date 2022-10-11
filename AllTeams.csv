@@ -1,0 +1,2858 @@
+,season,team,conference,statName,statValue,SeasonTeam
+0,2005,Arkansas,SEC,possessionTime,11802,2005 Arkansas
+1,2015,Arkansas,SEC,penaltyYards,477,2015 Arkansas
+2,2009,Arkansas,SEC,possessionTime,14300,2009 Arkansas
+3,2021,Arkansas,SEC,fourthDownConversions,12,2021 Arkansas
+4,2018,Arkansas,SEC,puntReturns,9,2018 Arkansas
+6,2020,Arkansas,SEC,thirdDownConversions,46,2020 Arkansas
+7,2006,Arkansas,SEC,interceptions,18,2006 Arkansas
+8,2008,Arkansas,SEC,rushingTDs,13,2008 Arkansas
+9,2011,Arkansas,SEC,kickReturnTDs,2,2011 Arkansas
+10,2007,Arkansas,SEC,penaltyYards,707,2007 Arkansas
+11,2017,Arkansas,SEC,penalties,58,2017 Arkansas
+12,2013,Arkansas,SEC,penaltyYards,461,2013 Arkansas
+13,2012,Arkansas,SEC,thirdDownConversions,58,2012 Arkansas
+14,2012,Arkansas,SEC,penalties,72,2012 Arkansas
+16,2007,Arkansas,SEC,interceptions,11,2007 Arkansas
+17,2011,Arkansas,SEC,fumblesLost,15,2011 Arkansas
+18,2021,Arkansas,SEC,kickReturnYards,310,2021 Arkansas
+19,2010,Arkansas,SEC,kickReturnYards,1047,2010 Arkansas
+20,2018,Arkansas,SEC,kickReturns,23,2018 Arkansas
+21,2022,Arkansas,SEC,passAttempts,154,2022 Arkansas
+22,2010,Arkansas,SEC,fourthDownConversions,9,2010 Arkansas
+23,2013,Arkansas,SEC,rushingTDs,14,2013 Arkansas
+25,2017,Arkansas,SEC,totalYards,4481,2017 Arkansas
+26,2012,Arkansas,SEC,firstDowns,253,2012 Arkansas
+28,2013,Arkansas,SEC,passesIntercepted,8,2013 Arkansas
+29,2013,Arkansas,SEC,thirdDowns,156,2013 Arkansas
+30,2019,Arkansas,SEC,passingTDs,14,2019 Arkansas
+31,2010,Arkansas,SEC,puntReturnTDs,1,2010 Arkansas
+32,2008,Arkansas,SEC,puntReturns,29,2008 Arkansas
+33,2013,Arkansas,SEC,netPassingYards,1782,2013 Arkansas
+34,2014,Arkansas,SEC,netPassingYards,2444,2014 Arkansas
+36,2006,Arkansas,SEC,puntReturnTDs,0,2006 Arkansas
+38,2019,Arkansas,SEC,puntReturnTDs,0,2019 Arkansas
+39,2021,Arkansas,SEC,tacklesForLoss,79,2021 Arkansas
+40,2007,Arkansas,SEC,rushingAttempts,625,2007 Arkansas
+41,2014,Arkansas,SEC,interceptionTDs,1,2014 Arkansas
+42,2008,Arkansas,SEC,totalYards,4079,2008 Arkansas
+43,2018,Arkansas,SEC,sacks,26,2018 Arkansas
+44,2006,Arkansas,SEC,possessionTime,15263,2006 Arkansas
+45,2010,Arkansas,SEC,possessionTime,14331,2010 Arkansas
+46,2019,Arkansas,SEC,thirdDownConversions,55,2019 Arkansas
+47,2018,Arkansas,SEC,penaltyYards,606,2018 Arkansas
+48,2018,Arkansas,SEC,passingTDs,17,2018 Arkansas
+49,2005,Arkansas,SEC,passingTDs,13,2005 Arkansas
+50,2013,Arkansas,SEC,kickReturnTDs,0,2013 Arkansas
+51,2021,Arkansas,SEC,totalYards,5742,2021 Arkansas
+52,2018,Arkansas,SEC,netPassingYards,2301,2018 Arkansas
+53,2022,Arkansas,SEC,puntReturnTDs,1,2022 Arkansas
+54,2013,Arkansas,SEC,fumblesRecovered,6,2013 Arkansas
+55,2004,Arkansas,SEC,passingTDs,3,2004 Arkansas
+57,2011,Arkansas,SEC,interceptions,7,2011 Arkansas
+58,2018,Arkansas,SEC,kickReturnYards,530,2018 Arkansas
+59,2008,Arkansas,SEC,thirdDowns,171,2008 Arkansas
+62,2015,Arkansas,SEC,kickReturnYards,782,2015 Arkansas
+63,2014,Arkansas,SEC,puntReturnTDs,0,2014 Arkansas
+64,2007,Arkansas,SEC,passCompletions,179,2007 Arkansas
+65,2008,Arkansas,SEC,fourthDownConversions,12,2008 Arkansas
+66,2005,Arkansas,SEC,fourthDowns,25,2005 Arkansas
+67,2021,Arkansas,SEC,fourthDowns,19,2021 Arkansas
+72,2014,Arkansas,SEC,passCompletions,199,2014 Arkansas
+73,2018,Arkansas,SEC,games,12,2018 Arkansas
+74,2009,Arkansas,SEC,puntReturns,38,2009 Arkansas
+75,2004,Arkansas,SEC,fourthDownConversions,7,2004 Arkansas
+78,2019,Arkansas,SEC,puntReturns,14,2019 Arkansas
+79,2004,Arkansas,SEC,fumblesRecovered,12,2004 Arkansas
+80,2010,Arkansas,SEC,kickReturns,54,2010 Arkansas
+81,2019,Arkansas,SEC,interceptions,15,2019 Arkansas
+82,2009,Arkansas,SEC,interceptions,9,2009 Arkansas
+84,2016,Arkansas,SEC,passesIntercepted,10,2016 Arkansas
+85,2006,Arkansas,SEC,passingTDs,23,2006 Arkansas
+86,2019,Arkansas,SEC,interceptionYards,60,2019 Arkansas
+87,2015,Arkansas,SEC,interceptionYards,80,2015 Arkansas
+88,2012,Arkansas,SEC,fourthDowns,18,2012 Arkansas
+89,2013,Arkansas,SEC,puntReturnTDs,0,2013 Arkansas
+90,2004,Arkansas,SEC,thirdDowns,159,2004 Arkansas
+92,2016,Arkansas,SEC,sacks,26,2016 Arkansas
+93,2009,Arkansas,SEC,netPassingYards,4010,2009 Arkansas
+94,2004,Arkansas,SEC,thirdDownConversions,69,2004 Arkansas
+96,2013,Arkansas,SEC,fourthDownConversions,7,2013 Arkansas
+97,2010,Arkansas,SEC,passAttempts,465,2010 Arkansas
+99,2020,Arkansas,SEC,sacks,14,2020 Arkansas
+100,2021,Arkansas,SEC,interceptionTDs,0,2021 Arkansas
+101,2016,Arkansas,SEC,rushingTDs,21,2016 Arkansas
+102,2005,Arkansas,SEC,puntReturnYards,287,2005 Arkansas
+103,2008,Arkansas,SEC,games,12,2008 Arkansas
+105,2008,Arkansas,SEC,firstDowns,226,2008 Arkansas
+106,2006,Arkansas,SEC,rushingYards,3199,2006 Arkansas
+108,2014,Arkansas,SEC,possessionTime,26599,2014 Arkansas
+109,2021,Arkansas,SEC,thirdDownConversions,64,2021 Arkansas
+110,2022,Arkansas,SEC,games,12,2022 Arkansas
+111,2015,Arkansas,SEC,totalYards,6051,2015 Arkansas
+112,2018,Arkansas,SEC,interceptions,18,2018 Arkansas
+113,2011,Arkansas,SEC,penalties,80,2011 Arkansas
+114,2021,Arkansas,SEC,puntReturnTDs,1,2021 Arkansas
+115,2010,Arkansas,SEC,penalties,103,2010 Arkansas
+116,2018,Arkansas,SEC,puntReturnTDs,0,2018 Arkansas
+117,2016,Arkansas,SEC,passingTDs,26,2016 Arkansas
+118,2016,Arkansas,SEC,rushingAttempts,517,2016 Arkansas
+120,2020,Arkansas,SEC,tacklesForLoss,50,2020 Arkansas
+123,2018,Arkansas,SEC,turnovers,26,2018 Arkansas
+124,2016,Arkansas,SEC,turnovers,25,2016 Arkansas
+125,2022,Arkansas,SEC,thirdDowns,93,2022 Arkansas
+126,2022,Arkansas,SEC,passCompletions,94,2022 Arkansas
+127,2008,Arkansas,SEC,interceptionYards,138,2008 Arkansas
+130,2013,Arkansas,SEC,fumblesLost,12,2013 Arkansas
+131,2011,Arkansas,SEC,thirdDownConversions,78,2011 Arkansas
+132,2017,Arkansas,SEC,puntReturns,4,2017 Arkansas
+134,2020,Arkansas,SEC,possessionTime,15171,2020 Arkansas
+135,2022,Arkansas,SEC,interceptionYards,48,2022 Arkansas
+136,2005,Arkansas,SEC,thirdDowns,157,2005 Arkansas
+138,2019,Arkansas,SEC,fumblesRecovered,15,2019 Arkansas
+139,2011,Arkansas,SEC,fourthDownConversions,11,2011 Arkansas
+140,2004,Arkansas,SEC,passAttempts,286,2004 Arkansas
+141,2006,Arkansas,SEC,turnovers,25,2006 Arkansas
+142,2014,Arkansas,SEC,rushingTDs,32,2014 Arkansas
+143,2020,Arkansas,SEC,totalYards,3899,2020 Arkansas
+144,2019,Arkansas,SEC,fumblesLost,6,2019 Arkansas
+145,2016,Arkansas,SEC,tacklesForLoss,60,2016 Arkansas
+146,2016,Arkansas,SEC,rushingYards,2135,2016 Arkansas
+147,2020,Arkansas,SEC,interceptionTDs,3,2020 Arkansas
+148,2016,Arkansas,SEC,fumblesLost,10,2016 Arkansas
+149,2006,Arkansas,SEC,kickReturns,3,2006 Arkansas
+150,2013,Arkansas,SEC,kickReturnYards,740,2013 Arkansas
+151,2018,Arkansas,SEC,fourthDownConversions,5,2018 Arkansas
+152,2017,Arkansas,SEC,fourthDowns,18,2017 Arkansas
+154,2009,Arkansas,SEC,fourthDownConversions,10,2009 Arkansas
+155,2013,Arkansas,SEC,kickReturns,36,2013 Arkansas
+156,2010,Arkansas,SEC,rushingTDs,22,2010 Arkansas
+158,2021,Arkansas,SEC,possessionTime,23010,2021 Arkansas
+159,2016,Arkansas,SEC,fourthDownConversions,10,2016 Arkansas
+160,2011,Arkansas,SEC,totalYards,5695,2011 Arkansas
+161,2011,Arkansas,SEC,puntReturns,51,2011 Arkansas
+162,2015,Arkansas,SEC,thirdDowns,161,2015 Arkansas
+163,2008,Arkansas,SEC,turnovers,26,2008 Arkansas
+164,2011,Arkansas,SEC,passingTDs,26,2011 Arkansas
+165,2017,Arkansas,SEC,rushingYards,2016,2017 Arkansas
+167,2005,Arkansas,SEC,passCompletions,150,2005 Arkansas
+168,2017,Arkansas,SEC,passAttempts,340,2017 Arkansas
+170,2006,Arkansas,SEC,interceptionYards,329,2006 Arkansas
+172,2006,Arkansas,SEC,fourthDowns,13,2006 Arkansas
+173,2009,Arkansas,SEC,thirdDownConversions,54,2009 Arkansas
+175,2022,Arkansas,SEC,possessionTime,10542,2022 Arkansas
+177,2009,Arkansas,SEC,passAttempts,439,2009 Arkansas
+178,2009,Arkansas,SEC,rushingTDs,23,2009 Arkansas
+179,2004,Arkansas,SEC,interceptionYards,99,2004 Arkansas
+180,2017,Arkansas,SEC,rushingAttempts,462,2017 Arkansas
+181,2018,Arkansas,SEC,fumblesLost,8,2018 Arkansas
+182,2015,Arkansas,SEC,passingTDs,31,2015 Arkansas
+183,2017,Arkansas,SEC,sacks,19,2017 Arkansas
+184,2012,Arkansas,SEC,passAttempts,459,2012 Arkansas
+185,2012,Arkansas,SEC,fumblesLost,15,2012 Arkansas
+186,2021,Arkansas,SEC,kickReturns,20,2021 Arkansas
+187,2010,Arkansas,SEC,turnovers,24,2010 Arkansas
+188,2016,Arkansas,SEC,puntReturnYards,143,2016 Arkansas
+189,2020,Arkansas,SEC,fumblesRecovered,5,2020 Arkansas
+191,2019,Arkansas,SEC,passesIntercepted,6,2019 Arkansas
+192,2007,Arkansas,SEC,puntReturnTDs,0,2007 Arkansas
+193,2009,Arkansas,SEC,puntReturnTDs,1,2009 Arkansas
+194,2014,Arkansas,SEC,firstDowns,288,2014 Arkansas
+195,2009,Arkansas,SEC,rushingYards,1713,2009 Arkansas
+196,2017,Arkansas,SEC,thirdDownConversions,69,2017 Arkansas
+197,2019,Arkansas,SEC,fourthDowns,20,2019 Arkansas
+198,2011,Arkansas,SEC,possessionTime,13626,2011 Arkansas
+199,2018,Arkansas,SEC,rushingYards,1720,2018 Arkansas
+200,2011,Arkansas,SEC,fumblesRecovered,9,2011 Arkansas
+202,2005,Arkansas,SEC,interceptionYards,107,2005 Arkansas
+203,2010,Arkansas,SEC,penaltyYards,831,2010 Arkansas
+204,2004,Arkansas,SEC,passCompletions,162,2004 Arkansas
+206,2004,Arkansas,SEC,rushingYards,2061,2004 Arkansas
+207,2009,Arkansas,SEC,firstDowns,255,2009 Arkansas
+208,2017,Arkansas,SEC,fumblesRecovered,9,2017 Arkansas
+209,2018,Arkansas,SEC,penalties,68,2018 Arkansas
+210,2019,Arkansas,SEC,passAttempts,407,2019 Arkansas
+211,2018,Arkansas,SEC,fourthDowns,14,2018 Arkansas
+212,2005,Arkansas,SEC,puntReturnTDs,0,2005 Arkansas
+213,2010,Arkansas,SEC,fumblesLost,9,2010 Arkansas
+214,2013,Arkansas,SEC,passCompletions,150,2013 Arkansas
+217,2022,Arkansas,SEC,sacks,21,2022 Arkansas
+218,2014,Arkansas,SEC,interceptions,6,2014 Arkansas
+219,2006,Arkansas,SEC,fumblesRecovered,6,2006 Arkansas
+220,2020,Arkansas,SEC,thirdDowns,138,2020 Arkansas
+221,2018,Arkansas,SEC,thirdDowns,168,2018 Arkansas
+222,2010,Arkansas,SEC,passesIntercepted,11,2010 Arkansas
+223,2022,Arkansas,SEC,totalYards,2776,2022 Arkansas
+224,2022,Arkansas,SEC,tacklesForLoss,35,2022 Arkansas
+225,2006,Arkansas,SEC,games,14,2006 Arkansas
+226,2009,Arkansas,SEC,passesIntercepted,13,2009 Arkansas
+227,2008,Arkansas,SEC,fourthDowns,23,2008 Arkansas
+228,2008,Arkansas,SEC,passesIntercepted,11,2008 Arkansas
+229,2010,Arkansas,SEC,games,13,2010 Arkansas
+232,2010,Arkansas,SEC,puntReturns,39,2010 Arkansas
+233,2018,Arkansas,SEC,rushingTDs,11,2018 Arkansas
+234,2019,Arkansas,SEC,penalties,61,2019 Arkansas
+235,2022,Arkansas,SEC,passesIntercepted,3,2022 Arkansas
+238,2004,Arkansas,SEC,fourthDowns,20,2004 Arkansas
+239,2004,Arkansas,SEC,puntReturnTDs,1,2004 Arkansas
+240,2017,Arkansas,SEC,games,12,2017 Arkansas
+241,2010,Arkansas,SEC,thirdDowns,165,2010 Arkansas
+242,2015,Arkansas,SEC,kickReturnTDs,0,2015 Arkansas
+243,2011,Arkansas,SEC,penaltyYards,593,2011 Arkansas
+244,2015,Arkansas,SEC,interceptions,8,2015 Arkansas
+245,2008,Arkansas,SEC,rushingAttempts,374,2008 Arkansas
+246,2007,Arkansas,SEC,totalYards,5850,2007 Arkansas
+247,2014,Arkansas,SEC,passesIntercepted,12,2014 Arkansas
+249,2005,Arkansas,SEC,passAttempts,280,2005 Arkansas
+251,2009,Arkansas,SEC,interceptionTDs,2,2009 Arkansas
+252,2015,Arkansas,SEC,fumblesLost,3,2015 Arkansas
+253,2006,Arkansas,SEC,rushingAttempts,539,2006 Arkansas
+254,2011,Arkansas,SEC,turnovers,22,2011 Arkansas
+255,2010,Arkansas,SEC,interceptionTDs,1,2010 Arkansas
+256,2013,Arkansas,SEC,passAttempts,301,2013 Arkansas
+257,2013,Arkansas,SEC,interceptionTDs,1,2013 Arkansas
+258,2004,Arkansas,SEC,possessionTime,11861,2004 Arkansas
+259,2010,Arkansas,SEC,thirdDownConversions,68,2010 Arkansas
+260,2004,Arkansas,SEC,totalYards,4377,2004 Arkansas
+262,2015,Arkansas,SEC,puntReturnYards,186,2015 Arkansas
+264,2008,Arkansas,SEC,passCompletions,245,2008 Arkansas
+267,2018,Arkansas,SEC,totalYards,4021,2018 Arkansas
+268,2019,Arkansas,SEC,rushingAttempts,376,2019 Arkansas
+270,2016,Arkansas,SEC,kickReturnTDs,0,2016 Arkansas
+271,2022,Arkansas,SEC,interceptionTDs,0,2022 Arkansas
+272,2017,Arkansas,SEC,possessionTime,22617,2017 Arkansas
+273,2017,Arkansas,SEC,kickReturns,46,2017 Arkansas
+274,2021,Arkansas,SEC,sacks,24,2021 Arkansas
+275,2017,Arkansas,SEC,puntReturnYards,51,2017 Arkansas
+277,2011,Arkansas,SEC,rushingAttempts,412,2011 Arkansas
+278,2015,Arkansas,SEC,fumblesRecovered,7,2015 Arkansas
+279,2018,Arkansas,SEC,puntReturnYards,91,2018 Arkansas
+280,2012,Arkansas,SEC,fourthDownConversions,6,2012 Arkansas
+281,2007,Arkansas,SEC,games,13,2007 Arkansas
+282,2009,Arkansas,SEC,puntReturnYards,130,2009 Arkansas
+283,2014,Arkansas,SEC,passAttempts,359,2014 Arkansas
+284,2007,Arkansas,SEC,interceptionTDs,2,2007 Arkansas
+286,2016,Arkansas,SEC,interceptionTDs,4,2016 Arkansas
+287,2016,Arkansas,SEC,possessionTime,27088,2016 Arkansas
+288,2005,Arkansas,SEC,interceptionTDs,1,2005 Arkansas
+289,2014,Arkansas,SEC,interceptionYards,241,2014 Arkansas
+290,2017,Arkansas,SEC,turnovers,18,2017 Arkansas
+291,2009,Arkansas,SEC,thirdDowns,162,2009 Arkansas
+292,2014,Arkansas,SEC,totalYards,5278,2014 Arkansas
+293,2021,Arkansas,SEC,thirdDowns,173,2021 Arkansas
+294,2010,Arkansas,SEC,interceptions,15,2010 Arkansas
+295,2022,Arkansas,SEC,kickReturns,4,2022 Arkansas
+296,2020,Arkansas,SEC,games,10,2020 Arkansas
+297,2012,Arkansas,SEC,puntReturnYards,124,2012 Arkansas
+298,2007,Arkansas,SEC,passesIntercepted,20,2007 Arkansas
+299,2005,Arkansas,SEC,fourthDownConversions,11,2005 Arkansas
+300,2021,Arkansas,SEC,firstDowns,284,2021 Arkansas
+302,2016,Arkansas,SEC,puntReturnTDs,0,2016 Arkansas
+303,2007,Arkansas,SEC,turnovers,26,2007 Arkansas
+304,2021,Arkansas,SEC,fumblesRecovered,6,2021 Arkansas
+306,2015,Arkansas,SEC,rushingAttempts,512,2015 Arkansas
+307,2021,Arkansas,SEC,fumblesLost,6,2021 Arkansas
+308,2007,Arkansas,SEC,rushingTDs,33,2007 Arkansas
+309,2015,Arkansas,SEC,netPassingYards,3486,2015 Arkansas
+310,2011,Arkansas,SEC,firstDowns,277,2011 Arkansas
+312,2011,Arkansas,SEC,fourthDowns,16,2011 Arkansas
+313,2013,Arkansas,SEC,interceptionYards,62,2013 Arkansas
+314,2006,Arkansas,SEC,puntReturnYards,242,2006 Arkansas
+315,2008,Arkansas,SEC,penalties,79,2008 Arkansas
+316,2022,Arkansas,SEC,fumblesLost,5,2022 Arkansas
+317,2017,Arkansas,SEC,interceptions,9,2017 Arkansas
+318,2009,Arkansas,SEC,fumblesRecovered,17,2009 Arkansas
+319,2022,Arkansas,SEC,kickReturnYards,82,2022 Arkansas
+320,2016,Arkansas,SEC,firstDowns,288,2016 Arkansas
+321,2009,Arkansas,SEC,totalYards,5555,2009 Arkansas
+323,2012,Arkansas,SEC,rushingAttempts,367,2012 Arkansas
+324,2009,Arkansas,SEC,fourthDowns,20,2009 Arkansas
+326,2018,Arkansas,SEC,interceptionTDs,0,2018 Arkansas
+327,2019,Arkansas,SEC,possessionTime,20031,2019 Arkansas
+328,2011,Arkansas,SEC,kickReturnYards,974,2011 Arkansas
+329,2006,Arkansas,SEC,firstDowns,249,2006 Arkansas
+330,2020,Arkansas,SEC,netPassingYards,2386,2020 Arkansas
+331,2004,Arkansas,SEC,rushingAttempts,467,2004 Arkansas
+332,2013,Arkansas,SEC,turnovers,23,2013 Arkansas
+333,2021,Arkansas,SEC,passingTDs,22,2021 Arkansas
+334,2015,Arkansas,SEC,rushingYards,2565,2015 Arkansas
+335,2012,Arkansas,SEC,rushingYards,1424,2012 Arkansas
+336,2013,Arkansas,SEC,games,12,2013 Arkansas
+337,2007,Arkansas,SEC,firstDowns,273,2007 Arkansas
+338,2016,Arkansas,SEC,fourthDowns,18,2016 Arkansas
+339,2005,Arkansas,SEC,thirdDownConversions,55,2005 Arkansas
+340,2013,Arkansas,SEC,puntReturns,9,2013 Arkansas
+341,2007,Arkansas,SEC,rushingYards,3725,2007 Arkansas
+342,2015,Arkansas,SEC,interceptionTDs,0,2015 Arkansas
+343,2005,Arkansas,SEC,rushingTDs,19,2005 Arkansas
+344,2019,Arkansas,SEC,rushingYards,1766,2019 Arkansas
+345,2013,Arkansas,SEC,possessionTime,21897,2013 Arkansas
+346,2017,Arkansas,SEC,firstDowns,238,2017 Arkansas
+348,2019,Arkansas,SEC,netPassingYards,2315,2019 Arkansas
+349,2013,Arkansas,SEC,puntReturnYards,67,2013 Arkansas
+350,2021,Arkansas,SEC,interceptionYards,97,2021 Arkansas
+351,2020,Arkansas,SEC,kickReturnYards,157,2020 Arkansas
+352,2014,Arkansas,SEC,thirdDowns,188,2014 Arkansas
+353,2015,Arkansas,SEC,passesIntercepted,11,2015 Arkansas
+355,2007,Arkansas,SEC,puntReturns,52,2007 Arkansas
+356,2019,Arkansas,SEC,penaltyYards,492,2019 Arkansas
+357,2022,Arkansas,SEC,puntReturns,9,2022 Arkansas
+359,2015,Arkansas,SEC,turnovers,11,2015 Arkansas
+360,2022,Arkansas,SEC,turnovers,8,2022 Arkansas
+361,2004,Arkansas,SEC,penaltyYards,0,2004 Arkansas
+362,2005,Arkansas,SEC,penaltyYards,0,2005 Arkansas
+363,2020,Arkansas,SEC,rushingYards,1513,2020 Arkansas
+364,2008,Arkansas,SEC,possessionTime,13787,2008 Arkansas
+365,2016,Arkansas,SEC,fumblesRecovered,11,2016 Arkansas
+366,2004,Arkansas,SEC,games,11,2004 Arkansas
+367,2004,Arkansas,SEC,netPassingYards,2429,2004 Arkansas
+368,2017,Arkansas,SEC,passingTDs,18,2017 Arkansas
+369,2022,Arkansas,SEC,kickReturnTDs,0,2022 Arkansas
+370,2008,Arkansas,SEC,interceptionTDs,0,2008 Arkansas
+372,2005,Arkansas,SEC,firstDowns,208,2005 Arkansas
+373,2014,Arkansas,SEC,kickReturnYards,617,2014 Arkansas
+374,2014,Arkansas,SEC,kickReturns,24,2014 Arkansas
+375,2019,Arkansas,SEC,firstDowns,219,2019 Arkansas
+376,2015,Arkansas,SEC,possessionTime,26824,2015 Arkansas
+377,2017,Arkansas,SEC,fumblesLost,9,2017 Arkansas
+378,2014,Arkansas,SEC,penalties,68,2014 Arkansas
+379,2005,Arkansas,SEC,rushingYards,2386,2005 Arkansas
+380,2019,Arkansas,SEC,turnovers,21,2019 Arkansas
+381,2014,Arkansas,SEC,fourthDownConversions,12,2014 Arkansas
+382,2017,Arkansas,SEC,netPassingYards,2465,2017 Arkansas
+383,2021,Arkansas,SEC,puntReturns,25,2021 Arkansas
+384,2013,Arkansas,SEC,passingTDs,15,2013 Arkansas
+385,2012,Arkansas,SEC,totalYards,5042,2012 Arkansas
+386,2017,Arkansas,SEC,passesIntercepted,8,2017 Arkansas
+387,2020,Arkansas,SEC,fumblesLost,7,2020 Arkansas
+389,2021,Arkansas,SEC,kickReturnTDs,0,2021 Arkansas
+390,2008,Arkansas,SEC,fumblesLost,8,2008 Arkansas
+393,2021,Arkansas,SEC,puntReturnYards,264,2021 Arkansas
+394,2020,Arkansas,SEC,puntReturnYards,18,2020 Arkansas
+395,2014,Arkansas,SEC,fumblesLost,11,2014 Arkansas
+396,2016,Arkansas,SEC,passAttempts,406,2016 Arkansas
+397,2020,Arkansas,SEC,passAttempts,283,2020 Arkansas
+398,2007,Arkansas,SEC,thirdDownConversions,84,2007 Arkansas
+399,2012,Arkansas,SEC,puntReturnTDs,0,2012 Arkansas
+400,2012,Arkansas,SEC,thirdDowns,158,2012 Arkansas
+401,2020,Arkansas,SEC,passesIntercepted,13,2020 Arkansas
+402,2022,Arkansas,SEC,penalties,42,2022 Arkansas
+404,2006,Arkansas,SEC,kickReturnYards,60,2006 Arkansas
+405,2012,Arkansas,SEC,puntReturns,22,2012 Arkansas
+406,2006,Arkansas,SEC,passCompletions,154,2006 Arkansas
+407,2019,Arkansas,SEC,sacks,26,2019 Arkansas
+408,2009,Arkansas,SEC,penaltyYards,699,2009 Arkansas
+409,2020,Arkansas,SEC,kickReturns,9,2020 Arkansas
+410,2004,Arkansas,SEC,interceptions,13,2004 Arkansas
+411,2014,Arkansas,SEC,passingTDs,21,2014 Arkansas
+412,2022,Arkansas,SEC,passingTDs,10,2022 Arkansas
+414,2010,Arkansas,SEC,netPassingYards,4495,2010 Arkansas
+415,2012,Arkansas,SEC,kickReturns,31,2012 Arkansas
+416,2006,Arkansas,SEC,kickReturnTDs,0,2006 Arkansas
+417,2021,Arkansas,SEC,penalties,103,2021 Arkansas
+418,2018,Arkansas,SEC,passCompletions,202,2018 Arkansas
+419,2008,Arkansas,SEC,puntReturnYards,80,2008 Arkansas
+420,2007,Arkansas,SEC,puntReturnYards,161,2007 Arkansas
+421,2021,Arkansas,SEC,penaltyYards,820,2021 Arkansas
+422,2006,Arkansas,SEC,thirdDownConversions,70,2006 Arkansas
+424,2017,Arkansas,SEC,passCompletions,192,2017 Arkansas
+425,2020,Arkansas,SEC,fourthDowns,11,2020 Arkansas
+426,2022,Arkansas,SEC,firstDowns,142,2022 Arkansas
+428,2012,Arkansas,SEC,interceptionYards,34,2012 Arkansas
+429,2018,Arkansas,SEC,fumblesRecovered,10,2018 Arkansas
+430,2022,Arkansas,SEC,rushingAttempts,295,2022 Arkansas
+431,2007,Arkansas,SEC,interceptionYards,300,2007 Arkansas
+432,2017,Arkansas,SEC,puntReturnTDs,0,2017 Arkansas
+433,2013,Arkansas,SEC,fourthDowns,15,2013 Arkansas
+434,2014,Arkansas,SEC,rushingAttempts,557,2014 Arkansas
+435,2004,Arkansas,SEC,firstDowns,216,2004 Arkansas
+436,2014,Arkansas,SEC,puntReturnYards,206,2014 Arkansas
+438,2020,Arkansas,SEC,fourthDownConversions,7,2020 Arkansas
+440,2022,Arkansas,SEC,netPassingYards,1373,2022 Arkansas
+441,2017,Arkansas,SEC,rushingTDs,24,2017 Arkansas
+442,2008,Arkansas,SEC,puntReturnTDs,0,2008 Arkansas
+443,2016,Arkansas,SEC,netPassingYards,3434,2016 Arkansas
+444,2012,Arkansas,SEC,penaltyYards,528,2012 Arkansas
+445,2012,Arkansas,SEC,turnovers,31,2012 Arkansas
+447,2016,Arkansas,SEC,interceptions,15,2016 Arkansas
+448,2020,Arkansas,SEC,penaltyYards,457,2020 Arkansas
+449,2006,Arkansas,SEC,penalties,82,2006 Arkansas
+450,2013,Arkansas,SEC,rushingYards,2504,2013 Arkansas
+451,2016,Arkansas,SEC,games,13,2016 Arkansas
+452,2022,Arkansas,SEC,fumblesRecovered,4,2022 Arkansas
+453,2021,Arkansas,SEC,rushingAttempts,588,2021 Arkansas
+454,2017,Arkansas,SEC,penaltyYards,505,2017 Arkansas
+455,2007,Arkansas,SEC,fourthDownConversions,7,2007 Arkansas
+456,2011,Arkansas,SEC,thirdDowns,184,2011 Arkansas
+457,2014,Arkansas,SEC,turnovers,17,2014 Arkansas
+458,2011,Arkansas,SEC,games,13,2011 Arkansas
+459,2015,Arkansas,SEC,kickReturns,38,2015 Arkansas
+460,2007,Arkansas,SEC,penalties,82,2007 Arkansas
+461,2011,Arkansas,SEC,puntReturnYards,420,2011 Arkansas
+462,2018,Arkansas,SEC,passesIntercepted,5,2018 Arkansas
+463,2019,Arkansas,SEC,games,12,2019 Arkansas
+464,2004,Arkansas,SEC,rushingTDs,16,2004 Arkansas
+465,2015,Arkansas,SEC,penalties,55,2015 Arkansas
+466,2013,Arkansas,SEC,rushingAttempts,474,2013 Arkansas
+467,2012,Arkansas,SEC,interceptions,16,2012 Arkansas
+468,2009,Arkansas,SEC,games,13,2009 Arkansas
+469,2010,Arkansas,SEC,interceptionYards,98,2010 Arkansas
+470,2014,Arkansas,SEC,fumblesRecovered,12,2014 Arkansas
+471,2017,Arkansas,SEC,tacklesForLoss,48,2017 Arkansas
+472,2010,Arkansas,SEC,rushingYards,1935,2010 Arkansas
+473,2018,Arkansas,SEC,tacklesForLoss,68,2018 Arkansas
+474,2012,Arkansas,SEC,kickReturnYards,566,2012 Arkansas
+475,2005,Arkansas,SEC,turnovers,23,2005 Arkansas
+476,2011,Arkansas,SEC,passAttempts,471,2011 Arkansas
+477,2009,Arkansas,SEC,kickReturnYards,1283,2009 Arkansas
+478,2010,Arkansas,SEC,passCompletions,301,2010 Arkansas
+479,2006,Arkansas,SEC,fumblesLost,7,2006 Arkansas
+480,2010,Arkansas,SEC,passingTDs,36,2010 Arkansas
+481,2014,Arkansas,SEC,penaltyYards,581,2014 Arkansas
+482,2010,Arkansas,SEC,kickReturnTDs,0,2010 Arkansas
+483,2008,Arkansas,SEC,passAttempts,428,2008 Arkansas
+484,2012,Arkansas,SEC,interceptionTDs,0,2012 Arkansas
+486,2004,Arkansas,SEC,puntReturns,29,2004 Arkansas
+487,2010,Arkansas,SEC,fumblesRecovered,14,2010 Arkansas
+488,2021,Arkansas,SEC,turnovers,11,2021 Arkansas
+490,2012,Arkansas,SEC,passingTDs,23,2012 Arkansas
+492,2006,Arkansas,SEC,thirdDowns,168,2006 Arkansas
+493,2005,Arkansas,SEC,netPassingYards,1749,2005 Arkansas
+494,2011,Arkansas,SEC,kickReturns,42,2011 Arkansas
+495,2018,Arkansas,SEC,kickReturnTDs,0,2018 Arkansas
+496,2008,Arkansas,SEC,fumblesRecovered,5,2008 Arkansas
+497,2004,Arkansas,SEC,interceptionTDs,1,2004 Arkansas
+498,2018,Arkansas,SEC,possessionTime,21398,2018 Arkansas
+500,2005,Arkansas,SEC,totalYards,3967,2005 Arkansas
+502,2014,Arkansas,SEC,kickReturnTDs,1,2014 Arkansas
+503,2013,Arkansas,SEC,firstDowns,222,2013 Arkansas
+504,2018,Arkansas,SEC,thirdDownConversions,52,2018 Arkansas
+505,2010,Arkansas,SEC,fourthDowns,19,2010 Arkansas
+506,2008,Arkansas,SEC,rushingYards,1357,2008 Arkansas
+507,2014,Arkansas,SEC,thirdDownConversions,88,2014 Arkansas
+508,2016,Arkansas,SEC,penalties,80,2016 Arkansas
+509,2021,Arkansas,SEC,rushingTDs,26,2021 Arkansas
+510,2012,Arkansas,SEC,passCompletions,272,2012 Arkansas
+512,2014,Arkansas,SEC,rushingYards,2834,2014 Arkansas
+514,2015,Arkansas,SEC,passAttempts,374,2015 Arkansas
+515,2009,Arkansas,SEC,kickReturnTDs,1,2009 Arkansas
+516,2005,Arkansas,SEC,rushingAttempts,481,2005 Arkansas
+517,2008,Arkansas,SEC,kickReturnYards,109,2008 Arkansas
+518,2021,Arkansas,SEC,games,13,2021 Arkansas
+519,2014,Arkansas,SEC,fourthDowns,19,2014 Arkansas
+520,2005,Arkansas,SEC,fumblesRecovered,12,2005 Arkansas
+521,2022,Arkansas,SEC,penaltyYards,388,2022 Arkansas
+522,2005,Arkansas,SEC,passesIntercepted,12,2005 Arkansas
+523,2018,Arkansas,SEC,passAttempts,370,2018 Arkansas
+524,2011,Arkansas,SEC,passesIntercepted,12,2011 Arkansas
+525,2018,Arkansas,SEC,interceptionYards,5,2018 Arkansas
+526,2015,Arkansas,SEC,firstDowns,304,2015 Arkansas
+527,2006,Arkansas,SEC,netPassingYards,2163,2006 Arkansas
+529,2007,Arkansas,SEC,thirdDowns,195,2007 Arkansas
+530,2010,Arkansas,SEC,rushingAttempts,421,2010 Arkansas
+531,2004,Arkansas,SEC,penalties,0,2004 Arkansas
+533,2019,Arkansas,SEC,tacklesForLoss,76,2019 Arkansas
+534,2007,Arkansas,SEC,fourthDowns,19,2007 Arkansas
+535,2020,Arkansas,SEC,interceptions,6,2020 Arkansas
+537,2021,Arkansas,SEC,passAttempts,314,2021 Arkansas
+538,2019,Arkansas,SEC,passCompletions,202,2019 Arkansas
+539,2017,Arkansas,SEC,kickReturnTDs,1,2017 Arkansas
+540,2006,Arkansas,SEC,interceptionTDs,3,2006 Arkansas
+541,2008,Arkansas,SEC,netPassingYards,3251,2008 Arkansas
+542,2005,Arkansas,SEC,fumblesLost,11,2005 Arkansas
+543,2013,Arkansas,SEC,thirdDownConversions,65,2013 Arkansas
+544,2005,Arkansas,SEC,penalties,0,2005 Arkansas
+545,2018,Arkansas,SEC,rushingAttempts,440,2018 Arkansas
+546,2008,Arkansas,SEC,thirdDownConversions,63,2008 Arkansas
+548,2021,Arkansas,SEC,rushingYards,2961,2021 Arkansas
+549,2006,Arkansas,SEC,rushingTDs,26,2006 Arkansas
+550,2016,Arkansas,SEC,thirdDownConversions,70,2016 Arkansas
+551,2020,Arkansas,SEC,rushingTDs,11,2020 Arkansas
+552,2020,Arkansas,SEC,puntReturnTDs,0,2020 Arkansas
+553,2012,Arkansas,SEC,games,12,2012 Arkansas
+554,2013,Arkansas,SEC,interceptions,11,2013 Arkansas
+555,2011,Arkansas,SEC,interceptionYards,215,2011 Arkansas
+556,2021,Arkansas,SEC,netPassingYards,2781,2021 Arkansas
+557,2019,Arkansas,SEC,rushingTDs,14,2019 Arkansas
+558,2009,Arkansas,SEC,passingTDs,32,2009 Arkansas
+559,2008,Arkansas,SEC,interceptions,18,2008 Arkansas
+560,2016,Arkansas,SEC,penaltyYards,680,2016 Arkansas
+561,2004,Arkansas,SEC,passesIntercepted,6,2004 Arkansas
+562,2016,Arkansas,SEC,totalYards,5569,2016 Arkansas
+563,2004,Arkansas,SEC,turnovers,20,2004 Arkansas
+565,2009,Arkansas,SEC,penalties,85,2009 Arkansas
+566,2019,Arkansas,SEC,kickReturns,42,2019 Arkansas
+567,2006,Arkansas,SEC,passAttempts,302,2006 Arkansas
+568,2012,Arkansas,SEC,netPassingYards,3618,2012 Arkansas
+569,2009,Arkansas,SEC,rushingAttempts,395,2009 Arkansas
+570,2009,Arkansas,SEC,interceptionYards,222,2009 Arkansas
+571,2017,Arkansas,SEC,fourthDownConversions,9,2017 Arkansas
+572,2008,Arkansas,SEC,kickReturns,7,2008 Arkansas
+575,2020,Arkansas,SEC,kickReturnTDs,0,2020 Arkansas
+576,2007,Arkansas,SEC,passAttempts,313,2007 Arkansas
+577,2015,Arkansas,SEC,fourthDowns,21,2015 Arkansas
+578,2022,Arkansas,SEC,thirdDownConversions,41,2022 Arkansas
+581,2007,Arkansas,SEC,fumblesLost,15,2007 Arkansas
+582,2010,Arkansas,SEC,puntReturnYards,311,2010 Arkansas
+583,2011,Arkansas,SEC,interceptionTDs,0,2011 Arkansas
+584,2019,Arkansas,SEC,kickReturnTDs,0,2019 Arkansas
+585,2021,Arkansas,SEC,passCompletions,205,2021 Arkansas
+586,2006,Arkansas,SEC,penaltyYards,743,2006 Arkansas
+587,2011,Arkansas,SEC,netPassingYards,4095,2011 Arkansas
+589,2011,Arkansas,SEC,passCompletions,299,2011 Arkansas
+590,2006,Arkansas,SEC,totalYards,4864,2006 Arkansas
+591,2017,Arkansas,SEC,interceptionYards,143,2017 Arkansas
+592,2022,Arkansas,SEC,rushingYards,1403,2022 Arkansas
+594,2020,Arkansas,SEC,passingTDs,20,2020 Arkansas
+595,2013,Arkansas,SEC,totalYards,4286,2013 Arkansas
+596,2007,Arkansas,SEC,fumblesRecovered,10,2007 Arkansas
+598,2017,Arkansas,SEC,interceptionTDs,0,2017 Arkansas
+600,2018,Arkansas,SEC,firstDowns,219,2018 Arkansas
+601,2016,Arkansas,SEC,kickReturnYards,684,2016 Arkansas
+602,2011,Arkansas,SEC,rushingTDs,25,2011 Arkansas
+603,2009,Arkansas,SEC,passCompletions,247,2009 Arkansas
+604,2006,Arkansas,SEC,puntReturns,45,2006 Arkansas
+605,2010,Arkansas,SEC,totalYards,6273,2010 Arkansas
+606,2020,Arkansas,SEC,passCompletions,182,2020 Arkansas
+607,2005,Arkansas,SEC,interceptions,12,2005 Arkansas
+608,2016,Arkansas,SEC,puntReturns,17,2016 Arkansas
+609,2004,Arkansas,SEC,fumblesLost,7,2004 Arkansas
+610,2012,Arkansas,SEC,fumblesRecovered,6,2012 Arkansas
+612,2022,Arkansas,SEC,fourthDownConversions,5,2022 Arkansas
+613,2015,Arkansas,SEC,puntReturnTDs,0,2015 Arkansas
+614,2019,Arkansas,SEC,kickReturnYards,649,2019 Arkansas
+615,2012,Arkansas,SEC,kickReturnTDs,0,2012 Arkansas
+616,2011,Arkansas,SEC,rushingYards,1786,2011 Arkansas
+617,2022,Arkansas,SEC,puntReturnYards,130,2022 Arkansas
+618,2004,Arkansas,SEC,puntReturnYards,126,2004 Arkansas
+619,2007,Arkansas,SEC,netPassingYards,2229,2007 Arkansas
+620,2005,Arkansas,SEC,games,11,2005 Arkansas
+622,2020,Arkansas,SEC,puntReturns,4,2020 Arkansas
+623,2011,Arkansas,SEC,puntReturnTDs,4,2011 Arkansas
+624,2016,Arkansas,SEC,interceptionYards,229,2016 Arkansas
+625,2012,Arkansas,SEC,passesIntercepted,6,2012 Arkansas
+626,2009,Arkansas,SEC,turnovers,15,2009 Arkansas
+627,2022,Arkansas,SEC,rushingTDs,12,2022 Arkansas
+629,2015,Arkansas,SEC,games,13,2015 Arkansas
+630,2020,Arkansas,SEC,penalties,64,2020 Arkansas
+631,2022,Arkansas,SEC,interceptions,3,2022 Arkansas
+632,2007,Arkansas,SEC,passingTDs,24,2007 Arkansas
+633,2019,Arkansas,SEC,totalYards,4081,2019 Arkansas
+634,2008,Arkansas,SEC,passingTDs,19,2008 Arkansas
+635,2016,Arkansas,SEC,kickReturns,36,2016 Arkansas
+636,2006,Arkansas,SEC,fourthDownConversions,4,2006 Arkansas
+638,2008,Arkansas,SEC,penaltyYards,584,2008 Arkansas
+639,2009,Arkansas,SEC,kickReturns,56,2009 Arkansas
+640,2015,Arkansas,SEC,rushingTDs,31,2015 Arkansas
+641,2015,Arkansas,SEC,passCompletions,246,2015 Arkansas
+642,2020,Arkansas,SEC,interceptionYards,172,2020 Arkansas
+643,2022,Arkansas,SEC,fourthDowns,11,2022 Arkansas
+644,2021,Arkansas,SEC,interceptions,5,2021 Arkansas
+645,2021,Arkansas,SEC,passesIntercepted,13,2021 Arkansas
+646,2019,Arkansas,SEC,thirdDowns,166,2019 Arkansas
+647,2017,Arkansas,SEC,thirdDowns,165,2017 Arkansas
+648,2019,Arkansas,SEC,fourthDownConversions,8,2019 Arkansas
+649,2020,Arkansas,SEC,turnovers,13,2020 Arkansas
+650,2009,Arkansas,SEC,fumblesLost,6,2009 Arkansas
+651,2010,Arkansas,SEC,firstDowns,291,2010 Arkansas
+652,2015,Arkansas,SEC,puntReturns,14,2015 Arkansas
+653,2014,Arkansas,SEC,games,13,2014 Arkansas
+655,2013,Arkansas,SEC,penalties,49,2013 Arkansas
+656,2012,Arkansas,SEC,possessionTime,21362,2012 Arkansas
+657,2016,Arkansas,SEC,thirdDowns,176,2016 Arkansas
+658,2019,Arkansas,SEC,interceptionTDs,0,2019 Arkansas
+659,2012,Arkansas,SEC,rushingTDs,12,2012 Arkansas
+660,2017,Arkansas,SEC,kickReturnYards,957,2017 Arkansas
+661,2005,Arkansas,SEC,puntReturns,40,2005 Arkansas
+662,2019,Arkansas,SEC,puntReturnYards,160,2019 Arkansas
+663,2015,Arkansas,SEC,fourthDownConversions,12,2015 Arkansas
+664,2006,Arkansas,SEC,passesIntercepted,16,2006 Arkansas
+665,2020,Arkansas,SEC,rushingAttempts,394,2020 Arkansas
+666,2016,Arkansas,SEC,passCompletions,247,2016 Arkansas
+667,2015,Arkansas,SEC,thirdDownConversions,75,2015 Arkansas
+668,2014,Arkansas,SEC,puntReturns,22,2014 Arkansas
+669,2008,Arkansas,SEC,kickReturnTDs,0,2008 Arkansas
+671,2007,Arkansas,SEC,possessionTime,14771,2007 Arkansas
+672,2020,Arkansas,SEC,firstDowns,206,2020 Arkansas
+0,2010,Texas,Big 12,rushingTDs,19,2010 Texas
+2,2009,Texas,Big 12,fourthDownConversions,8,2009 Texas
+3,2013,Texas,Big 12,netPassingYards,2762,2013 Texas
+4,2021,Texas,Big 12,firstDowns,244,2021 Texas
+5,2007,Texas,Big 12,puntReturnYards,182,2007 Texas
+6,2018,Texas,Big 12,rushingAttempts,568,2018 Texas
+7,2017,Texas,Big 12,thirdDownConversions,86,2017 Texas
+8,2017,Texas,Big 12,rushingYards,1815,2017 Texas
+10,2022,Texas,Big 12,passAttempts,175,2022 Texas
+11,2020,Texas,Big 12,fourthDowns,12,2020 Texas
+12,2015,Texas,Big 12,fumblesRecovered,12,2015 Texas
+13,2014,Texas,Big 12,passAttempts,418,2014 Texas
+14,2006,Texas,Big 12,rushingTDs,22,2006 Texas
+15,2012,Texas,Big 12,firstDowns,281,2012 Texas
+17,2004,Texas,Big 12,netPassingYards,2069,2004 Texas
+19,2021,Texas,Big 12,fumblesLost,7,2021 Texas
+20,2005,Texas,Big 12,rushingAttempts,605,2005 Texas
+21,2020,Texas,Big 12,kickReturnTDs,1,2020 Texas
+22,2013,Texas,Big 12,puntReturnYards,355,2013 Texas
+23,2022,Texas,Big 12,thirdDowns,69,2022 Texas
+24,2009,Texas,Big 12,kickReturns,43,2009 Texas
+25,2014,Texas,Big 12,games,13,2014 Texas
+26,2022,Texas,Big 12,interceptionYards,119,2022 Texas
+27,2007,Texas,Big 12,thirdDownConversions,92,2007 Texas
+28,2021,Texas,Big 12,rushingTDs,25,2021 Texas
+29,2017,Texas,Big 12,puntReturns,20,2017 Texas
+30,2011,Texas,Big 12,thirdDownConversions,90,2011 Texas
+31,2006,Texas,Big 12,firstDowns,283,2006 Texas
+32,2008,Texas,Big 12,passAttempts,447,2008 Texas
+33,2017,Texas,Big 12,fumblesLost,7,2017 Texas
+34,2020,Texas,Big 12,games,10,2020 Texas
+35,2018,Texas,Big 12,kickReturns,22,2018 Texas
+36,2018,Texas,Big 12,passesIntercepted,12,2018 Texas
+37,2020,Texas,Big 12,totalYards,4755,2020 Texas
+39,2008,Texas,Big 12,fumblesLost,7,2008 Texas
+41,2020,Texas,Big 12,interceptionYards,184,2020 Texas
+42,2008,Texas,Big 12,fourthDownConversions,13,2008 Texas
+43,2014,Texas,Big 12,possessionTime,23142,2014 Texas
+44,2006,Texas,Big 12,thirdDownConversions,65,2006 Texas
+45,2004,Texas,Big 12,fumblesRecovered,11,2004 Texas
+46,2020,Texas,Big 12,possessionTime,16565,2020 Texas
+48,2007,Texas,Big 12,rushingAttempts,539,2007 Texas
+49,2014,Texas,Big 12,interceptions,11,2014 Texas
+50,2007,Texas,Big 12,puntReturnTDs,0,2007 Texas
+51,2008,Texas,Big 12,penalties,82,2008 Texas
+52,2018,Texas,Big 12,fumblesRecovered,8,2018 Texas
+53,2022,Texas,Big 12,kickReturnTDs,0,2022 Texas
+54,2013,Texas,Big 12,fourthDownConversions,11,2013 Texas
+55,2008,Texas,Big 12,passingTDs,36,2008 Texas
+56,2010,Texas,Big 12,passAttempts,445,2010 Texas
+57,2011,Texas,Big 12,passingTDs,16,2011 Texas
+58,2009,Texas,Big 12,passAttempts,540,2009 Texas
+59,2022,Texas,Big 12,fourthDowns,6,2022 Texas
+61,2010,Texas,Big 12,games,12,2010 Texas
+62,2019,Texas,Big 12,possessionTime,24006,2019 Texas
+63,2007,Texas,Big 12,passesIntercepted,17,2007 Texas
+64,2021,Texas,Big 12,sacks,20,2021 Texas
+65,2004,Texas,Big 12,interceptionTDs,1,2004 Texas
+66,2016,Texas,Big 12,penaltyYards,769,2016 Texas
+67,2016,Texas,Big 12,rushingTDs,27,2016 Texas
+68,2013,Texas,Big 12,kickReturns,43,2013 Texas
+69,2018,Texas,Big 12,penalties,100,2018 Texas
+71,2016,Texas,Big 12,turnovers,23,2016 Texas
+72,2011,Texas,Big 12,interceptionYards,125,2011 Texas
+73,2016,Texas,Big 12,passingTDs,21,2016 Texas
+74,2006,Texas,Big 12,fumblesLost,15,2006 Texas
+75,2012,Texas,Big 12,penaltyYards,555,2012 Texas
+76,2011,Texas,Big 12,fourthDowns,18,2011 Texas
+77,2021,Texas,Big 12,tacklesForLoss,72,2021 Texas
+78,2008,Texas,Big 12,possessionTime,15472,2008 Texas
+79,2016,Texas,Big 12,interceptionTDs,0,2016 Texas
+80,2006,Texas,Big 12,fourthDowns,16,2006 Texas
+81,2010,Texas,Big 12,interceptionYards,151,2010 Texas
+83,2008,Texas,Big 12,puntReturnTDs,1,2008 Texas
+84,2015,Texas,Big 12,passesIntercepted,13,2015 Texas
+85,2007,Texas,Big 12,firstDowns,311,2007 Texas
+86,2007,Texas,Big 12,fumblesLost,11,2007 Texas
+87,2006,Texas,Big 12,puntReturnYards,362,2006 Texas
+88,2017,Texas,Big 12,possessionTime,24467,2017 Texas
+89,2020,Texas,Big 12,turnovers,9,2020 Texas
+90,2012,Texas,Big 12,possessionTime,24164,2012 Texas
+91,2019,Texas,Big 12,turnovers,14,2019 Texas
+92,2021,Texas,Big 12,puntReturnYards,174,2021 Texas
+93,2006,Texas,Big 12,puntReturns,50,2006 Texas
+94,2019,Texas,Big 12,penaltyYards,890,2019 Texas
+96,2014,Texas,Big 12,kickReturns,39,2014 Texas
+97,2016,Texas,Big 12,interceptions,12,2016 Texas
+98,2011,Texas,Big 12,kickReturns,53,2011 Texas
+99,2016,Texas,Big 12,kickReturns,42,2016 Texas
+102,2015,Texas,Big 12,possessionTime,19526,2015 Texas
+103,2007,Texas,Big 12,possessionTime,14521,2007 Texas
+104,2021,Texas,Big 12,puntReturnTDs,0,2021 Texas
+105,2004,Texas,Big 12,passesIntercepted,13,2004 Texas
+108,2015,Texas,Big 12,puntReturnYards,279,2015 Texas
+109,2012,Texas,Big 12,fourthDownConversions,13,2012 Texas
+110,2016,Texas,Big 12,kickReturnTDs,0,2016 Texas
+111,2016,Texas,Big 12,possessionTime,20352,2016 Texas
+113,2021,Texas,Big 12,turnovers,17,2021 Texas
+114,2020,Texas,Big 12,puntReturnTDs,1,2020 Texas
+115,2015,Texas,Big 12,netPassingYards,1751,2015 Texas
+117,2018,Texas,Big 12,possessionTime,26932,2018 Texas
+118,2011,Texas,Big 12,kickReturnTDs,2,2011 Texas
+120,2019,Texas,Big 12,puntReturns,17,2019 Texas
+122,2014,Texas,Big 12,passesIntercepted,15,2014 Texas
+123,2017,Texas,Big 12,thirdDowns,226,2017 Texas
+124,2019,Texas,Big 12,passesIntercepted,12,2019 Texas
+125,2016,Texas,Big 12,interceptionYards,101,2016 Texas
+126,2017,Texas,Big 12,interceptionYards,328,2017 Texas
+128,2014,Texas,Big 12,puntReturnTDs,0,2014 Texas
+130,2016,Texas,Big 12,firstDowns,302,2016 Texas
+131,2004,Texas,Big 12,puntReturns,34,2004 Texas
+132,2005,Texas,Big 12,fumblesRecovered,20,2005 Texas
+133,2017,Texas,Big 12,sacks,31,2017 Texas
+134,2013,Texas,Big 12,firstDowns,273,2013 Texas
+135,2016,Texas,Big 12,kickReturnYards,773,2016 Texas
+136,2013,Texas,Big 12,kickReturnTDs,0,2013 Texas
+137,2018,Texas,Big 12,passingTDs,28,2018 Texas
+139,2017,Texas,Big 12,games,13,2017 Texas
+140,2010,Texas,Big 12,fumblesLost,13,2010 Texas
+141,2011,Texas,Big 12,games,13,2011 Texas
+143,2009,Texas,Big 12,firstDowns,332,2009 Texas
+144,2022,Texas,Big 12,puntReturnTDs,1,2022 Texas
+145,2005,Texas,Big 12,penalties,0,2005 Texas
+146,2006,Texas,Big 12,passesIntercepted,13,2006 Texas
+147,2020,Texas,Big 12,rushingYards,1954,2020 Texas
+148,2005,Texas,Big 12,possessionTime,14716,2005 Texas
+149,2016,Texas,Big 12,fumblesRecovered,8,2016 Texas
+150,2016,Texas,Big 12,rushingYards,2871,2016 Texas
+152,2021,Texas,Big 12,passCompletions,217,2021 Texas
+153,2018,Texas,Big 12,games,14,2018 Texas
+155,2014,Texas,Big 12,firstDowns,232,2014 Texas
+156,2022,Texas,Big 12,games,12,2022 Texas
+157,2022,Texas,Big 12,passesIntercepted,4,2022 Texas
+158,2015,Texas,Big 12,games,12,2015 Texas
+159,2021,Texas,Big 12,passesIntercepted,7,2021 Texas
+160,2009,Texas,Big 12,rushingTDs,28,2009 Texas
+161,2021,Texas,Big 12,fourthDownConversions,9,2021 Texas
+162,2014,Texas,Big 12,rushingAttempts,474,2014 Texas
+163,2013,Texas,Big 12,passCompletions,246,2013 Texas
+164,2022,Texas,Big 12,thirdDownConversions,30,2022 Texas
+166,2021,Texas,Big 12,interceptionTDs,1,2021 Texas
+167,2010,Texas,Big 12,rushingAttempts,433,2010 Texas
+168,2017,Texas,Big 12,netPassingYards,3365,2017 Texas
+169,2020,Texas,Big 12,sacks,15,2020 Texas
+171,2015,Texas,Big 12,firstDowns,202,2015 Texas
+173,2005,Texas,Big 12,fourthDownConversions,10,2005 Texas
+174,2012,Texas,Big 12,passCompletions,268,2012 Texas
+175,2007,Texas,Big 12,puntReturns,39,2007 Texas
+176,2018,Texas,Big 12,thirdDownConversions,96,2018 Texas
+177,2012,Texas,Big 12,puntReturnYards,123,2012 Texas
+178,2012,Texas,Big 12,totalYards,5650,2012 Texas
+179,2010,Texas,Big 12,penalties,75,2010 Texas
+180,2018,Texas,Big 12,interceptionTDs,0,2018 Texas
+182,2012,Texas,Big 12,fumblesLost,5,2012 Texas
+184,2009,Texas,Big 12,passCompletions,362,2009 Texas
+185,2020,Texas,Big 12,fumblesLost,4,2020 Texas
+187,2013,Texas,Big 12,puntReturnTDs,1,2013 Texas
+188,2006,Texas,Big 12,penalties,70,2006 Texas
+190,2009,Texas,Big 12,turnovers,27,2009 Texas
+191,2012,Texas,Big 12,passesIntercepted,15,2012 Texas
+192,2017,Texas,Big 12,penalties,92,2017 Texas
+193,2004,Texas,Big 12,fourthDowns,14,2004 Texas
+194,2022,Texas,Big 12,penalties,33,2022 Texas
+195,2019,Texas,Big 12,fumblesLost,4,2019 Texas
+196,2008,Texas,Big 12,puntReturns,35,2008 Texas
+197,2007,Texas,Big 12,rushingYards,2698,2007 Texas
+198,2018,Texas,Big 12,turnovers,10,2018 Texas
+199,2017,Texas,Big 12,fourthDowns,30,2017 Texas
+200,2008,Texas,Big 12,fourthDowns,16,2008 Texas
+201,2022,Texas,Big 12,passCompletions,121,2022 Texas
+202,2013,Texas,Big 12,games,13,2013 Texas
+204,2011,Texas,Big 12,firstDowns,262,2011 Texas
+205,2004,Texas,Big 12,turnovers,19,2004 Texas
+206,2013,Texas,Big 12,passesIntercepted,10,2013 Texas
+207,2016,Texas,Big 12,tacklesForLoss,93,2016 Texas
+208,2007,Texas,Big 12,interceptionYards,219,2007 Texas
+209,2019,Texas,Big 12,kickReturnYards,450,2019 Texas
+211,2012,Texas,Big 12,fumblesRecovered,6,2012 Texas
+212,2014,Texas,Big 12,netPassingYards,2599,2014 Texas
+214,2019,Texas,Big 12,netPassingYards,3761,2019 Texas
+215,2014,Texas,Big 12,interceptionTDs,2,2014 Texas
+216,2022,Texas,Big 12,puntReturnYards,83,2022 Texas
+217,2013,Texas,Big 12,interceptions,15,2013 Texas
+218,2014,Texas,Big 12,puntReturns,22,2014 Texas
+219,2005,Texas,Big 12,puntReturnTDs,4,2005 Texas
+220,2020,Texas,Big 12,fourthDownConversions,6,2020 Texas
+221,2014,Texas,Big 12,interceptionYards,183,2014 Texas
+222,2020,Texas,Big 12,fumblesRecovered,8,2020 Texas
+223,2015,Texas,Big 12,interceptionTDs,1,2015 Texas
+224,2016,Texas,Big 12,games,12,2016 Texas
+225,2006,Texas,Big 12,penaltyYards,631,2006 Texas
+227,2021,Texas,Big 12,fumblesRecovered,8,2021 Texas
+229,2013,Texas,Big 12,kickReturnYards,862,2013 Texas
+230,2022,Texas,Big 12,interceptionTDs,2,2022 Texas
+231,2013,Texas,Big 12,fourthDowns,24,2013 Texas
+233,2016,Texas,Big 12,fourthDowns,22,2016 Texas
+234,2020,Texas,Big 12,penaltyYards,790,2020 Texas
+235,2008,Texas,Big 12,netPassingYards,4187,2008 Texas
+238,2014,Texas,Big 12,kickReturnYards,763,2014 Texas
+239,2015,Texas,Big 12,interceptionYards,239,2015 Texas
+240,2014,Texas,Big 12,kickReturnTDs,0,2014 Texas
+241,2004,Texas,Big 12,passCompletions,159,2004 Texas
+242,2013,Texas,Big 12,thirdDowns,222,2013 Texas
+243,2022,Texas,Big 12,kickReturns,8,2022 Texas
+244,2004,Texas,Big 12,puntReturnYards,185,2004 Texas
+245,2008,Texas,Big 12,thirdDownConversions,95,2008 Texas
+246,2021,Texas,Big 12,rushingYards,2392,2021 Texas
+247,2012,Texas,Big 12,passAttempts,399,2012 Texas
+248,2012,Texas,Big 12,thirdDownConversions,87,2012 Texas
+250,2004,Texas,Big 12,penalties,0,2004 Texas
+251,2019,Texas,Big 12,rushingTDs,26,2019 Texas
+252,2018,Texas,Big 12,rushingYards,2134,2018 Texas
+253,2006,Texas,Big 12,fumblesRecovered,25,2006 Texas
+254,2018,Texas,Big 12,fourthDownConversions,13,2018 Texas
+255,2019,Texas,Big 12,puntReturnTDs,0,2019 Texas
+256,2005,Texas,Big 12,passCompletions,218,2005 Texas
+257,2008,Texas,Big 12,penaltyYards,708,2008 Texas
+258,2019,Texas,Big 12,tacklesForLoss,103,2019 Texas
+259,2020,Texas,Big 12,interceptions,5,2020 Texas
+260,2011,Texas,Big 12,kickReturnYards,1276,2011 Texas
+261,2022,Texas,Big 12,tacklesForLoss,45,2022 Texas
+262,2010,Texas,Big 12,puntReturns,36,2010 Texas
+263,2013,Texas,Big 12,totalYards,5313,2013 Texas
+265,2005,Texas,Big 12,firstDowns,321,2005 Texas
+266,2017,Texas,Big 12,interceptions,11,2017 Texas
+267,2007,Texas,Big 12,interceptions,18,2007 Texas
+268,2010,Texas,Big 12,totalYards,4590,2010 Texas
+269,2015,Texas,Big 12,penaltyYards,709,2015 Texas
+270,2014,Texas,Big 12,passCompletions,243,2014 Texas
+271,2008,Texas,Big 12,passesIntercepted,6,2008 Texas
+272,2022,Texas,Big 12,penaltyYards,259,2022 Texas
+273,2012,Texas,Big 12,puntReturns,14,2012 Texas
+274,2011,Texas,Big 12,turnovers,26,2011 Texas
+275,2004,Texas,Big 12,fourthDownConversions,8,2004 Texas
+276,2005,Texas,Big 12,interceptionYards,90,2005 Texas
+277,2017,Texas,Big 12,passingTDs,18,2017 Texas
+278,2018,Texas,Big 12,puntReturns,15,2018 Texas
+280,2016,Texas,Big 12,sacks,41,2016 Texas
+282,2005,Texas,Big 12,totalYards,6657,2005 Texas
+283,2017,Texas,Big 12,rushingAttempts,507,2017 Texas
+285,2008,Texas,Big 12,interceptions,8,2008 Texas
+286,2005,Texas,Big 12,rushingTDs,47,2005 Texas
+287,2008,Texas,Big 12,games,13,2008 Texas
+288,2020,Texas,Big 12,interceptionTDs,0,2020 Texas
+289,2015,Texas,Big 12,thirdDowns,173,2015 Texas
+291,2011,Texas,Big 12,passesIntercepted,12,2011 Texas
+292,2016,Texas,Big 12,puntReturnYards,182,2016 Texas
+293,2008,Texas,Big 12,fumblesRecovered,12,2008 Texas
+294,2014,Texas,Big 12,fumblesRecovered,7,2014 Texas
+295,2018,Texas,Big 12,puntReturnTDs,1,2018 Texas
+296,2007,Texas,Big 12,passCompletions,277,2007 Texas
+297,2010,Texas,Big 12,puntReturnYards,302,2010 Texas
+298,2010,Texas,Big 12,passingTDs,10,2010 Texas
+299,2008,Texas,Big 12,rushingTDs,33,2008 Texas
+300,2012,Texas,Big 12,rushingAttempts,492,2012 Texas
+301,2011,Texas,Big 12,fumblesRecovered,14,2011 Texas
+302,2011,Texas,Big 12,puntReturnYards,269,2011 Texas
+303,2016,Texas,Big 12,thirdDowns,195,2016 Texas
+304,2009,Texas,Big 12,penaltyYards,802,2009 Texas
+305,2011,Texas,Big 12,rushingAttempts,589,2011 Texas
+307,2015,Texas,Big 12,passingTDs,9,2015 Texas
+308,2014,Texas,Big 12,rushingYards,1786,2014 Texas
+309,2022,Texas,Big 12,netPassingYards,1604,2022 Texas
+310,2019,Texas,Big 12,games,13,2019 Texas
+312,2022,Texas,Big 12,puntReturns,12,2022 Texas
+313,2010,Texas,Big 12,kickReturns,39,2010 Texas
+314,2016,Texas,Big 12,rushingAttempts,597,2016 Texas
+315,2005,Texas,Big 12,fourthDowns,20,2005 Texas
+316,2017,Texas,Big 12,passesIntercepted,16,2017 Texas
+317,2005,Texas,Big 12,turnovers,21,2005 Texas
+319,2006,Texas,Big 12,interceptionYards,110,2006 Texas
+320,2022,Texas,Big 12,rushingAttempts,210,2022 Texas
+321,2010,Texas,Big 12,thirdDownConversions,77,2010 Texas
+322,2021,Texas,Big 12,passAttempts,346,2021 Texas
+323,2010,Texas,Big 12,firstDowns,241,2010 Texas
+324,2010,Texas,Big 12,fourthDowns,17,2010 Texas
+325,2011,Texas,Big 12,penalties,84,2011 Texas
+327,2020,Texas,Big 12,penalties,82,2020 Texas
+328,2016,Texas,Big 12,fourthDownConversions,11,2016 Texas
+329,2004,Texas,Big 12,penaltyYards,0,2004 Texas
+330,2006,Texas,Big 12,passingTDs,31,2006 Texas
+331,2015,Texas,Big 12,thirdDownConversions,61,2015 Texas
+332,2009,Texas,Big 12,passingTDs,29,2009 Texas
+333,2022,Texas,Big 12,fourthDownConversions,5,2022 Texas
+334,2011,Texas,Big 12,interceptionTDs,1,2011 Texas
+336,2013,Texas,Big 12,interceptionYards,78,2013 Texas
+338,2008,Texas,Big 12,turnovers,15,2008 Texas
+339,2015,Texas,Big 12,fumblesLost,8,2015 Texas
+340,2019,Texas,Big 12,passingTDs,32,2019 Texas
+341,2011,Texas,Big 12,puntReturnTDs,1,2011 Texas
+342,2004,Texas,Big 12,firstDowns,283,2004 Texas
+343,2021,Texas,Big 12,fourthDowns,20,2021 Texas
+344,2006,Texas,Big 12,interceptions,9,2006 Texas
+346,2006,Texas,Big 12,netPassingYards,3111,2006 Texas
+347,2015,Texas,Big 12,kickReturns,48,2015 Texas
+348,2019,Texas,Big 12,rushingAttempts,480,2019 Texas
+349,2021,Texas,Big 12,possessionTime,20217,2021 Texas
+351,2017,Texas,Big 12,totalYards,5180,2017 Texas
+352,2015,Texas,Big 12,fourthDownConversions,6,2015 Texas
+353,2005,Texas,Big 12,fumblesLost,10,2005 Texas
+354,2008,Texas,Big 12,puntReturnYards,106,2008 Texas
+355,2012,Texas,Big 12,netPassingYards,3421,2012 Texas
+356,2015,Texas,Big 12,kickReturnYards,929,2015 Texas
+357,2014,Texas,Big 12,totalYards,4385,2014 Texas
+360,2010,Texas,Big 12,thirdDowns,192,2010 Texas
+361,2015,Texas,Big 12,puntReturnTDs,1,2015 Texas
+362,2013,Texas,Big 12,puntReturns,34,2013 Texas
+363,2006,Texas,Big 12,games,13,2006 Texas
+364,2021,Texas,Big 12,kickReturnTDs,0,2021 Texas
+365,2020,Texas,Big 12,kickReturns,23,2020 Texas
+366,2014,Texas,Big 12,penalties,77,2014 Texas
+367,2016,Texas,Big 12,penalties,85,2016 Texas
+369,2012,Texas,Big 12,rushingTDs,33,2012 Texas
+370,2004,Texas,Big 12,rushingAttempts,615,2004 Texas
+372,2004,Texas,Big 12,interceptionYards,209,2004 Texas
+373,2020,Texas,Big 12,rushingAttempts,368,2020 Texas
+374,2018,Texas,Big 12,interceptionYards,149,2018 Texas
+375,2010,Texas,Big 12,puntReturnTDs,0,2010 Texas
+376,2007,Texas,Big 12,turnovers,29,2007 Texas
+377,2004,Texas,Big 12,fumblesLost,8,2004 Texas
+379,2013,Texas,Big 12,penalties,67,2013 Texas
+380,2006,Texas,Big 12,puntReturnTDs,3,2006 Texas
+381,2018,Texas,Big 12,netPassingYards,3617,2018 Texas
+382,2008,Texas,Big 12,rushingYards,2177,2008 Texas
+383,2008,Texas,Big 12,rushingAttempts,508,2008 Texas
+384,2013,Texas,Big 12,penaltyYards,597,2013 Texas
+385,2009,Texas,Big 12,passesIntercepted,25,2009 Texas
+386,2017,Texas,Big 12,rushingTDs,24,2017 Texas
+387,2004,Texas,Big 12,possessionTime,14149,2004 Texas
+388,2017,Texas,Big 12,fourthDownConversions,14,2017 Texas
+389,2010,Texas,Big 12,passesIntercepted,8,2010 Texas
+391,2005,Texas,Big 12,interceptions,11,2005 Texas
+392,2017,Texas,Big 12,passAttempts,499,2017 Texas
+393,2009,Texas,Big 12,puntReturnTDs,3,2009 Texas
+394,2020,Texas,Big 12,passingTDs,32,2020 Texas
+396,2008,Texas,Big 12,interceptionYards,105,2008 Texas
+398,2020,Texas,Big 12,firstDowns,224,2020 Texas
+399,2006,Texas,Big 12,passCompletions,244,2006 Texas
+401,2018,Texas,Big 12,passCompletions,309,2018 Texas
+402,2014,Texas,Big 12,thirdDowns,201,2014 Texas
+403,2011,Texas,Big 12,rushingYards,2634,2011 Texas
+404,2006,Texas,Big 12,turnovers,24,2006 Texas
+405,2018,Texas,Big 12,kickReturnTDs,0,2018 Texas
+406,2005,Texas,Big 12,passingTDs,26,2005 Texas
+407,2012,Texas,Big 12,interceptions,11,2012 Texas
+409,2011,Texas,Big 12,interceptions,15,2011 Texas
+410,2015,Texas,Big 12,turnovers,14,2015 Texas
+411,2021,Texas,Big 12,interceptions,10,2021 Texas
+412,2014,Texas,Big 12,rushingTDs,18,2014 Texas
+413,2017,Texas,Big 12,turnovers,18,2017 Texas
+414,2017,Texas,Big 12,puntReturnTDs,1,2017 Texas
+416,2020,Texas,Big 12,puntReturnYards,78,2020 Texas
+418,2006,Texas,Big 12,rushingYards,2114,2006 Texas
+419,2012,Texas,Big 12,puntReturnTDs,0,2012 Texas
+420,2011,Texas,Big 12,rushingTDs,24,2011 Texas
+421,2021,Texas,Big 12,games,12,2021 Texas
+422,2018,Texas,Big 12,thirdDowns,207,2018 Texas
+423,2019,Texas,Big 12,passAttempts,470,2019 Texas
+425,2021,Texas,Big 12,thirdDowns,160,2021 Texas
+426,2008,Texas,Big 12,firstDowns,352,2008 Texas
+428,2021,Texas,Big 12,puntReturns,17,2021 Texas
+429,2015,Texas,Big 12,rushingYards,2698,2015 Texas
+430,2015,Texas,Big 12,rushingTDs,27,2015 Texas
+431,2022,Texas,Big 12,kickReturnYards,151,2022 Texas
+432,2016,Texas,Big 12,passesIntercepted,10,2016 Texas
+433,2004,Texas,Big 12,passingTDs,12,2004 Texas
+435,2021,Texas,Big 12,kickReturns,28,2021 Texas
+438,2021,Texas,Big 12,penalties,69,2021 Texas
+441,2015,Texas,Big 12,kickReturnTDs,0,2015 Texas
+442,2006,Texas,Big 12,fourthDownConversions,11,2006 Texas
+444,2009,Texas,Big 12,games,14,2009 Texas
+446,2021,Texas,Big 12,passingTDs,29,2021 Texas
+447,2009,Texas,Big 12,rushingAttempts,513,2009 Texas
+448,2011,Texas,Big 12,penaltyYards,722,2011 Texas
+449,2012,Texas,Big 12,kickReturns,44,2012 Texas
+453,2013,Texas,Big 12,rushingAttempts,574,2013 Texas
+454,2016,Texas,Big 12,netPassingYards,3024,2016 Texas
+455,2009,Texas,Big 12,kickReturnTDs,3,2009 Texas
+456,2021,Texas,Big 12,rushingAttempts,457,2021 Texas
+457,2004,Texas,Big 12,totalYards,5573,2004 Texas
+458,2006,Texas,Big 12,thirdDowns,156,2006 Texas
+459,2012,Texas,Big 12,kickReturnTDs,1,2012 Texas
+460,2022,Texas,Big 12,passingTDs,13,2022 Texas
+462,2010,Texas,Big 12,fourthDownConversions,10,2010 Texas
+463,2010,Texas,Big 12,penaltyYards,664,2010 Texas
+464,2010,Texas,Big 12,passCompletions,262,2010 Texas
+465,2022,Texas,Big 12,rushingTDs,13,2022 Texas
+466,2015,Texas,Big 12,fourthDowns,15,2015 Texas
+467,2020,Texas,Big 12,thirdDowns,134,2020 Texas
+468,2012,Texas,Big 12,rushingYards,2229,2012 Texas
+469,2019,Texas,Big 12,passCompletions,306,2019 Texas
+471,2020,Texas,Big 12,thirdDownConversions,49,2020 Texas
+472,2006,Texas,Big 12,rushingAttempts,483,2006 Texas
+473,2018,Texas,Big 12,kickReturnYards,427,2018 Texas
+474,2004,Texas,Big 12,rushingTDs,39,2004 Texas
+475,2019,Texas,Big 12,thirdDownConversions,90,2019 Texas
+476,2005,Texas,Big 12,passAttempts,336,2005 Texas
+477,2011,Texas,Big 12,totalYards,5103,2011 Texas
+478,2019,Texas,Big 12,fumblesRecovered,10,2019 Texas
+481,2012,Texas,Big 12,thirdDowns,179,2012 Texas
+482,2017,Texas,Big 12,kickReturns,27,2017 Texas
+483,2010,Texas,Big 12,rushingYards,1806,2010 Texas
+484,2015,Texas,Big 12,interceptions,6,2015 Texas
+485,2009,Texas,Big 12,puntReturns,68,2009 Texas
+487,2005,Texas,Big 12,interceptionTDs,0,2005 Texas
+488,2007,Texas,Big 12,rushingTDs,35,2007 Texas
+489,2011,Texas,Big 12,thirdDowns,206,2011 Texas
+490,2020,Texas,Big 12,passAttempts,345,2020 Texas
+491,2019,Texas,Big 12,penalties,95,2019 Texas
+492,2009,Texas,Big 12,possessionTime,16430,2009 Texas
+493,2017,Texas,Big 12,passCompletions,298,2017 Texas
+494,2019,Texas,Big 12,thirdDowns,185,2019 Texas
+496,2019,Texas,Big 12,puntReturnYards,155,2019 Texas
+497,2012,Texas,Big 12,passingTDs,25,2012 Texas
+498,2011,Texas,Big 12,passCompletions,207,2011 Texas
+499,2018,Texas,Big 12,tacklesForLoss,99,2018 Texas
+500,2005,Texas,Big 12,thirdDownConversions,77,2005 Texas
+501,2007,Texas,Big 12,interceptionTDs,3,2007 Texas
+502,2020,Texas,Big 12,rushingTDs,20,2020 Texas
+503,2015,Texas,Big 12,puntReturns,23,2015 Texas
+504,2018,Texas,Big 12,totalYards,5751,2018 Texas
+505,2022,Texas,Big 12,sacks,14,2022 Texas
+506,2005,Texas,Big 12,netPassingYards,3186,2005 Texas
+507,2009,Texas,Big 12,netPassingYards,4018,2009 Texas
+509,2009,Texas,Big 12,interceptions,16,2009 Texas
+510,2010,Texas,Big 12,turnovers,30,2010 Texas
+511,2019,Texas,Big 12,fourthDowns,19,2019 Texas
+512,2013,Texas,Big 12,thirdDownConversions,90,2013 Texas
+513,2022,Texas,Big 12,rushingYards,1066,2022 Texas
+514,2011,Texas,Big 12,possessionTime,16036,2011 Texas
+515,2008,Texas,Big 12,interceptionTDs,2,2008 Texas
+516,2019,Texas,Big 12,totalYards,6056,2019 Texas
+517,2018,Texas,Big 12,interceptions,6,2018 Texas
+518,2017,Texas,Big 12,penaltyYards,869,2017 Texas
+519,2009,Texas,Big 12,thirdDowns,209,2009 Texas
+520,2022,Texas,Big 12,turnovers,4,2022 Texas
+521,2019,Texas,Big 12,kickReturnTDs,1,2019 Texas
+522,2017,Texas,Big 12,puntReturnYards,179,2017 Texas
+523,2020,Texas,Big 12,kickReturnYards,666,2020 Texas
+524,2010,Texas,Big 12,netPassingYards,2917,2010 Texas
+525,2009,Texas,Big 12,thirdDownConversions,94,2009 Texas
+526,2015,Texas,Big 12,passAttempts,252,2015 Texas
+527,2012,Texas,Big 12,penalties,67,2012 Texas
+528,2008,Texas,Big 12,totalYards,6185,2008 Texas
+530,2016,Texas,Big 12,puntReturns,28,2016 Texas
+532,2017,Texas,Big 12,tacklesForLoss,83,2017 Texas
+533,2004,Texas,Big 12,games,12,2004 Texas
+534,2018,Texas,Big 12,fourthDowns,15,2018 Texas
+535,2005,Texas,Big 12,penaltyYards,0,2005 Texas
+536,2022,Texas,Big 12,possessionTime,9832,2022 Texas
+538,2020,Texas,Big 12,netPassingYards,2801,2020 Texas
+539,2011,Texas,Big 12,netPassingYards,2715,2011 Texas
+541,2007,Texas,Big 12,fourthDowns,22,2007 Texas
+542,2022,Texas,Big 12,fumblesRecovered,0,2022 Texas
+543,2012,Texas,Big 12,games,13,2012 Texas
+544,2016,Texas,Big 12,fumblesLost,11,2016 Texas
+545,2007,Texas,Big 12,totalYards,6018,2007 Texas
+546,2013,Texas,Big 12,possessionTime,23585,2013 Texas
+547,2012,Texas,Big 12,interceptionYards,107,2012 Texas
+548,2018,Texas,Big 12,firstDowns,324,2018 Texas
+549,2004,Texas,Big 12,rushingYards,3590,2004 Texas
+550,2019,Texas,Big 12,firstDowns,324,2019 Texas
+551,2009,Texas,Big 12,fumblesLost,11,2009 Texas
+552,2019,Texas,Big 12,interceptionYards,100,2019 Texas
+553,2014,Texas,Big 12,passingTDs,14,2014 Texas
+554,2016,Texas,Big 12,puntReturnTDs,0,2016 Texas
+555,2016,Texas,Big 12,thirdDownConversions,70,2016 Texas
+557,2013,Texas,Big 12,fumblesRecovered,16,2013 Texas
+558,2010,Texas,Big 12,kickReturnYards,720,2010 Texas
+559,2022,Texas,Big 12,totalYards,2670,2022 Texas
+560,2018,Texas,Big 12,puntReturnYards,183,2018 Texas
+561,2009,Texas,Big 12,rushingYards,2066,2009 Texas
+562,2011,Texas,Big 12,puntReturns,42,2011 Texas
+563,2015,Texas,Big 12,totalYards,4449,2015 Texas
+564,2012,Texas,Big 12,fourthDowns,23,2012 Texas
+566,2021,Texas,Big 12,thirdDownConversions,70,2021 Texas
+567,2010,Texas,Big 12,kickReturnTDs,0,2010 Texas
+568,2016,Texas,Big 12,passAttempts,402,2016 Texas
+569,2009,Texas,Big 12,interceptionTDs,4,2009 Texas
+570,2014,Texas,Big 12,thirdDownConversions,69,2014 Texas
+571,2006,Texas,Big 12,totalYards,5089,2006 Texas
+572,2004,Texas,Big 12,passAttempts,275,2004 Texas
+573,2020,Texas,Big 12,passCompletions,208,2020 Texas
+574,2012,Texas,Big 12,turnovers,16,2012 Texas
+575,2013,Texas,Big 12,turnovers,22,2013 Texas
+576,2013,Texas,Big 12,rushingTDs,25,2013 Texas
+577,2010,Texas,Big 12,interceptionTDs,1,2010 Texas
+578,2007,Texas,Big 12,fourthDownConversions,14,2007 Texas
+579,2021,Texas,Big 12,interceptionYards,91,2021 Texas
+580,2021,Texas,Big 12,netPassingYards,2705,2021 Texas
+581,2014,Texas,Big 12,puntReturnYards,177,2014 Texas
+583,2007,Texas,Big 12,thirdDowns,194,2007 Texas
+584,2015,Texas,Big 12,passCompletions,139,2015 Texas
+585,2007,Texas,Big 12,games,13,2007 Texas
+586,2008,Texas,Big 12,passCompletions,343,2008 Texas
+587,2007,Texas,Big 12,fumblesRecovered,12,2007 Texas
+588,2007,Texas,Big 12,passAttempts,436,2007 Texas
+590,2015,Texas,Big 12,penalties,77,2015 Texas
+591,2011,Texas,Big 12,passAttempts,358,2011 Texas
+592,2021,Texas,Big 12,kickReturnYards,504,2021 Texas
+593,2020,Texas,Big 12,puntReturns,18,2020 Texas
+594,2005,Texas,Big 12,rushingYards,3574,2005 Texas
+595,2014,Texas,Big 12,fourthDowns,14,2014 Texas
+596,2009,Texas,Big 12,kickReturnYards,1119,2009 Texas
+597,2019,Texas,Big 12,interceptionTDs,0,2019 Texas
+599,2014,Texas,Big 12,fourthDownConversions,7,2014 Texas
+600,2017,Texas,Big 12,firstDowns,266,2017 Texas
+601,2014,Texas,Big 12,penaltyYards,664,2014 Texas
+602,2013,Texas,Big 12,rushingYards,2551,2013 Texas
+603,2018,Texas,Big 12,penaltyYards,853,2018 Texas
+604,2022,Texas,Big 12,firstDowns,147,2022 Texas
+605,2017,Texas,Big 12,kickReturnYards,621,2017 Texas
+607,2019,Texas,Big 12,fourthDownConversions,7,2019 Texas
+608,2011,Texas,Big 12,fumblesLost,11,2011 Texas
+609,2004,Texas,Big 12,thirdDowns,171,2004 Texas
+610,2020,Texas,Big 12,passesIntercepted,10,2020 Texas
+611,2018,Texas,Big 12,fumblesLost,4,2018 Texas
+612,2018,Texas,Big 12,passAttempts,475,2018 Texas
+613,2017,Texas,Big 12,interceptionTDs,5,2017 Texas
+614,2007,Texas,Big 12,penaltyYards,720,2007 Texas
+615,2005,Texas,Big 12,passesIntercepted,11,2005 Texas
+616,2007,Texas,Big 12,penalties,80,2007 Texas
+617,2004,Texas,Big 12,thirdDownConversions,73,2004 Texas
+618,2022,Texas,Big 12,interceptions,3,2022 Texas
+619,2009,Texas,Big 12,fumblesRecovered,12,2009 Texas
+620,2013,Texas,Big 12,interceptionTDs,1,2013 Texas
+621,2010,Texas,Big 12,fumblesRecovered,10,2010 Texas
+622,2009,Texas,Big 12,interceptionYards,349,2009 Texas
+624,2007,Texas,Big 12,netPassingYards,3464,2007 Texas
+625,2022,Texas,Big 12,fumblesLost,1,2022 Texas
+626,2010,Texas,Big 12,interceptions,17,2010 Texas
+627,2017,Texas,Big 12,kickReturnTDs,0,2017 Texas
+628,2019,Texas,Big 12,kickReturns,26,2019 Texas
+629,2011,Texas,Big 12,fourthDownConversions,9,2011 Texas
+630,2016,Texas,Big 12,totalYards,5895,2016 Texas
+633,2005,Texas,Big 12,puntReturnYards,671,2005 Texas
+634,2013,Texas,Big 12,passAttempts,431,2013 Texas
+635,2008,Texas,Big 12,thirdDowns,173,2008 Texas
+636,2021,Texas,Big 12,penaltyYards,579,2021 Texas
+637,2016,Texas,Big 12,passCompletions,241,2016 Texas
+638,2004,Texas,Big 12,puntReturnTDs,1,2004 Texas
+639,2021,Texas,Big 12,totalYards,5097,2021 Texas
+640,2014,Texas,Big 12,fumblesLost,14,2014 Texas
+641,2006,Texas,Big 12,possessionTime,14802,2006 Texas
+642,2015,Texas,Big 12,rushingAttempts,529,2015 Texas
+643,2009,Texas,Big 12,totalYards,5897,2009 Texas
+644,2019,Texas,Big 12,interceptions,10,2019 Texas
+646,2018,Texas,Big 12,sacks,33,2018 Texas
+647,2012,Texas,Big 12,kickReturnYards,996,2012 Texas
+648,2009,Texas,Big 12,penalties,93,2009 Texas
+649,2017,Texas,Big 12,fumblesRecovered,10,2017 Texas
+650,2004,Texas,Big 12,interceptions,11,2004 Texas
+652,2010,Texas,Big 12,possessionTime,14317,2010 Texas
+653,2005,Texas,Big 12,puntReturns,61,2005 Texas
+655,2019,Texas,Big 12,rushingYards,2295,2019 Texas
+656,2005,Texas,Big 12,thirdDowns,173,2005 Texas
+657,2019,Texas,Big 12,sacks,27,2019 Texas
+658,2006,Texas,Big 12,interceptionTDs,1,2006 Texas
+659,2009,Texas,Big 12,fourthDowns,14,2009 Texas
+660,2006,Texas,Big 12,passAttempts,371,2006 Texas
+661,2007,Texas,Big 12,passingTDs,22,2007 Texas
+662,2020,Texas,Big 12,tacklesForLoss,74,2020 Texas
+663,2012,Texas,Big 12,interceptionTDs,2,2012 Texas
+664,2009,Texas,Big 12,puntReturnYards,370,2009 Texas
+665,2013,Texas,Big 12,fumblesLost,7,2013 Texas
+666,2005,Texas,Big 12,games,13,2005 Texas
+668,2013,Texas,Big 12,passingTDs,18,2013 Texas
+669,2018,Texas,Big 12,rushingTDs,24,2018 Texas
+670,2014,Texas,Big 12,turnovers,25,2014 Texas
+0,2014,Alabama,SEC,possessionTime,27657,2014 Alabama
+1,2007,Alabama,SEC,rushingTDs,19,2007 Alabama
+2,2011,Alabama,SEC,games,13,2011 Alabama
+3,2005,Alabama,SEC,penalties,0,2005 Alabama
+5,2006,Alabama,SEC,rushingAttempts,455,2006 Alabama
+6,2007,Alabama,SEC,kickReturnYards,88,2007 Alabama
+7,2011,Alabama,SEC,kickReturnTDs,0,2011 Alabama
+8,2012,Alabama,SEC,fourthDowns,11,2012 Alabama
+9,2007,Alabama,SEC,puntReturns,33,2007 Alabama
+10,2009,Alabama,SEC,totalYards,5642,2009 Alabama
+11,2009,Alabama,SEC,fourthDownConversions,10,2009 Alabama
+12,2011,Alabama,SEC,thirdDownConversions,78,2011 Alabama
+13,2009,Alabama,SEC,rushingYards,3011,2009 Alabama
+14,2022,Alabama,SEC,kickReturns,5,2022 Alabama
+15,2014,Alabama,SEC,fourthDowns,13,2014 Alabama
+16,2021,Alabama,SEC,kickReturnYards,480,2021 Alabama
+18,2016,Alabama,SEC,passingTDs,26,2016 Alabama
+19,2021,Alabama,SEC,rushingYards,2250,2021 Alabama
+20,2020,Alabama,SEC,tacklesForLoss,71,2020 Alabama
+21,2016,Alabama,SEC,kickReturnTDs,0,2016 Alabama
+22,2004,Alabama,SEC,puntReturnYards,270,2004 Alabama
+24,2005,Alabama,SEC,netPassingYards,2846,2005 Alabama
+25,2009,Alabama,SEC,interceptions,5,2009 Alabama
+26,2011,Alabama,SEC,puntReturns,62,2011 Alabama
+27,2009,Alabama,SEC,possessionTime,17106,2009 Alabama
+28,2017,Alabama,SEC,puntReturns,39,2017 Alabama
+30,2010,Alabama,SEC,fumblesLost,9,2010 Alabama
+31,2021,Alabama,SEC,interceptionYards,189,2021 Alabama
+32,2016,Alabama,SEC,fumblesRecovered,11,2016 Alabama
+34,2006,Alabama,SEC,penaltyYards,547,2006 Alabama
+35,2018,Alabama,SEC,fourthDownConversions,7,2018 Alabama
+37,2013,Alabama,SEC,penaltyYards,520,2013 Alabama
+38,2012,Alabama,SEC,kickReturnTDs,1,2012 Alabama
+39,2007,Alabama,SEC,fourthDownConversions,6,2007 Alabama
+40,2009,Alabama,SEC,fourthDowns,17,2009 Alabama
+41,2005,Alabama,SEC,fourthDownConversions,4,2005 Alabama
+42,2007,Alabama,SEC,thirdDownConversions,75,2007 Alabama
+43,2010,Alabama,SEC,penaltyYards,490,2010 Alabama
+48,2012,Alabama,SEC,interceptions,3,2012 Alabama
+50,2015,Alabama,SEC,firstDowns,329,2015 Alabama
+51,2010,Alabama,SEC,interceptions,5,2010 Alabama
+52,2010,Alabama,SEC,rushingTDs,30,2010 Alabama
+53,2011,Alabama,SEC,fourthDowns,13,2011 Alabama
+55,2018,Alabama,SEC,passCompletions,301,2018 Alabama
+56,2018,Alabama,SEC,puntReturns,20,2018 Alabama
+58,2011,Alabama,SEC,fourthDownConversions,9,2011 Alabama
+59,2016,Alabama,SEC,passesIntercepted,16,2016 Alabama
+60,2022,Alabama,SEC,penalties,49,2022 Alabama
+61,2019,Alabama,SEC,tacklesForLoss,101,2019 Alabama
+62,2017,Alabama,SEC,kickReturns,20,2017 Alabama
+63,2015,Alabama,SEC,interceptions,10,2015 Alabama
+64,2015,Alabama,SEC,netPassingYards,3407,2015 Alabama
+65,2004,Alabama,SEC,netPassingYards,1823,2004 Alabama
+67,2009,Alabama,SEC,puntReturnYards,587,2009 Alabama
+68,2017,Alabama,SEC,passesIntercepted,19,2017 Alabama
+69,2016,Alabama,SEC,games,15,2016 Alabama
+70,2011,Alabama,SEC,passingTDs,16,2011 Alabama
+71,2021,Alabama,SEC,sacks,57,2021 Alabama
+72,2015,Alabama,SEC,turnovers,17,2015 Alabama
+73,2012,Alabama,SEC,firstDowns,303,2012 Alabama
+74,2014,Alabama,SEC,penalties,69,2014 Alabama
+75,2019,Alabama,SEC,rushingTDs,27,2019 Alabama
+76,2005,Alabama,SEC,penaltyYards,0,2005 Alabama
+77,2019,Alabama,SEC,penalties,95,2019 Alabama
+78,2019,Alabama,SEC,thirdDowns,153,2019 Alabama
+79,2016,Alabama,SEC,fourthDowns,17,2016 Alabama
+80,2008,Alabama,SEC,passCompletions,195,2008 Alabama
+81,2020,Alabama,SEC,puntReturnTDs,1,2020 Alabama
+82,2014,Alabama,SEC,rushingTDs,35,2014 Alabama
+83,2017,Alabama,SEC,kickReturnYards,438,2017 Alabama
+84,2012,Alabama,SEC,passingTDs,31,2012 Alabama
+85,2012,Alabama,SEC,rushingTDs,37,2012 Alabama
+86,2016,Alabama,SEC,penaltyYards,660,2016 Alabama
+87,2016,Alabama,SEC,thirdDowns,209,2016 Alabama
+88,2007,Alabama,SEC,possessionTime,14949,2007 Alabama
+89,2014,Alabama,SEC,fumblesRecovered,9,2014 Alabama
+90,2017,Alabama,SEC,games,14,2017 Alabama
+91,2011,Alabama,SEC,passAttempts,357,2011 Alabama
+92,2009,Alabama,SEC,passAttempts,346,2009 Alabama
+94,2020,Alabama,SEC,fumblesRecovered,10,2020 Alabama
+95,2010,Alabama,SEC,penalties,66,2010 Alabama
+98,2004,Alabama,SEC,rushingTDs,21,2004 Alabama
+99,2004,Alabama,SEC,fumblesLost,12,2004 Alabama
+100,2014,Alabama,SEC,kickReturnYards,1006,2014 Alabama
+101,2021,Alabama,SEC,puntReturnTDs,2,2021 Alabama
+102,2005,Alabama,SEC,passAttempts,351,2005 Alabama
+103,2012,Alabama,SEC,passesIntercepted,18,2012 Alabama
+104,2015,Alabama,SEC,games,15,2015 Alabama
+105,2011,Alabama,SEC,puntReturnYards,507,2011 Alabama
+106,2007,Alabama,SEC,firstDowns,294,2007 Alabama
+108,2006,Alabama,SEC,fumblesRecovered,12,2006 Alabama
+109,2015,Alabama,SEC,puntReturnTDs,5,2015 Alabama
+110,2006,Alabama,SEC,penalties,77,2006 Alabama
+112,2019,Alabama,SEC,totalYards,6640,2019 Alabama
+113,2015,Alabama,SEC,kickReturnYards,803,2015 Alabama
+114,2013,Alabama,SEC,interceptions,7,2013 Alabama
+115,2007,Alabama,SEC,rushingYards,1940,2007 Alabama
+117,2005,Alabama,SEC,interceptionTDs,1,2005 Alabama
+118,2010,Alabama,SEC,possessionTime,15071,2010 Alabama
+119,2020,Alabama,SEC,interceptionTDs,3,2020 Alabama
+120,2007,Alabama,SEC,passAttempts,472,2007 Alabama
+121,2021,Alabama,SEC,passingTDs,48,2021 Alabama
+122,2021,Alabama,SEC,games,15,2021 Alabama
+124,2015,Alabama,SEC,passingTDs,22,2015 Alabama
+125,2018,Alabama,SEC,thirdDowns,165,2018 Alabama
+126,2009,Alabama,SEC,games,14,2009 Alabama
+127,2015,Alabama,SEC,possessionTime,30191,2015 Alabama
+128,2022,Alabama,SEC,games,12,2022 Alabama
+129,2017,Alabama,SEC,rushingYards,3509,2017 Alabama
+130,2018,Alabama,SEC,puntReturnYards,250,2018 Alabama
+132,2016,Alabama,SEC,interceptionTDs,6,2016 Alabama
+133,2020,Alabama,SEC,interceptionYards,212,2020 Alabama
+134,2017,Alabama,SEC,interceptionTDs,2,2017 Alabama
+135,2021,Alabama,SEC,thirdDownConversions,117,2021 Alabama
+136,2008,Alabama,SEC,puntReturns,64,2008 Alabama
+137,2006,Alabama,SEC,totalYards,4367,2006 Alabama
+138,2008,Alabama,SEC,games,14,2008 Alabama
+139,2019,Alabama,SEC,rushingAttempts,436,2019 Alabama
+140,2014,Alabama,SEC,penaltyYards,562,2014 Alabama
+141,2008,Alabama,SEC,rushingTDs,32,2008 Alabama
+142,2006,Alabama,SEC,fourthDownConversions,7,2006 Alabama
+143,2008,Alabama,SEC,penalties,56,2008 Alabama
+144,2008,Alabama,SEC,netPassingYards,2574,2008 Alabama
+145,2013,Alabama,SEC,rushingAttempts,461,2013 Alabama
+147,2014,Alabama,SEC,passAttempts,451,2014 Alabama
+148,2010,Alabama,SEC,netPassingYards,3562,2010 Alabama
+149,2011,Alabama,SEC,fumblesLost,4,2011 Alabama
+150,2005,Alabama,SEC,fourthDowns,12,2005 Alabama
+151,2010,Alabama,SEC,games,13,2010 Alabama
+152,2011,Alabama,SEC,penalties,49,2011 Alabama
+153,2020,Alabama,SEC,penaltyYards,625,2020 Alabama
+154,2018,Alabama,SEC,turnovers,16,2018 Alabama
+155,2020,Alabama,SEC,rushingTDs,37,2020 Alabama
+156,2016,Alabama,SEC,puntReturnYards,528,2016 Alabama
+157,2016,Alabama,SEC,puntReturnTDs,4,2016 Alabama
+158,2016,Alabama,SEC,fourthDownConversions,10,2016 Alabama
+160,2009,Alabama,SEC,interceptionYards,319,2009 Alabama
+161,2018,Alabama,SEC,rushingYards,2974,2018 Alabama
+162,2019,Alabama,SEC,passCompletions,287,2019 Alabama
+164,2014,Alabama,SEC,puntReturnTDs,0,2014 Alabama
+165,2014,Alabama,SEC,firstDowns,340,2014 Alabama
+166,2021,Alabama,SEC,possessionTime,29142,2021 Alabama
+168,2014,Alabama,SEC,kickReturns,50,2014 Alabama
+169,2014,Alabama,SEC,passCompletions,290,2014 Alabama
+170,2004,Alabama,SEC,thirdDowns,161,2004 Alabama
+171,2022,Alabama,SEC,penaltyYards,429,2022 Alabama
+172,2008,Alabama,SEC,firstDowns,263,2008 Alabama
+173,2007,Alabama,SEC,interceptions,12,2007 Alabama
+174,2021,Alabama,SEC,turnovers,13,2021 Alabama
+175,2004,Alabama,SEC,firstDowns,194,2004 Alabama
+176,2013,Alabama,SEC,turnovers,17,2013 Alabama
+177,2022,Alabama,SEC,fumblesLost,4,2022 Alabama
+178,2016,Alabama,SEC,penalties,85,2016 Alabama
+179,2012,Alabama,SEC,fourthDownConversions,7,2012 Alabama
+180,2015,Alabama,SEC,penalties,89,2015 Alabama
+181,2022,Alabama,SEC,puntReturnYards,442,2022 Alabama
+182,2020,Alabama,SEC,games,13,2020 Alabama
+183,2007,Alabama,SEC,passesIntercepted,19,2007 Alabama
+184,2019,Alabama,SEC,kickReturnYards,637,2019 Alabama
+188,2021,Alabama,SEC,interceptions,7,2021 Alabama
+189,2008,Alabama,SEC,thirdDownConversions,76,2008 Alabama
+190,2004,Alabama,SEC,fourthDownConversions,4,2004 Alabama
+191,2008,Alabama,SEC,fumblesLost,11,2008 Alabama
+192,2022,Alabama,SEC,interceptions,5,2022 Alabama
+193,2018,Alabama,SEC,netPassingYards,4854,2018 Alabama
+194,2015,Alabama,SEC,rushingYards,2999,2015 Alabama
+196,2013,Alabama,SEC,fumblesRecovered,8,2013 Alabama
+199,2009,Alabama,SEC,passesIntercepted,24,2009 Alabama
+200,2010,Alabama,SEC,interceptionYards,239,2010 Alabama
+201,2019,Alabama,SEC,puntReturns,24,2019 Alabama
+202,2020,Alabama,SEC,kickReturnTDs,0,2020 Alabama
+203,2008,Alabama,SEC,interceptions,9,2008 Alabama
+204,2019,Alabama,SEC,turnovers,10,2019 Alabama
+205,2017,Alabama,SEC,rushingTDs,36,2017 Alabama
+206,2007,Alabama,SEC,kickReturns,3,2007 Alabama
+207,2014,Alabama,SEC,passesIntercepted,11,2014 Alabama
+208,2013,Alabama,SEC,rushingYards,2673,2013 Alabama
+209,2017,Alabama,SEC,kickReturnTDs,0,2017 Alabama
+210,2013,Alabama,SEC,kickReturnYards,736,2013 Alabama
+211,2006,Alabama,SEC,puntReturnTDs,2,2006 Alabama
+212,2011,Alabama,SEC,possessionTime,16073,2011 Alabama
+213,2017,Alabama,SEC,puntReturnTDs,0,2017 Alabama
+214,2008,Alabama,SEC,penaltyYards,505,2008 Alabama
+215,2014,Alabama,SEC,games,14,2014 Alabama
+216,2010,Alabama,SEC,passCompletions,253,2010 Alabama
+217,2010,Alabama,SEC,turnovers,14,2010 Alabama
+218,2016,Alabama,SEC,possessionTime,27839,2016 Alabama
+219,2006,Alabama,SEC,passingTDs,17,2006 Alabama
+220,2013,Alabama,SEC,kickReturns,30,2013 Alabama
+221,2013,Alabama,SEC,passAttempts,365,2013 Alabama
+222,2006,Alabama,SEC,puntReturns,41,2006 Alabama
+223,2015,Alabama,SEC,fourthDowns,24,2015 Alabama
+224,2013,Alabama,SEC,interceptionYards,253,2013 Alabama
+225,2018,Alabama,SEC,puntReturnTDs,1,2018 Alabama
+226,2015,Alabama,SEC,fourthDownConversions,12,2015 Alabama
+227,2015,Alabama,SEC,puntReturnYards,597,2015 Alabama
+229,2007,Alabama,SEC,passCompletions,263,2007 Alabama
+230,2020,Alabama,SEC,thirdDowns,145,2020 Alabama
+231,2021,Alabama,SEC,firstDowns,367,2021 Alabama
+232,2022,Alabama,SEC,passAttempts,183,2022 Alabama
+233,2017,Alabama,SEC,possessionTime,24993,2017 Alabama
+234,2013,Alabama,SEC,passingTDs,30,2013 Alabama
+235,2020,Alabama,SEC,puntReturnYards,299,2020 Alabama
+236,2009,Alabama,SEC,kickReturns,33,2009 Alabama
+237,2010,Alabama,SEC,kickReturnTDs,1,2010 Alabama
+239,2012,Alabama,SEC,fumblesRecovered,11,2012 Alabama
+240,2019,Alabama,SEC,passAttempts,406,2019 Alabama
+241,2019,Alabama,SEC,netPassingYards,4449,2019 Alabama
+242,2010,Alabama,SEC,passAttempts,362,2010 Alabama
+243,2015,Alabama,SEC,thirdDownConversions,80,2015 Alabama
+244,2004,Alabama,SEC,games,12,2004 Alabama
+245,2016,Alabama,SEC,kickReturns,28,2016 Alabama
+246,2010,Alabama,SEC,fourthDowns,14,2010 Alabama
+247,2006,Alabama,SEC,passAttempts,393,2006 Alabama
+248,2012,Alabama,SEC,passCompletions,219,2012 Alabama
+249,2021,Alabama,SEC,fumblesRecovered,6,2021 Alabama
+251,2019,Alabama,SEC,thirdDownConversions,80,2019 Alabama
+252,2022,Alabama,SEC,sacks,18,2022 Alabama
+253,2019,Alabama,SEC,games,13,2019 Alabama
+254,2007,Alabama,SEC,fumblesLost,10,2007 Alabama
+255,2014,Alabama,SEC,fourthDownConversions,10,2014 Alabama
+256,2008,Alabama,SEC,passingTDs,10,2008 Alabama
+257,2008,Alabama,SEC,totalYards,4981,2008 Alabama
+258,2009,Alabama,SEC,fumblesRecovered,7,2009 Alabama
+259,2011,Alabama,SEC,rushingTDs,34,2011 Alabama
+261,2004,Alabama,SEC,interceptionTDs,1,2004 Alabama
+262,2014,Alabama,SEC,puntReturnYards,234,2014 Alabama
+263,2017,Alabama,SEC,thirdDowns,177,2017 Alabama
+264,2012,Alabama,SEC,passAttempts,328,2012 Alabama
+265,2010,Alabama,SEC,thirdDownConversions,68,2010 Alabama
+266,2014,Alabama,SEC,rushingAttempts,567,2014 Alabama
+267,2021,Alabama,SEC,totalYards,7323,2021 Alabama
+268,2011,Alabama,SEC,puntReturnTDs,1,2011 Alabama
+270,2018,Alabama,SEC,tacklesForLoss,105,2018 Alabama
+271,2011,Alabama,SEC,turnovers,12,2011 Alabama
+272,2014,Alabama,SEC,passingTDs,32,2014 Alabama
+273,2015,Alabama,SEC,penaltyYards,835,2015 Alabama
+274,2021,Alabama,SEC,kickReturns,20,2021 Alabama
+275,2019,Alabama,SEC,fourthDowns,19,2019 Alabama
+276,2007,Alabama,SEC,turnovers,22,2007 Alabama
+277,2020,Alabama,SEC,fourthDownConversions,6,2020 Alabama
+278,2018,Alabama,SEC,thirdDownConversions,86,2018 Alabama
+280,2018,Alabama,SEC,games,15,2018 Alabama
+281,2015,Alabama,SEC,kickReturns,39,2015 Alabama
+282,2016,Alabama,SEC,netPassingYards,3154,2016 Alabama
+283,2011,Alabama,SEC,rushingYards,2788,2011 Alabama
+284,2005,Alabama,SEC,interceptions,4,2005 Alabama
+285,2017,Alabama,SEC,sacks,40,2017 Alabama
+286,2007,Alabama,SEC,puntReturnTDs,1,2007 Alabama
+287,2010,Alabama,SEC,puntReturnTDs,1,2010 Alabama
+288,2011,Alabama,SEC,interceptionYards,218,2011 Alabama
+289,2019,Alabama,SEC,penaltyYards,855,2019 Alabama
+290,2005,Alabama,SEC,games,12,2005 Alabama
+292,2006,Alabama,SEC,interceptionYards,266,2006 Alabama
+293,2012,Alabama,SEC,interceptionYards,221,2012 Alabama
+294,2013,Alabama,SEC,rushingTDs,28,2013 Alabama
+295,2015,Alabama,SEC,fumblesLost,7,2015 Alabama
+296,2018,Alabama,SEC,interceptionYards,276,2018 Alabama
+297,2004,Alabama,SEC,interceptionYards,113,2004 Alabama
+298,2020,Alabama,SEC,puntReturns,20,2020 Alabama
+301,2013,Alabama,SEC,fourthDowns,12,2013 Alabama
+302,2005,Alabama,SEC,thirdDownConversions,66,2005 Alabama
+303,2006,Alabama,SEC,interceptionTDs,3,2006 Alabama
+304,2013,Alabama,SEC,thirdDowns,147,2013 Alabama
+306,2021,Alabama,SEC,penalties,107,2021 Alabama
+308,2015,Alabama,SEC,passCompletions,301,2015 Alabama
+310,2016,Alabama,SEC,passCompletions,265,2016 Alabama
+311,2020,Alabama,SEC,sacks,27,2020 Alabama
+312,2017,Alabama,SEC,netPassingYards,2708,2017 Alabama
+313,2020,Alabama,SEC,firstDowns,365,2020 Alabama
+314,2007,Alabama,SEC,penaltyYards,453,2007 Alabama
+316,2018,Alabama,SEC,passAttempts,438,2018 Alabama
+317,2008,Alabama,SEC,puntReturnTDs,4,2008 Alabama
+321,2014,Alabama,SEC,fumblesLost,12,2014 Alabama
+322,2022,Alabama,SEC,fourthDowns,8,2022 Alabama
+324,2022,Alabama,SEC,passingTDs,19,2022 Alabama
+325,2004,Alabama,SEC,thirdDownConversions,48,2004 Alabama
+327,2015,Alabama,SEC,rushingAttempts,642,2015 Alabama
+328,2021,Alabama,SEC,fumblesLost,6,2021 Alabama
+329,2007,Alabama,SEC,rushingAttempts,490,2007 Alabama
+330,2012,Alabama,SEC,rushingYards,3171,2012 Alabama
+331,2013,Alabama,SEC,kickReturnTDs,1,2013 Alabama
+332,2005,Alabama,SEC,turnovers,13,2005 Alabama
+334,2007,Alabama,SEC,puntReturnYards,370,2007 Alabama
+335,2008,Alabama,SEC,interceptionTDs,4,2008 Alabama
+337,2013,Alabama,SEC,games,13,2013 Alabama
+338,2017,Alabama,SEC,totalYards,6217,2017 Alabama
+339,2006,Alabama,SEC,rushingTDs,10,2006 Alabama
+340,2008,Alabama,SEC,passAttempts,334,2008 Alabama
+342,2006,Alabama,SEC,passesIntercepted,16,2006 Alabama
+344,2020,Alabama,SEC,passCompletions,324,2020 Alabama
+345,2019,Alabama,SEC,interceptionYards,245,2019 Alabama
+346,2005,Alabama,SEC,thirdDowns,183,2005 Alabama
+347,2016,Alabama,SEC,kickReturnYards,547,2016 Alabama
+349,2022,Alabama,SEC,kickReturnTDs,0,2022 Alabama
+350,2015,Alabama,SEC,kickReturnTDs,1,2015 Alabama
+351,2020,Alabama,SEC,fourthDowns,9,2020 Alabama
+352,2012,Alabama,SEC,thirdDownConversions,80,2012 Alabama
+353,2020,Alabama,SEC,penalties,78,2020 Alabama
+354,2016,Alabama,SEC,interceptionYards,398,2016 Alabama
+355,2008,Alabama,SEC,puntReturnYards,701,2008 Alabama
+356,2008,Alabama,SEC,rushingYards,2585,2008 Alabama
+358,2018,Alabama,SEC,fumblesRecovered,6,2018 Alabama
+359,2010,Alabama,SEC,totalYards,5773,2010 Alabama
+360,2022,Alabama,SEC,interceptionYards,46,2022 Alabama
+361,2012,Alabama,SEC,thirdDowns,167,2012 Alabama
+362,2012,Alabama,SEC,puntReturnTDs,0,2012 Alabama
+363,2015,Alabama,SEC,thirdDowns,215,2015 Alabama
+364,2015,Alabama,SEC,totalYards,6406,2015 Alabama
+365,2006,Alabama,SEC,rushingYards,1600,2006 Alabama
+366,2007,Alabama,SEC,totalYards,4349,2007 Alabama
+367,2014,Alabama,SEC,turnovers,22,2014 Alabama
+368,2017,Alabama,SEC,interceptions,3,2017 Alabama
+369,2016,Alabama,SEC,rushingYards,3675,2016 Alabama
+370,2015,Alabama,SEC,puntReturns,47,2015 Alabama
+371,2010,Alabama,SEC,firstDowns,287,2010 Alabama
+372,2017,Alabama,SEC,rushingAttempts,612,2017 Alabama
+373,2022,Alabama,SEC,passesIntercepted,2,2022 Alabama
+374,2005,Alabama,SEC,fumblesRecovered,10,2005 Alabama
+375,2020,Alabama,SEC,rushingAttempts,475,2020 Alabama
+376,2018,Alabama,SEC,sacks,44,2018 Alabama
+377,2020,Alabama,SEC,passesIntercepted,12,2020 Alabama
+378,2021,Alabama,SEC,netPassingYards,5073,2021 Alabama
+379,2011,Alabama,SEC,interceptions,8,2011 Alabama
+380,2004,Alabama,SEC,rushingYards,2221,2004 Alabama
+381,2022,Alabama,SEC,passCompletions,120,2022 Alabama
+382,2014,Alabama,SEC,interceptions,10,2014 Alabama
+384,2009,Alabama,SEC,puntReturns,64,2009 Alabama
+385,2018,Alabama,SEC,kickReturns,24,2018 Alabama
+386,2006,Alabama,SEC,puntReturnYards,308,2006 Alabama
+387,2008,Alabama,SEC,rushingAttempts,568,2008 Alabama
+389,2021,Alabama,SEC,fourthDowns,17,2021 Alabama
+390,2011,Alabama,SEC,totalYards,5585,2011 Alabama
+391,2004,Alabama,SEC,passCompletions,146,2004 Alabama
+392,2011,Alabama,SEC,fumblesRecovered,7,2011 Alabama
+393,2011,Alabama,SEC,passCompletions,237,2011 Alabama
+395,2022,Alabama,SEC,thirdDowns,71,2022 Alabama
+397,2019,Alabama,SEC,kickReturnTDs,1,2019 Alabama
+398,2008,Alabama,SEC,fourthDownConversions,8,2008 Alabama
+400,2010,Alabama,SEC,passingTDs,24,2010 Alabama
+402,2013,Alabama,SEC,interceptionTDs,3,2013 Alabama
+403,2022,Alabama,SEC,puntReturns,24,2022 Alabama
+404,2015,Alabama,SEC,interceptionTDs,4,2015 Alabama
+405,2022,Alabama,SEC,fumblesRecovered,2,2022 Alabama
+406,2017,Alabama,SEC,fumblesRecovered,4,2017 Alabama
+407,2018,Alabama,SEC,totalYards,7828,2018 Alabama
+408,2017,Alabama,SEC,penaltyYards,569,2017 Alabama
+409,2019,Alabama,SEC,kickReturns,31,2019 Alabama
+410,2020,Alabama,SEC,turnovers,12,2020 Alabama
+411,2004,Alabama,SEC,puntReturnTDs,1,2004 Alabama
+412,2009,Alabama,SEC,interceptionTDs,2,2009 Alabama
+413,2008,Alabama,SEC,interceptionYards,305,2008 Alabama
+414,2014,Alabama,SEC,puntReturns,25,2014 Alabama
+415,2011,Alabama,SEC,firstDowns,281,2011 Alabama
+417,2018,Alabama,SEC,penalties,86,2018 Alabama
+419,2013,Alabama,SEC,fumblesLost,10,2013 Alabama
+420,2010,Alabama,SEC,thirdDowns,151,2010 Alabama
+421,2017,Alabama,SEC,passingTDs,28,2017 Alabama
+422,2005,Alabama,SEC,fumblesLost,9,2005 Alabama
+424,2013,Alabama,SEC,thirdDownConversions,70,2013 Alabama
+425,2014,Alabama,SEC,totalYards,6783,2014 Alabama
+426,2020,Alabama,SEC,kickReturnYards,276,2020 Alabama
+427,2006,Alabama,SEC,thirdDowns,186,2006 Alabama
+428,2016,Alabama,SEC,turnovers,19,2016 Alabama
+429,2007,Alabama,SEC,thirdDowns,198,2007 Alabama
+430,2016,Alabama,SEC,rushingTDs,33,2016 Alabama
+431,2019,Alabama,SEC,interceptions,6,2019 Alabama
+432,2007,Alabama,SEC,netPassingYards,3090,2007 Alabama
+433,2014,Alabama,SEC,interceptionTDs,0,2014 Alabama
+436,2018,Alabama,SEC,passesIntercepted,14,2018 Alabama
+437,2019,Alabama,SEC,passesIntercepted,17,2019 Alabama
+438,2012,Alabama,SEC,netPassingYards,3052,2012 Alabama
+439,2013,Alabama,SEC,possessionTime,24923,2013 Alabama
+441,2004,Alabama,SEC,passesIntercepted,12,2004 Alabama
+442,2017,Alabama,SEC,turnovers,10,2017 Alabama
+443,2009,Alabama,SEC,penalties,69,2009 Alabama
+444,2011,Alabama,SEC,netPassingYards,2894,2011 Alabama
+445,2020,Alabama,SEC,passAttempts,425,2020 Alabama
+446,2018,Alabama,SEC,firstDowns,372,2018 Alabama
+447,2007,Alabama,SEC,games,13,2007 Alabama
+448,2005,Alabama,SEC,rushingAttempts,463,2005 Alabama
+450,2022,Alabama,SEC,turnovers,9,2022 Alabama
+451,2010,Alabama,SEC,interceptionTDs,2,2010 Alabama
+452,2018,Alabama,SEC,interceptionTDs,4,2018 Alabama
+453,2019,Alabama,SEC,firstDowns,318,2019 Alabama
+454,2017,Alabama,SEC,interceptionYards,279,2017 Alabama
+456,2020,Alabama,SEC,interceptions,4,2020 Alabama
+457,2004,Alabama,SEC,fumblesRecovered,16,2004 Alabama
+458,2005,Alabama,SEC,rushingYards,1710,2005 Alabama
+459,2011,Alabama,SEC,thirdDowns,168,2011 Alabama
+460,2021,Alabama,SEC,interceptionTDs,2,2021 Alabama
+462,2006,Alabama,SEC,firstDowns,247,2006 Alabama
+463,2017,Alabama,SEC,tacklesForLoss,100,2017 Alabama
+464,2018,Alabama,SEC,kickReturnTDs,1,2018 Alabama
+465,2006,Alabama,SEC,netPassingYards,2976,2006 Alabama
+466,2017,Alabama,SEC,firstDowns,311,2017 Alabama
+467,2021,Alabama,SEC,rushingAttempts,548,2021 Alabama
+468,2008,Alabama,SEC,turnovers,20,2008 Alabama
+469,2009,Alabama,SEC,puntReturnTDs,1,2009 Alabama
+470,2018,Alabama,SEC,fumblesLost,8,2018 Alabama
+471,2021,Alabama,SEC,fourthDownConversions,9,2021 Alabama
+472,2009,Alabama,SEC,kickReturnYards,791,2009 Alabama
+473,2020,Alabama,SEC,rushingYards,2378,2020 Alabama
+474,2012,Alabama,SEC,interceptionTDs,1,2012 Alabama
+475,2018,Alabama,SEC,possessionTime,27411,2018 Alabama
+476,2006,Alabama,SEC,passCompletions,224,2006 Alabama
+477,2005,Alabama,SEC,firstDowns,222,2005 Alabama
+479,2011,Alabama,SEC,kickReturnYards,530,2011 Alabama
+480,2012,Alabama,SEC,puntReturns,34,2012 Alabama
+481,2022,Alabama,SEC,puntReturnTDs,2,2022 Alabama
+482,2013,Alabama,SEC,firstDowns,302,2013 Alabama
+484,2016,Alabama,SEC,tacklesForLoss,118,2016 Alabama
+485,2019,Alabama,SEC,interceptionTDs,2,2019 Alabama
+486,2009,Alabama,SEC,netPassingYards,2743,2009 Alabama
+487,2013,Alabama,SEC,totalYards,5903,2013 Alabama
+488,2006,Alabama,SEC,possessionTime,15271,2006 Alabama
+490,2022,Alabama,SEC,rushingTDs,13,2022 Alabama
+491,2022,Alabama,SEC,netPassingYards,1479,2022 Alabama
+492,2021,Alabama,SEC,kickReturnTDs,2,2021 Alabama
+493,2018,Alabama,SEC,rushingTDs,33,2018 Alabama
+495,2015,Alabama,SEC,interceptionYards,462,2015 Alabama
+496,2019,Alabama,SEC,sacks,37,2019 Alabama
+497,2008,Alabama,SEC,passesIntercepted,15,2008 Alabama
+498,2007,Alabama,SEC,fumblesRecovered,5,2007 Alabama
+499,2019,Alabama,SEC,fourthDownConversions,13,2019 Alabama
+500,2012,Alabama,SEC,kickReturns,21,2012 Alabama
+501,2013,Alabama,SEC,puntReturnTDs,3,2013 Alabama
+502,2018,Alabama,SEC,rushingAttempts,572,2018 Alabama
+503,2021,Alabama,SEC,passesIntercepted,15,2021 Alabama
+504,2012,Alabama,SEC,possessionTime,29579,2012 Alabama
+505,2011,Alabama,SEC,penaltyYards,369,2011 Alabama
+506,2004,Alabama,SEC,penaltyYards,0,2004 Alabama
+507,2006,Alabama,SEC,fumblesLost,13,2006 Alabama
+508,2005,Alabama,SEC,possessionTime,14472,2005 Alabama
+509,2022,Alabama,SEC,rushingYards,1545,2022 Alabama
+510,2009,Alabama,SEC,passCompletions,212,2009 Alabama
+511,2019,Alabama,SEC,puntReturnTDs,3,2019 Alabama
+512,2008,Alabama,SEC,possessionTime,16355,2008 Alabama
+513,2021,Alabama,SEC,tacklesForLoss,119,2021 Alabama
+514,2005,Alabama,SEC,interceptionYards,155,2005 Alabama
+515,2022,Alabama,SEC,kickReturnYards,130,2022 Alabama
+516,2011,Alabama,SEC,passesIntercepted,13,2011 Alabama
+517,2013,Alabama,SEC,fourthDownConversions,7,2013 Alabama
+518,2005,Alabama,SEC,puntReturnYards,195,2005 Alabama
+519,2022,Alabama,SEC,fourthDownConversions,3,2022 Alabama
+520,2005,Alabama,SEC,totalYards,4307,2005 Alabama
+521,2017,Alabama,SEC,fumblesLost,7,2017 Alabama
+522,2009,Alabama,SEC,thirdDowns,194,2009 Alabama
+523,2019,Alabama,SEC,fumblesRecovered,17,2019 Alabama
+524,2018,Alabama,SEC,passingTDs,52,2018 Alabama
+525,2010,Alabama,SEC,rushingAttempts,467,2010 Alabama
+526,2004,Alabama,SEC,rushingAttempts,502,2004 Alabama
+528,2016,Alabama,SEC,sacks,54,2016 Alabama
+529,2013,Alabama,SEC,puntReturnYards,413,2013 Alabama
+530,2016,Alabama,SEC,interceptions,9,2016 Alabama
+531,2009,Alabama,SEC,passingTDs,17,2009 Alabama
+532,2014,Alabama,SEC,interceptionYards,84,2014 Alabama
+533,2020,Alabama,SEC,totalYards,7034,2020 Alabama
+534,2017,Alabama,SEC,passAttempts,332,2017 Alabama
+536,2021,Alabama,SEC,penaltyYards,990,2021 Alabama
+537,2016,Alabama,SEC,fumblesLost,10,2016 Alabama
+538,2007,Alabama,SEC,passingTDs,19,2007 Alabama
+539,2011,Alabama,SEC,interceptionTDs,3,2011 Alabama
+540,2018,Alabama,SEC,kickReturnYards,523,2018 Alabama
+541,2017,Alabama,SEC,fourthDownConversions,15,2017 Alabama
+543,2005,Alabama,SEC,puntReturns,43,2005 Alabama
+544,2020,Alabama,SEC,possessionTime,24032,2020 Alabama
+546,2005,Alabama,SEC,passCompletions,209,2005 Alabama
+548,2008,Alabama,SEC,fourthDowns,10,2008 Alabama
+549,2017,Alabama,SEC,fourthDowns,18,2017 Alabama
+551,2015,Alabama,SEC,passAttempts,446,2015 Alabama
+552,2022,Alabama,SEC,tacklesForLoss,44,2022 Alabama
+553,2004,Alabama,SEC,possessionTime,14005,2004 Alabama
+554,2013,Alabama,SEC,penalties,63,2013 Alabama
+555,2009,Alabama,SEC,turnovers,12,2009 Alabama
+556,2017,Alabama,SEC,puntReturnYards,301,2017 Alabama
+557,2005,Alabama,SEC,passesIntercepted,11,2005 Alabama
+558,2013,Alabama,SEC,passesIntercepted,11,2013 Alabama
+559,2018,Alabama,SEC,penaltyYards,796,2018 Alabama
+561,2016,Alabama,SEC,rushingAttempts,639,2016 Alabama
+562,2017,Alabama,SEC,thirdDownConversions,72,2017 Alabama
+563,2020,Alabama,SEC,netPassingYards,4656,2020 Alabama
+564,2021,Alabama,SEC,rushingTDs,21,2021 Alabama
+565,2012,Alabama,SEC,penalties,54,2012 Alabama
+566,2011,Alabama,SEC,kickReturns,23,2011 Alabama
+567,2020,Alabama,SEC,fumblesLost,8,2020 Alabama
+568,2021,Alabama,SEC,passAttempts,571,2021 Alabama
+570,2016,Alabama,SEC,firstDowns,315,2016 Alabama
+571,2009,Alabama,SEC,fumblesLost,7,2009 Alabama
+572,2010,Alabama,SEC,kickReturnYards,986,2010 Alabama
+573,2012,Alabama,SEC,turnovers,15,2012 Alabama
+574,2005,Alabama,SEC,rushingTDs,12,2005 Alabama
+575,2009,Alabama,SEC,firstDowns,289,2009 Alabama
+576,2010,Alabama,SEC,passesIntercepted,22,2010 Alabama
+577,2022,Alabama,SEC,thirdDownConversions,33,2022 Alabama
+578,2016,Alabama,SEC,totalYards,6829,2016 Alabama
+579,2018,Alabama,SEC,fourthDowns,16,2018 Alabama
+580,2022,Alabama,SEC,possessionTime,10410,2022 Alabama
+583,2014,Alabama,SEC,thirdDownConversions,102,2014 Alabama
+584,2008,Alabama,SEC,fumblesRecovered,11,2008 Alabama
+585,2012,Alabama,SEC,totalYards,6223,2012 Alabama
+586,2012,Alabama,SEC,puntReturnYards,337,2012 Alabama
+588,2007,Alabama,SEC,interceptionYards,235,2007 Alabama
+589,2013,Alabama,SEC,netPassingYards,3230,2013 Alabama
+591,2013,Alabama,SEC,puntReturns,30,2013 Alabama
+592,2009,Alabama,SEC,penaltyYards,598,2009 Alabama
+593,2010,Alabama,SEC,fumblesRecovered,4,2010 Alabama
+595,2004,Alabama,SEC,penalties,0,2004 Alabama
+597,2019,Alabama,SEC,rushingYards,2191,2019 Alabama
+598,2012,Alabama,SEC,kickReturnYards,503,2012 Alabama
+600,2004,Alabama,SEC,passAttempts,261,2004 Alabama
+601,2015,Alabama,SEC,passesIntercepted,19,2015 Alabama
+602,2004,Alabama,SEC,turnovers,23,2004 Alabama
+603,2015,Alabama,SEC,fumblesRecovered,8,2015 Alabama
+605,2020,Alabama,SEC,thirdDownConversions,87,2020 Alabama
+606,2004,Alabama,SEC,passingTDs,11,2004 Alabama
+607,2019,Alabama,SEC,possessionTime,23390,2019 Alabama
+608,2022,Alabama,SEC,totalYards,3024,2022 Alabama
+609,2016,Alabama,SEC,puntReturns,36,2016 Alabama
+610,2011,Alabama,SEC,rushingAttempts,508,2011 Alabama
+612,2021,Alabama,SEC,passCompletions,380,2021 Alabama
+614,2006,Alabama,SEC,fourthDowns,13,2006 Alabama
+615,2004,Alabama,SEC,puntReturns,42,2004 Alabama
+616,2010,Alabama,SEC,rushingYards,2378,2010 Alabama
+617,2012,Alabama,SEC,games,14,2012 Alabama
+618,2017,Alabama,SEC,passCompletions,204,2017 Alabama
+620,2022,Alabama,SEC,firstDowns,144,2022 Alabama
+621,2017,Alabama,SEC,penalties,70,2017 Alabama
+622,2019,Alabama,SEC,fumblesLost,4,2019 Alabama
+623,2012,Alabama,SEC,rushingAttempts,570,2012 Alabama
+624,2020,Alabama,SEC,kickReturns,18,2020 Alabama
+625,2010,Alabama,SEC,puntReturnYards,349,2010 Alabama
+626,2009,Alabama,SEC,kickReturnTDs,0,2009 Alabama
+627,2020,Alabama,SEC,passingTDs,42,2020 Alabama
+628,2006,Alabama,SEC,turnovers,23,2006 Alabama
+629,2022,Alabama,SEC,interceptionTDs,1,2022 Alabama
+630,2008,Alabama,SEC,thirdDowns,183,2008 Alabama
+631,2007,Alabama,SEC,fourthDowns,12,2007 Alabama
+632,2012,Alabama,SEC,fumblesLost,12,2012 Alabama
+633,2010,Alabama,SEC,fourthDownConversions,9,2010 Alabama
+634,2009,Alabama,SEC,rushingTDs,31,2009 Alabama
+635,2006,Alabama,SEC,games,13,2006 Alabama
+636,2006,Alabama,SEC,interceptions,10,2006 Alabama
+637,2010,Alabama,SEC,puntReturns,45,2010 Alabama
+639,2004,Alabama,SEC,totalYards,3920,2004 Alabama
+640,2021,Alabama,SEC,puntReturnYards,260,2021 Alabama
+641,2021,Alabama,SEC,puntReturns,33,2021 Alabama
+642,2005,Alabama,SEC,passingTDs,16,2005 Alabama
+643,2022,Alabama,SEC,rushingAttempts,222,2022 Alabama
+644,2013,Alabama,SEC,passCompletions,244,2013 Alabama
+645,2014,Alabama,SEC,rushingYards,2893,2014 Alabama
+646,2018,Alabama,SEC,interceptions,8,2018 Alabama
+647,2014,Alabama,SEC,thirdDowns,199,2014 Alabama
+648,2012,Alabama,SEC,penaltyYards,467,2012 Alabama
+649,2021,Alabama,SEC,thirdDowns,225,2021 Alabama
+650,2010,Alabama,SEC,kickReturns,41,2010 Alabama
+651,2004,Alabama,SEC,interceptions,11,2004 Alabama
+652,2004,Alabama,SEC,fourthDowns,12,2004 Alabama
+656,2005,Alabama,SEC,puntReturnTDs,0,2005 Alabama
+657,2007,Alabama,SEC,interceptionTDs,0,2007 Alabama
+658,2014,Alabama,SEC,kickReturnTDs,0,2014 Alabama
+659,2007,Alabama,SEC,kickReturnTDs,0,2007 Alabama
+660,2006,Alabama,SEC,thirdDownConversions,77,2006 Alabama
+661,2014,Alabama,SEC,netPassingYards,3890,2014 Alabama
+662,2019,Alabama,SEC,puntReturnYards,531,2019 Alabama
+664,2016,Alabama,SEC,passAttempts,417,2016 Alabama
+665,2019,Alabama,SEC,passingTDs,49,2019 Alabama
+666,2015,Alabama,SEC,rushingTDs,33,2015 Alabama
+667,2016,Alabama,SEC,thirdDownConversions,91,2016 Alabama
+668,2007,Alabama,SEC,penalties,59,2007 Alabama
+670,2009,Alabama,SEC,rushingAttempts,601,2009 Alabama
+671,2009,Alabama,SEC,thirdDownConversions,76,2009 Alabama
+0,2005,Auburn,SEC,rushingAttempts,446,2005 Auburn
+1,2007,Auburn,SEC,firstDowns,246,2007 Auburn
+2,2012,Auburn,SEC,totalYards,3660,2012 Auburn
+4,2007,Auburn,SEC,netPassingYards,2502,2007 Auburn
+5,2015,Auburn,SEC,penalties,62,2015 Auburn
+6,2006,Auburn,SEC,fumblesLost,10,2006 Auburn
+7,2019,Auburn,SEC,thirdDowns,189,2019 Auburn
+9,2007,Auburn,SEC,fourthDownConversions,13,2007 Auburn
+10,2017,Auburn,SEC,passesIntercepted,6,2017 Auburn
+11,2009,Auburn,SEC,fourthDowns,14,2009 Auburn
+12,2021,Auburn,SEC,rushingYards,2096,2021 Auburn
+15,2011,Auburn,SEC,kickReturnYards,1356,2011 Auburn
+16,2014,Auburn,SEC,fumblesRecovered,5,2014 Auburn
+17,2007,Auburn,SEC,puntReturnTDs,0,2007 Auburn
+18,2007,Auburn,SEC,passCompletions,204,2007 Auburn
+19,2020,Auburn,SEC,fumblesLost,2,2020 Auburn
+20,2019,Auburn,SEC,rushingYards,2591,2019 Auburn
+21,2014,Auburn,SEC,fourthDowns,7,2014 Auburn
+22,2011,Auburn,SEC,penalties,75,2011 Auburn
+23,2009,Auburn,SEC,puntReturns,36,2009 Auburn
+24,2021,Auburn,SEC,passingTDs,17,2021 Auburn
+25,2005,Auburn,SEC,fourthDownConversions,4,2005 Auburn
+26,2009,Auburn,SEC,rushingYards,2756,2009 Auburn
+27,2015,Auburn,SEC,puntReturns,15,2015 Auburn
+32,2019,Auburn,SEC,interceptionYards,181,2019 Auburn
+33,2007,Auburn,SEC,fumblesLost,10,2007 Auburn
+34,2018,Auburn,SEC,thirdDowns,164,2018 Auburn
+35,2009,Auburn,SEC,passAttempts,364,2009 Auburn
+36,2013,Auburn,SEC,fourthDowns,15,2013 Auburn
+38,2005,Auburn,SEC,thirdDownConversions,63,2005 Auburn
+39,2021,Auburn,SEC,kickReturns,27,2021 Auburn
+41,2013,Auburn,SEC,possessionTime,25369,2013 Auburn
+42,2022,Auburn,SEC,thirdDownConversions,27,2022 Auburn
+44,2020,Auburn,SEC,thirdDownConversions,71,2020 Auburn
+45,2012,Auburn,SEC,penaltyYards,601,2012 Auburn
+46,2016,Auburn,SEC,penalties,61,2016 Auburn
+48,2016,Auburn,SEC,interceptionTDs,0,2016 Auburn
+49,2012,Auburn,SEC,kickReturnYards,808,2012 Auburn
+52,2006,Auburn,SEC,passesIntercepted,10,2006 Auburn
+54,2011,Auburn,SEC,rushingTDs,20,2011 Auburn
+55,2009,Auburn,SEC,fumblesRecovered,8,2009 Auburn
+56,2018,Auburn,SEC,interceptionYards,173,2018 Auburn
+57,2022,Auburn,SEC,rushingAttempts,216,2022 Auburn
+58,2007,Auburn,SEC,puntReturnYards,310,2007 Auburn
+59,2021,Auburn,SEC,kickReturnYards,621,2021 Auburn
+60,2007,Auburn,SEC,rushingYards,2040,2007 Auburn
+61,2007,Auburn,SEC,interceptionYards,238,2007 Auburn
+63,2015,Auburn,SEC,rushingAttempts,587,2015 Auburn
+64,2018,Auburn,SEC,netPassingYards,2892,2018 Auburn
+65,2016,Auburn,SEC,thirdDowns,183,2016 Auburn
+66,2015,Auburn,SEC,kickReturnYards,950,2015 Auburn
+67,2008,Auburn,SEC,penaltyYards,568,2008 Auburn
+68,2019,Auburn,SEC,passCompletions,228,2019 Auburn
+69,2020,Auburn,SEC,kickReturnTDs,0,2020 Auburn
+70,2012,Auburn,SEC,rushingAttempts,438,2012 Auburn
+72,2013,Auburn,SEC,totalYards,7018,2013 Auburn
+73,2017,Auburn,SEC,thirdDowns,210,2017 Auburn
+74,2022,Auburn,SEC,kickReturnTDs,0,2022 Auburn
+75,2011,Auburn,SEC,firstDowns,227,2011 Auburn
+76,2018,Auburn,SEC,fourthDowns,22,2018 Auburn
+78,2016,Auburn,SEC,passAttempts,289,2016 Auburn
+79,2018,Auburn,SEC,firstDowns,248,2018 Auburn
+80,2007,Auburn,SEC,penalties,80,2007 Auburn
+82,2019,Auburn,SEC,possessionTime,22683,2019 Auburn
+83,2019,Auburn,SEC,rushingAttempts,548,2019 Auburn
+84,2022,Auburn,SEC,penalties,41,2022 Auburn
+85,2019,Auburn,SEC,penalties,92,2019 Auburn
+86,2021,Auburn,SEC,totalYards,5217,2021 Auburn
+87,2012,Auburn,SEC,kickReturnTDs,1,2012 Auburn
+88,2016,Auburn,SEC,rushingYards,3527,2016 Auburn
+89,2017,Auburn,SEC,netPassingYards,3267,2017 Auburn
+91,2013,Auburn,SEC,puntReturns,35,2013 Auburn
+92,2020,Auburn,SEC,penalties,64,2020 Auburn
+93,2012,Auburn,SEC,rushingTDs,16,2012 Auburn
+94,2019,Auburn,SEC,firstDowns,277,2019 Auburn
+95,2015,Auburn,SEC,passingTDs,11,2015 Auburn
+96,2020,Auburn,SEC,fumblesRecovered,4,2020 Auburn
+97,2004,Auburn,SEC,firstDowns,272,2004 Auburn
+98,2019,Auburn,SEC,interceptionTDs,2,2019 Auburn
+100,2010,Auburn,SEC,kickReturns,63,2010 Auburn
+101,2022,Auburn,SEC,passingTDs,5,2022 Auburn
+102,2006,Auburn,SEC,interceptions,10,2006 Auburn
+103,2021,Auburn,SEC,passesIntercepted,9,2021 Auburn
+104,2017,Auburn,SEC,games,14,2017 Auburn
+105,2018,Auburn,SEC,puntReturnTDs,1,2018 Auburn
+106,2006,Auburn,SEC,puntReturns,38,2006 Auburn
+107,2011,Auburn,SEC,puntReturns,39,2011 Auburn
+108,2019,Auburn,SEC,kickReturnYards,451,2019 Auburn
+110,2010,Auburn,SEC,fumblesRecovered,10,2010 Auburn
+111,2017,Auburn,SEC,fumblesLost,14,2017 Auburn
+112,2020,Auburn,SEC,rushingYards,1788,2020 Auburn
+114,2010,Auburn,SEC,turnovers,17,2010 Auburn
+116,2013,Auburn,SEC,kickReturns,40,2013 Auburn
+117,2020,Auburn,SEC,tacklesForLoss,62,2020 Auburn
+118,2018,Auburn,SEC,kickReturnTDs,1,2018 Auburn
+120,2018,Auburn,SEC,penaltyYards,651,2018 Auburn
+121,2020,Auburn,SEC,puntReturns,8,2020 Auburn
+122,2006,Auburn,SEC,penaltyYards,595,2006 Auburn
+123,2017,Auburn,SEC,kickReturnYards,627,2017 Auburn
+124,2022,Auburn,SEC,kickReturnYards,183,2022 Auburn
+127,2020,Auburn,SEC,kickReturns,23,2020 Auburn
+128,2018,Auburn,SEC,puntReturnYards,332,2018 Auburn
+129,2014,Auburn,SEC,games,13,2014 Auburn
+130,2008,Auburn,SEC,rushingTDs,12,2008 Auburn
+131,2022,Auburn,SEC,sacks,12,2022 Auburn
+134,2012,Auburn,SEC,netPassingYards,1879,2012 Auburn
+135,2021,Auburn,SEC,penaltyYards,598,2021 Auburn
+136,2015,Auburn,SEC,passCompletions,179,2015 Auburn
+137,2022,Auburn,SEC,kickReturns,14,2022 Auburn
+138,2004,Auburn,SEC,turnovers,23,2004 Auburn
+139,2008,Auburn,SEC,rushingAttempts,469,2008 Auburn
+141,2014,Auburn,SEC,firstDowns,314,2014 Auburn
+142,2010,Auburn,SEC,rushingTDs,41,2010 Auburn
+143,2012,Auburn,SEC,passingTDs,8,2012 Auburn
+144,2004,Auburn,SEC,interceptionYards,107,2004 Auburn
+145,2013,Auburn,SEC,turnovers,19,2013 Auburn
+146,2011,Auburn,SEC,fourthDownConversions,6,2011 Auburn
+147,2013,Auburn,SEC,passCompletions,173,2013 Auburn
+148,2020,Auburn,SEC,interceptions,7,2020 Auburn
+150,2007,Auburn,SEC,passingTDs,12,2007 Auburn
+151,2016,Auburn,SEC,kickReturnTDs,0,2016 Auburn
+152,2011,Auburn,SEC,passesIntercepted,11,2011 Auburn
+153,2016,Auburn,SEC,passCompletions,178,2016 Auburn
+155,2021,Auburn,SEC,puntReturnYards,204,2021 Auburn
+156,2016,Auburn,SEC,games,13,2016 Auburn
+157,2005,Auburn,SEC,puntReturns,39,2005 Auburn
+158,2020,Auburn,SEC,games,11,2020 Auburn
+159,2007,Auburn,SEC,turnovers,25,2007 Auburn
+160,2011,Auburn,SEC,interceptionTDs,2,2011 Auburn
+162,2014,Auburn,SEC,rushingYards,3321,2014 Auburn
+164,2022,Auburn,SEC,puntReturnYards,116,2022 Auburn
+167,2018,Auburn,SEC,sacks,37,2018 Auburn
+168,2018,Auburn,SEC,interceptionTDs,3,2018 Auburn
+169,2010,Auburn,SEC,passingTDs,31,2010 Auburn
+171,2004,Auburn,SEC,penaltyYards,0,2004 Auburn
+172,2006,Auburn,SEC,fourthDowns,14,2006 Auburn
+174,2013,Auburn,SEC,puntReturnYards,377,2013 Auburn
+175,2020,Auburn,SEC,possessionTime,18967,2020 Auburn
+176,2019,Auburn,SEC,rushingTDs,31,2019 Auburn
+177,2015,Auburn,SEC,passAttempts,306,2015 Auburn
+178,2014,Auburn,SEC,penaltyYards,896,2014 Auburn
+179,2007,Auburn,SEC,possessionTime,14950,2007 Auburn
+180,2015,Auburn,SEC,thirdDownConversions,74,2015 Auburn
+181,2011,Auburn,SEC,thirdDowns,171,2011 Auburn
+182,2005,Auburn,SEC,passesIntercepted,7,2005 Auburn
+183,2008,Auburn,SEC,possessionTime,13280,2008 Auburn
+184,2009,Auburn,SEC,rushingTDs,24,2009 Auburn
+185,2016,Auburn,SEC,penaltyYards,475,2016 Auburn
+186,2019,Auburn,SEC,passingTDs,20,2019 Auburn
+187,2019,Auburn,SEC,kickReturnTDs,1,2019 Auburn
+188,2019,Auburn,SEC,games,13,2019 Auburn
+189,2017,Auburn,SEC,passingTDs,21,2017 Auburn
+190,2014,Auburn,SEC,thirdDownConversions,94,2014 Auburn
+191,2006,Auburn,SEC,rushingTDs,21,2006 Auburn
+192,2005,Auburn,SEC,interceptionTDs,0,2005 Auburn
+193,2015,Auburn,SEC,kickReturnTDs,0,2015 Auburn
+194,2018,Auburn,SEC,interceptions,5,2018 Auburn
+196,2014,Auburn,SEC,rushingTDs,32,2014 Auburn
+197,2008,Auburn,SEC,thirdDowns,183,2008 Auburn
+198,2015,Auburn,SEC,rushingYards,2553,2015 Auburn
+199,2016,Auburn,SEC,possessionTime,22761,2016 Auburn
+201,2008,Auburn,SEC,netPassingYards,2144,2008 Auburn
+202,2011,Auburn,SEC,puntReturnYards,155,2011 Auburn
+204,2011,Auburn,SEC,passAttempts,292,2011 Auburn
+205,2011,Auburn,SEC,kickReturnTDs,2,2011 Auburn
+206,2012,Auburn,SEC,puntReturns,18,2012 Auburn
+207,2019,Auburn,SEC,puntReturns,24,2019 Auburn
+209,2022,Auburn,SEC,fumblesRecovered,6,2022 Auburn
+211,2017,Auburn,SEC,passCompletions,255,2017 Auburn
+212,2022,Auburn,SEC,fumblesLost,5,2022 Auburn
+213,2018,Auburn,SEC,kickReturns,22,2018 Auburn
+214,2020,Auburn,SEC,thirdDowns,158,2020 Auburn
+215,2022,Auburn,SEC,rushingYards,890,2022 Auburn
+216,2019,Auburn,SEC,sacks,35,2019 Auburn
+217,2020,Auburn,SEC,firstDowns,228,2020 Auburn
+218,2005,Auburn,SEC,rushingTDs,21,2005 Auburn
+221,2006,Auburn,SEC,netPassingYards,2382,2006 Auburn
+223,2010,Auburn,SEC,thirdDownConversions,86,2010 Auburn
+224,2021,Auburn,SEC,thirdDowns,184,2021 Auburn
+225,2017,Auburn,SEC,rushingYards,3056,2017 Auburn
+226,2020,Auburn,SEC,totalYards,4210,2020 Auburn
+227,2014,Auburn,SEC,passCompletions,208,2014 Auburn
+228,2021,Auburn,SEC,sacks,36,2021 Auburn
+229,2016,Auburn,SEC,passesIntercepted,11,2016 Auburn
+230,2015,Auburn,SEC,rushingTDs,28,2015 Auburn
+231,2017,Auburn,SEC,thirdDownConversions,95,2017 Auburn
+232,2016,Auburn,SEC,tacklesForLoss,83,2016 Auburn
+233,2018,Auburn,SEC,possessionTime,20252,2018 Auburn
+234,2021,Auburn,SEC,netPassingYards,3121,2021 Auburn
+235,2013,Auburn,SEC,games,14,2013 Auburn
+236,2015,Auburn,SEC,firstDowns,257,2015 Auburn
+238,2020,Auburn,SEC,sacks,26,2020 Auburn
+239,2010,Auburn,SEC,fourthDowns,8,2010 Auburn
+241,2015,Auburn,SEC,possessionTime,22123,2015 Auburn
+242,2010,Auburn,SEC,netPassingYards,3154,2010 Auburn
+243,2019,Auburn,SEC,puntReturnYards,308,2019 Auburn
+244,2022,Auburn,SEC,passesIntercepted,1,2022 Auburn
+245,2014,Auburn,SEC,interceptionYards,130,2014 Auburn
+246,2008,Auburn,SEC,turnovers,26,2008 Auburn
+247,2014,Auburn,SEC,passingTDs,23,2014 Auburn
+249,2007,Auburn,SEC,puntReturns,45,2007 Auburn
+250,2019,Auburn,SEC,interceptions,6,2019 Auburn
+251,2018,Auburn,SEC,rushingYards,2177,2018 Auburn
+253,2020,Auburn,SEC,passAttempts,362,2020 Auburn
+254,2004,Auburn,SEC,passAttempts,308,2004 Auburn
+255,2008,Auburn,SEC,puntReturns,45,2008 Auburn
+256,2011,Auburn,SEC,fourthDowns,12,2011 Auburn
+257,2020,Auburn,SEC,rushingTDs,16,2020 Auburn
+258,2016,Auburn,SEC,fourthDownConversions,10,2016 Auburn
+259,2013,Auburn,SEC,fumblesRecovered,6,2013 Auburn
+260,2010,Auburn,SEC,interceptions,7,2010 Auburn
+261,2013,Auburn,SEC,fourthDownConversions,8,2013 Auburn
+262,2017,Auburn,SEC,rushingTDs,34,2017 Auburn
+263,2005,Auburn,SEC,passAttempts,317,2005 Auburn
+264,2013,Auburn,SEC,rushingYards,4596,2013 Auburn
+265,2022,Auburn,SEC,passAttempts,180,2022 Auburn
+266,2006,Auburn,SEC,passAttempts,282,2006 Auburn
+267,2012,Auburn,SEC,kickReturns,36,2012 Auburn
+268,2011,Auburn,SEC,interceptions,13,2011 Auburn
+269,2010,Auburn,SEC,rushingAttempts,652,2010 Auburn
+270,2009,Auburn,SEC,totalYards,5613,2009 Auburn
+271,2017,Auburn,SEC,passAttempts,382,2017 Auburn
+272,2010,Auburn,SEC,passCompletions,194,2010 Auburn
+273,2018,Auburn,SEC,fumblesRecovered,8,2018 Auburn
+274,2008,Auburn,SEC,interceptionYards,176,2008 Auburn
+275,2006,Auburn,SEC,passingTDs,14,2006 Auburn
+276,2008,Auburn,SEC,firstDowns,198,2008 Auburn
+277,2009,Auburn,SEC,passingTDs,25,2009 Auburn
+278,2006,Auburn,SEC,penalties,72,2006 Auburn
+279,2008,Auburn,SEC,totalYards,3635,2008 Auburn
+280,2019,Auburn,SEC,fourthDowns,15,2019 Auburn
+281,2013,Auburn,SEC,netPassingYards,2422,2013 Auburn
+282,2012,Auburn,SEC,fumblesLost,10,2012 Auburn
+283,2021,Auburn,SEC,games,13,2021 Auburn
+284,2021,Auburn,SEC,thirdDownConversions,74,2021 Auburn
+285,2015,Auburn,SEC,games,13,2015 Auburn
+286,2018,Auburn,SEC,totalYards,5069,2018 Auburn
+287,2010,Auburn,SEC,puntReturns,40,2010 Auburn
+288,2017,Auburn,SEC,fumblesRecovered,13,2017 Auburn
+289,2012,Auburn,SEC,turnovers,25,2012 Auburn
+290,2021,Auburn,SEC,firstDowns,271,2021 Auburn
+291,2013,Auburn,SEC,puntReturnTDs,1,2013 Auburn
+292,2017,Auburn,SEC,turnovers,20,2017 Auburn
+293,2017,Auburn,SEC,fourthDownConversions,7,2017 Auburn
+294,2010,Auburn,SEC,passesIntercepted,12,2010 Auburn
+295,2009,Auburn,SEC,passCompletions,218,2009 Auburn
+296,2005,Auburn,SEC,games,12,2005 Auburn
+297,2006,Auburn,SEC,passCompletions,171,2006 Auburn
+298,2009,Auburn,SEC,netPassingYards,3049,2009 Auburn
+300,2014,Auburn,SEC,penalties,92,2014 Auburn
+301,2007,Auburn,SEC,rushingTDs,23,2007 Auburn
+302,2004,Auburn,SEC,fumblesLost,14,2004 Auburn
+303,2010,Auburn,SEC,puntReturnYards,136,2010 Auburn
+304,2017,Auburn,SEC,possessionTime,26343,2017 Auburn
+306,2004,Auburn,SEC,interceptions,9,2004 Auburn
+308,2019,Auburn,SEC,fourthDownConversions,7,2019 Auburn
+309,2021,Auburn,SEC,turnovers,12,2021 Auburn
+310,2006,Auburn,SEC,thirdDownConversions,63,2006 Auburn
+311,2017,Auburn,SEC,penalties,63,2017 Auburn
+312,2006,Auburn,SEC,turnovers,20,2006 Auburn
+314,2010,Auburn,SEC,possessionTime,15869,2010 Auburn
+315,2004,Auburn,SEC,fourthDownConversions,6,2004 Auburn
+316,2010,Auburn,SEC,fumblesLost,10,2010 Auburn
+317,2011,Auburn,SEC,games,13,2011 Auburn
+318,2020,Auburn,SEC,passingTDs,12,2020 Auburn
+319,2005,Auburn,SEC,penaltyYards,0,2005 Auburn
+320,2016,Auburn,SEC,puntReturns,16,2016 Auburn
+321,2013,Auburn,SEC,passingTDs,20,2013 Auburn
+322,2016,Auburn,SEC,fumblesRecovered,6,2016 Auburn
+323,2022,Auburn,SEC,rushingTDs,10,2022 Auburn
+324,2006,Auburn,SEC,thirdDowns,156,2006 Auburn
+325,2021,Auburn,SEC,fumblesRecovered,4,2021 Auburn
+326,2014,Auburn,SEC,thirdDowns,179,2014 Auburn
+327,2013,Auburn,SEC,interceptions,8,2013 Auburn
+328,2015,Auburn,SEC,passesIntercepted,14,2015 Auburn
+329,2017,Auburn,SEC,kickReturnTDs,0,2017 Auburn
+330,2020,Auburn,SEC,interceptionYards,278,2020 Auburn
+331,2016,Auburn,SEC,netPassingYards,2203,2016 Auburn
+332,2005,Auburn,SEC,thirdDowns,150,2005 Auburn
+333,2015,Auburn,SEC,puntReturnTDs,0,2015 Auburn
+334,2012,Auburn,SEC,firstDowns,188,2012 Auburn
+335,2006,Auburn,SEC,totalYards,3990,2006 Auburn
+336,2021,Auburn,SEC,interceptionYards,110,2021 Auburn
+337,2010,Auburn,SEC,totalYards,6989,2010 Auburn
+338,2008,Auburn,SEC,interceptionTDs,1,2008 Auburn
+339,2009,Auburn,SEC,fourthDownConversions,4,2009 Auburn
+341,2004,Auburn,SEC,puntReturnTDs,0,2004 Auburn
+342,2013,Auburn,SEC,rushingAttempts,729,2013 Auburn
+343,2018,Auburn,SEC,tacklesForLoss,90,2018 Auburn
+346,2018,Auburn,SEC,kickReturnYards,466,2018 Auburn
+347,2018,Auburn,SEC,puntReturns,29,2018 Auburn
+348,2017,Auburn,SEC,rushingAttempts,642,2017 Auburn
+349,2010,Auburn,SEC,kickReturnTDs,1,2010 Auburn
+351,2012,Auburn,SEC,interceptionTDs,1,2012 Auburn
+352,2021,Auburn,SEC,puntReturns,23,2021 Auburn
+353,2018,Auburn,SEC,turnovers,13,2018 Auburn
+354,2005,Auburn,SEC,fourthDowns,12,2005 Auburn
+355,2020,Auburn,SEC,kickReturnYards,497,2020 Auburn
+356,2009,Auburn,SEC,turnovers,22,2009 Auburn
+357,2007,Auburn,SEC,interceptions,15,2007 Auburn
+358,2012,Auburn,SEC,fumblesRecovered,11,2012 Auburn
+359,2005,Auburn,SEC,totalYards,4346,2005 Auburn
+360,2007,Auburn,SEC,penaltyYards,619,2007 Auburn
+361,2019,Auburn,SEC,turnovers,17,2019 Auburn
+362,2012,Auburn,SEC,interceptions,15,2012 Auburn
+364,2008,Auburn,SEC,games,12,2008 Auburn
+365,2012,Auburn,SEC,interceptionYards,72,2012 Auburn
+366,2013,Auburn,SEC,passesIntercepted,13,2013 Auburn
+367,2013,Auburn,SEC,passAttempts,285,2013 Auburn
+368,2019,Auburn,SEC,kickReturns,23,2019 Auburn
+369,2005,Auburn,SEC,firstDowns,231,2005 Auburn
+370,2022,Auburn,SEC,fourthDownConversions,8,2022 Auburn
+371,2009,Auburn,SEC,possessionTime,13850,2009 Auburn
+372,2013,Auburn,SEC,interceptionTDs,1,2013 Auburn
+373,2009,Auburn,SEC,firstDowns,266,2009 Auburn
+374,2016,Auburn,SEC,kickReturnYards,438,2016 Auburn
+375,2011,Auburn,SEC,rushingAttempts,536,2011 Auburn
+377,2013,Auburn,SEC,thirdDowns,187,2013 Auburn
+380,2019,Auburn,SEC,fumblesRecovered,24,2019 Auburn
+381,2004,Auburn,SEC,netPassingYards,3224,2004 Auburn
+382,2012,Auburn,SEC,thirdDownConversions,44,2012 Auburn
+383,2018,Auburn,SEC,passAttempts,382,2018 Auburn
+384,2015,Auburn,SEC,fumblesLost,5,2015 Auburn
+385,2020,Auburn,SEC,turnovers,9,2020 Auburn
+386,2009,Auburn,SEC,kickReturnYards,1493,2009 Auburn
+387,2006,Auburn,SEC,kickReturns,1,2006 Auburn
+388,2005,Auburn,SEC,passingTDs,18,2005 Auburn
+389,2013,Auburn,SEC,penaltyYards,569,2013 Auburn
+391,2008,Auburn,SEC,passingTDs,7,2008 Auburn
+392,2008,Auburn,SEC,fumblesRecovered,8,2008 Auburn
+393,2016,Auburn,SEC,fourthDowns,21,2016 Auburn
+394,2022,Auburn,SEC,interceptions,8,2022 Auburn
+395,2008,Auburn,SEC,passCompletions,184,2008 Auburn
+399,2010,Auburn,SEC,firstDowns,343,2010 Auburn
+400,2007,Auburn,SEC,totalYards,4357,2007 Auburn
+401,2006,Auburn,SEC,puntReturnTDs,1,2006 Auburn
+402,2019,Auburn,SEC,thirdDownConversions,76,2019 Auburn
+403,2019,Auburn,SEC,passesIntercepted,9,2019 Auburn
+404,2004,Auburn,SEC,fourthDowns,15,2004 Auburn
+405,2007,Auburn,SEC,passesIntercepted,14,2007 Auburn
+406,2016,Auburn,SEC,rushingAttempts,645,2016 Auburn
+408,2012,Auburn,SEC,passCompletions,147,2012 Auburn
+409,2021,Auburn,SEC,passAttempts,455,2021 Auburn
+410,2010,Auburn,SEC,rushingYards,3987,2010 Auburn
+411,2015,Auburn,SEC,fumblesRecovered,5,2015 Auburn
+412,2014,Auburn,SEC,totalYards,6305,2014 Auburn
+413,2008,Auburn,SEC,thirdDownConversions,65,2008 Auburn
+415,2019,Auburn,SEC,totalYards,5275,2019 Auburn
+416,2022,Auburn,SEC,fourthDowns,13,2022 Auburn
+417,2006,Auburn,SEC,puntReturnYards,153,2006 Auburn
+418,2014,Auburn,SEC,kickReturnYards,701,2014 Auburn
+419,2005,Auburn,SEC,puntReturnTDs,0,2005 Auburn
+420,2015,Auburn,SEC,interceptionYards,144,2015 Auburn
+421,2011,Auburn,SEC,possessionTime,13288,2011 Auburn
+422,2005,Auburn,SEC,penalties,0,2005 Auburn
+424,2004,Auburn,SEC,possessionTime,15187,2004 Auburn
+425,2020,Auburn,SEC,penaltyYards,556,2020 Auburn
+426,2005,Auburn,SEC,puntReturnYards,192,2005 Auburn
+427,2022,Auburn,SEC,passCompletions,94,2022 Auburn
+428,2007,Auburn,SEC,passAttempts,356,2007 Auburn
+429,2017,Auburn,SEC,puntReturnYards,175,2017 Auburn
+430,2019,Auburn,SEC,fumblesLost,11,2019 Auburn
+432,2014,Auburn,SEC,interceptions,7,2014 Auburn
+433,2017,Auburn,SEC,puntReturns,23,2017 Auburn
+434,2011,Auburn,SEC,fumblesLost,8,2011 Auburn
+435,2006,Auburn,SEC,interceptionYards,169,2006 Auburn
+436,2012,Auburn,SEC,rushingYards,1781,2012 Auburn
+437,2022,Auburn,SEC,interceptionTDs,0,2022 Auburn
+439,2004,Auburn,SEC,thirdDowns,157,2004 Auburn
+442,2012,Auburn,SEC,thirdDowns,143,2012 Auburn
+443,2014,Auburn,SEC,netPassingYards,2984,2014 Auburn
+445,2004,Auburn,SEC,passingTDs,25,2004 Auburn
+446,2018,Auburn,SEC,passingTDs,21,2018 Auburn
+447,2012,Auburn,SEC,possessionTime,21670,2012 Auburn
+448,2017,Auburn,SEC,firstDowns,312,2017 Auburn
+449,2016,Auburn,SEC,thirdDownConversions,76,2016 Auburn
+450,2021,Auburn,SEC,possessionTime,21736,2021 Auburn
+451,2018,Auburn,SEC,rushingAttempts,512,2018 Auburn
+452,2021,Auburn,SEC,interceptionTDs,2,2021 Auburn
+453,2013,Auburn,SEC,penalties,70,2013 Auburn
+454,2016,Auburn,SEC,passingTDs,12,2016 Auburn
+455,2015,Auburn,SEC,penaltyYards,603,2015 Auburn
+456,2021,Auburn,SEC,rushingTDs,22,2021 Auburn
+458,2019,Auburn,SEC,tacklesForLoss,111,2019 Auburn
+459,2005,Auburn,SEC,fumblesRecovered,8,2005 Auburn
+460,2020,Auburn,SEC,interceptionTDs,1,2020 Auburn
+461,2015,Auburn,SEC,interceptions,12,2015 Auburn
+462,2014,Auburn,SEC,kickReturnTDs,0,2014 Auburn
+463,2018,Auburn,SEC,passesIntercepted,14,2018 Auburn
+464,2022,Auburn,SEC,tacklesForLoss,30,2022 Auburn
+465,2007,Auburn,SEC,fourthDowns,19,2007 Auburn
+466,2017,Auburn,SEC,totalYards,6323,2017 Auburn
+467,2005,Auburn,SEC,passCompletions,178,2005 Auburn
+468,2009,Auburn,SEC,thirdDowns,177,2009 Auburn
+469,2021,Auburn,SEC,puntReturnTDs,1,2021 Auburn
+471,2017,Auburn,SEC,kickReturns,27,2017 Auburn
+472,2021,Auburn,SEC,fourthDownConversions,13,2021 Auburn
+473,2015,Auburn,SEC,fourthDowns,15,2015 Auburn
+474,2011,Auburn,SEC,passingTDs,17,2011 Auburn
+475,2007,Auburn,SEC,thirdDowns,183,2007 Auburn
+476,2014,Auburn,SEC,puntReturnYards,303,2014 Auburn
+477,2008,Auburn,SEC,puntReturnTDs,1,2008 Auburn
+478,2013,Auburn,SEC,firstDowns,334,2013 Auburn
+479,2010,Auburn,SEC,penaltyYards,740,2010 Auburn
+480,2021,Auburn,SEC,tacklesForLoss,97,2021 Auburn
+481,2012,Auburn,SEC,passAttempts,257,2012 Auburn
+482,2014,Auburn,SEC,possessionTime,23800,2014 Auburn
+483,2015,Auburn,SEC,netPassingYards,2257,2015 Auburn
+484,2021,Auburn,SEC,fumblesLost,8,2021 Auburn
+485,2009,Auburn,SEC,kickReturnTDs,1,2009 Auburn
+486,2006,Auburn,SEC,rushingAttempts,470,2006 Auburn
+487,2009,Auburn,SEC,penalties,96,2009 Auburn
+488,2017,Auburn,SEC,tacklesForLoss,77,2017 Auburn
+489,2015,Auburn,SEC,fourthDownConversions,9,2015 Auburn
+490,2022,Auburn,SEC,interceptionYards,19,2022 Auburn
+491,2008,Auburn,SEC,fourthDowns,12,2008 Auburn
+493,2009,Auburn,SEC,interceptions,9,2009 Auburn
+494,2009,Auburn,SEC,interceptionYards,243,2009 Auburn
+496,2008,Auburn,SEC,rushingYards,1650,2008 Auburn
+498,2022,Auburn,SEC,firstDowns,108,2022 Auburn
+499,2004,Auburn,SEC,rushingTDs,27,2004 Auburn
+500,2017,Auburn,SEC,interceptionYards,82,2017 Auburn
+501,2004,Auburn,SEC,passCompletions,211,2004 Auburn
+502,2016,Auburn,SEC,rushingTDs,33,2016 Auburn
+503,2009,Auburn,SEC,rushingAttempts,550,2009 Auburn
+504,2004,Auburn,SEC,puntReturns,47,2004 Auburn
+505,2006,Auburn,SEC,interceptionTDs,0,2006 Auburn
+506,2011,Auburn,SEC,kickReturns,56,2011 Auburn
+507,2022,Auburn,SEC,puntReturnTDs,0,2022 Auburn
+508,2014,Auburn,SEC,kickReturns,35,2014 Auburn
+510,2004,Auburn,SEC,rushingAttempts,553,2004 Auburn
+511,2016,Auburn,SEC,firstDowns,286,2016 Auburn
+512,2007,Auburn,SEC,thirdDownConversions,67,2007 Auburn
+513,2018,Auburn,SEC,passCompletions,233,2018 Auburn
+514,2006,Auburn,SEC,fourthDownConversions,11,2006 Auburn
+515,2017,Auburn,SEC,fourthDowns,15,2017 Auburn
+517,2011,Auburn,SEC,thirdDownConversions,61,2011 Auburn
+518,2010,Auburn,SEC,penalties,78,2010 Auburn
+519,2016,Auburn,SEC,puntReturnYards,171,2016 Auburn
+520,2016,Auburn,SEC,puntReturnTDs,0,2016 Auburn
+521,2012,Auburn,SEC,fourthDownConversions,3,2012 Auburn
+523,2017,Auburn,SEC,interceptionTDs,2,2017 Auburn
+524,2018,Auburn,SEC,games,13,2018 Auburn
+526,2009,Auburn,SEC,passesIntercepted,17,2009 Auburn
+527,2011,Auburn,SEC,rushingYards,2370,2011 Auburn
+528,2006,Auburn,SEC,fumblesRecovered,21,2006 Auburn
+529,2004,Auburn,SEC,games,13,2004 Auburn
+530,2005,Auburn,SEC,turnovers,19,2005 Auburn
+531,2017,Auburn,SEC,sacks,32,2017 Auburn
+532,2021,Auburn,SEC,rushingAttempts,443,2021 Auburn
+533,2011,Auburn,SEC,turnovers,21,2011 Auburn
+534,2020,Auburn,SEC,fourthDownConversions,3,2020 Auburn
+535,2006,Auburn,SEC,kickReturnYards,12,2006 Auburn
+536,2020,Auburn,SEC,fourthDowns,11,2020 Auburn
+537,2004,Auburn,SEC,interceptionTDs,1,2004 Auburn
+538,2012,Auburn,SEC,puntReturnYards,161,2012 Auburn
+539,2010,Auburn,SEC,fourthDownConversions,5,2010 Auburn
+541,2006,Auburn,SEC,kickReturnTDs,0,2006 Auburn
+542,2011,Auburn,SEC,passCompletions,164,2011 Auburn
+544,2004,Auburn,SEC,thirdDownConversions,68,2004 Auburn
+545,2005,Auburn,SEC,interceptions,8,2005 Auburn
+546,2006,Auburn,SEC,possessionTime,15129,2006 Auburn
+547,2014,Auburn,SEC,interceptionTDs,1,2014 Auburn
+548,2016,Auburn,SEC,totalYards,5730,2016 Auburn
+549,2010,Auburn,SEC,interceptionTDs,1,2010 Auburn
+550,2013,Auburn,SEC,rushingTDs,48,2013 Auburn
+552,2005,Auburn,SEC,netPassingYards,2586,2005 Auburn
+553,2005,Auburn,SEC,possessionTime,12567,2005 Auburn
+554,2014,Auburn,SEC,rushingAttempts,607,2014 Auburn
+555,2018,Auburn,SEC,rushingTDs,25,2018 Auburn
+556,2004,Auburn,SEC,fumblesRecovered,13,2004 Auburn
+557,2015,Auburn,SEC,totalYards,4810,2015 Auburn
+558,2018,Auburn,SEC,thirdDownConversions,61,2018 Auburn
+559,2004,Auburn,SEC,penalties,0,2004 Auburn
+562,2012,Auburn,SEC,games,12,2012 Auburn
+563,2010,Auburn,SEC,puntReturnTDs,0,2010 Auburn
+565,2015,Auburn,SEC,thirdDowns,179,2015 Auburn
+566,2019,Auburn,SEC,netPassingYards,2684,2019 Auburn
+567,2009,Auburn,SEC,puntReturnTDs,0,2009 Auburn
+568,2008,Auburn,SEC,passAttempts,341,2008 Auburn
+569,2013,Auburn,SEC,thirdDownConversions,87,2013 Auburn
+570,2009,Auburn,SEC,puntReturnYards,107,2009 Auburn
+572,2016,Auburn,SEC,interceptions,6,2016 Auburn
+573,2008,Auburn,SEC,interceptions,13,2008 Auburn
+574,2004,Auburn,SEC,passesIntercepted,16,2004 Auburn
+576,2022,Auburn,SEC,penaltyYards,332,2022 Auburn
+577,2014,Auburn,SEC,passesIntercepted,22,2014 Auburn
+578,2005,Auburn,SEC,fumblesLost,11,2005 Auburn
+579,2010,Auburn,SEC,passAttempts,296,2010 Auburn
+580,2015,Auburn,SEC,kickReturns,34,2015 Auburn
+581,2020,Auburn,SEC,passesIntercepted,9,2020 Auburn
+582,2022,Auburn,SEC,games,12,2022 Auburn
+584,2004,Auburn,SEC,rushingYards,2383,2004 Auburn
+585,2014,Auburn,SEC,turnovers,20,2014 Auburn
+586,2022,Auburn,SEC,totalYards,2203,2022 Auburn
+587,2006,Auburn,SEC,games,13,2006 Auburn
+588,2021,Auburn,SEC,fourthDowns,23,2021 Auburn
+589,2018,Auburn,SEC,fumblesLost,8,2018 Auburn
+590,2013,Auburn,SEC,fumblesLost,11,2013 Auburn
+591,2014,Auburn,SEC,fourthDownConversions,3,2014 Auburn
+592,2013,Auburn,SEC,interceptionYards,112,2013 Auburn
+593,2019,Auburn,SEC,penaltyYards,718,2019 Auburn
+594,2016,Auburn,SEC,sacks,25,2016 Auburn
+596,2007,Auburn,SEC,games,13,2007 Auburn
+597,2012,Auburn,SEC,fourthDowns,9,2012 Auburn
+598,2008,Auburn,SEC,fourthDownConversions,5,2008 Auburn
+599,2022,Auburn,SEC,turnovers,13,2022 Auburn
+600,2009,Auburn,SEC,games,13,2009 Auburn
+602,2010,Auburn,SEC,kickReturnYards,1482,2010 Auburn
+603,2022,Auburn,SEC,puntReturns,13,2022 Auburn
+604,2022,Auburn,SEC,possessionTime,10340,2022 Auburn
+605,2016,Auburn,SEC,fumblesLost,8,2016 Auburn
+606,2017,Auburn,SEC,puntReturnTDs,1,2017 Auburn
+607,2011,Auburn,SEC,penaltyYards,676,2011 Auburn
+608,2014,Auburn,SEC,passAttempts,332,2014 Auburn
+609,2020,Auburn,SEC,passCompletions,216,2020 Auburn
+610,2008,Auburn,SEC,fumblesLost,13,2008 Auburn
+611,2016,Auburn,SEC,turnovers,14,2016 Auburn
+612,2017,Auburn,SEC,penaltyYards,537,2017 Auburn
+613,2020,Auburn,SEC,rushingAttempts,392,2020 Auburn
+614,2022,Auburn,SEC,thirdDowns,82,2022 Auburn
+615,2015,Auburn,SEC,interceptionTDs,1,2015 Auburn
+616,2009,Auburn,SEC,fumblesLost,13,2009 Auburn
+617,2009,Auburn,SEC,thirdDownConversions,71,2009 Auburn
+618,2020,Auburn,SEC,puntReturnTDs,0,2020 Auburn
+619,2011,Auburn,SEC,totalYards,4392,2011 Auburn
+620,2010,Auburn,SEC,thirdDowns,162,2010 Auburn
+621,2011,Auburn,SEC,fumblesRecovered,12,2011 Auburn
+622,2014,Auburn,SEC,puntReturnTDs,2,2014 Auburn
+623,2019,Auburn,SEC,puntReturnTDs,0,2019 Auburn
+624,2009,Auburn,SEC,kickReturns,63,2009 Auburn
+625,2007,Auburn,SEC,fumblesRecovered,11,2007 Auburn
+627,2020,Auburn,SEC,puntReturnYards,78,2020 Auburn
+628,2007,Auburn,SEC,interceptionTDs,1,2007 Auburn
+629,2011,Auburn,SEC,interceptionYards,180,2011 Auburn
+630,2014,Auburn,SEC,fumblesLost,13,2014 Auburn
+631,2010,Auburn,SEC,interceptionYards,94,2010 Auburn
+632,2008,Auburn,SEC,passesIntercepted,11,2008 Auburn
+633,2021,Auburn,SEC,penalties,73,2021 Auburn
+634,2012,Auburn,SEC,penalties,75,2012 Auburn
+635,2012,Auburn,SEC,puntReturnTDs,0,2012 Auburn
+636,2018,Auburn,SEC,penalties,73,2018 Auburn
+637,2009,Auburn,SEC,interceptionTDs,4,2009 Auburn
+638,2022,Auburn,SEC,netPassingYards,1313,2022 Auburn
+639,2008,Auburn,SEC,puntReturnYards,273,2008 Auburn
+640,2004,Auburn,SEC,totalYards,5469,2004 Auburn
+641,2017,Auburn,SEC,interceptions,6,2017 Auburn
+643,2021,Auburn,SEC,passCompletions,267,2021 Auburn
+644,2012,Auburn,SEC,passesIntercepted,2,2012 Auburn
+645,2015,Auburn,SEC,turnovers,17,2015 Auburn
+646,2016,Auburn,SEC,kickReturns,23,2016 Auburn
+647,2021,Auburn,SEC,interceptions,4,2021 Auburn
+648,2007,Auburn,SEC,rushingAttempts,543,2007 Auburn
+649,2020,Auburn,SEC,netPassingYards,2422,2020 Auburn
+650,2019,Auburn,SEC,passAttempts,396,2019 Auburn
+652,2008,Auburn,SEC,penalties,74,2008 Auburn
+653,2005,Auburn,SEC,rushingYards,1939,2005 Auburn
+656,2013,Auburn,SEC,kickReturnTDs,2,2013 Auburn
+657,2013,Auburn,SEC,kickReturnYards,936,2013 Auburn
+658,2005,Auburn,SEC,interceptionYards,75,2005 Auburn
+659,2018,Auburn,SEC,fourthDownConversions,11,2018 Auburn
+660,2010,Auburn,SEC,games,14,2010 Auburn
+661,2006,Auburn,SEC,rushingYards,1926,2006 Auburn
+662,2009,Auburn,SEC,penaltyYards,837,2009 Auburn
+663,2011,Auburn,SEC,netPassingYards,2219,2011 Auburn
+665,2014,Auburn,SEC,puntReturns,17,2014 Auburn
+666,2011,Auburn,SEC,puntReturnTDs,0,2011 Auburn
+668,2015,Auburn,SEC,puntReturnYards,179,2015 Auburn
+669,2006,Auburn,SEC,firstDowns,220,2006 Auburn
+670,2021,Auburn,SEC,kickReturnTDs,0,2021 Auburn
+671,2004,Auburn,SEC,puntReturnYards,428,2004 Auburn
+672,2016,Auburn,SEC,interceptionYards,83,2016 Auburn
+0,2004,Missouri,Big 12,penaltyYards,0,2004 Missouri
+1,2011,Missouri,Big 12,interceptionYards,113,2011 Missouri
+2,2005,Missouri,Big 12,puntReturnYards,259,2005 Missouri
+6,2009,Missouri,Big 12,passCompletions,274,2009 Missouri
+7,2019,Missouri,SEC,games,12,2019 Missouri
+8,2022,Missouri,SEC,kickReturnTDs,0,2022 Missouri
+9,2022,Missouri,SEC,kickReturns,6,2022 Missouri
+10,2022,Missouri,SEC,interceptionTDs,1,2022 Missouri
+11,2021,Missouri,SEC,tacklesForLoss,83,2021 Missouri
+12,2017,Missouri,SEC,kickReturns,42,2017 Missouri
+14,2020,Missouri,SEC,sacks,19,2020 Missouri
+15,2018,Missouri,SEC,kickReturnYards,334,2018 Missouri
+19,2011,Missouri,Big 12,totalYards,6182,2011 Missouri
+20,2019,Missouri,SEC,firstDowns,243,2019 Missouri
+21,2021,Missouri,SEC,rushingYards,2342,2021 Missouri
+22,2013,Missouri,SEC,possessionTime,25132,2013 Missouri
+23,2015,Missouri,SEC,kickReturns,39,2015 Missouri
+24,2021,Missouri,SEC,totalYards,5378,2021 Missouri
+25,2022,Missouri,SEC,fumblesLost,3,2022 Missouri
+26,2005,Missouri,Big 12,passAttempts,469,2005 Missouri
+27,2013,Missouri,SEC,games,14,2013 Missouri
+28,2022,Missouri,SEC,rushingYards,997,2022 Missouri
+29,2018,Missouri,SEC,penaltyYards,800,2018 Missouri
+30,2011,Missouri,Big 12,passCompletions,243,2011 Missouri
+31,2010,Missouri,Big 12,passingTDs,17,2010 Missouri
+32,2021,Missouri,SEC,fumblesLost,2,2021 Missouri
+34,2005,Missouri,Big 12,thirdDownConversions,85,2005 Missouri
+35,2012,Missouri,SEC,thirdDownConversions,62,2012 Missouri
+36,2021,Missouri,SEC,thirdDownConversions,84,2021 Missouri
+37,2012,Missouri,SEC,interceptions,14,2012 Missouri
+39,2011,Missouri,Big 12,fumblesRecovered,9,2011 Missouri
+40,2006,Missouri,Big 12,possessionTime,13607,2006 Missouri
+41,2020,Missouri,SEC,fumblesRecovered,5,2020 Missouri
+42,2010,Missouri,Big 12,possessionTime,13890,2010 Missouri
+43,2013,Missouri,SEC,passesIntercepted,20,2013 Missouri
+44,2007,Missouri,Big 12,puntReturns,43,2007 Missouri
+45,2020,Missouri,SEC,rushingYards,1362,2020 Missouri
+46,2010,Missouri,Big 12,fourthDowns,12,2010 Missouri
+48,2015,Missouri,SEC,kickReturnYards,573,2015 Missouri
+49,2012,Missouri,SEC,kickReturns,35,2012 Missouri
+50,2018,Missouri,SEC,thirdDowns,207,2018 Missouri
+51,2015,Missouri,SEC,penalties,63,2015 Missouri
+52,2021,Missouri,SEC,kickReturnTDs,1,2021 Missouri
+53,2007,Missouri,Big 12,puntReturnTDs,2,2007 Missouri
+54,2022,Missouri,SEC,penaltyYards,397,2022 Missouri
+55,2010,Missouri,Big 12,firstDowns,286,2010 Missouri
+56,2009,Missouri,Big 12,passAttempts,467,2009 Missouri
+58,2022,Missouri,SEC,games,12,2022 Missouri
+59,2014,Missouri,SEC,rushingTDs,17,2014 Missouri
+61,2020,Missouri,SEC,penaltyYards,500,2020 Missouri
+62,2011,Missouri,Big 12,fourthDownConversions,10,2011 Missouri
+63,2019,Missouri,SEC,passesIntercepted,8,2019 Missouri
+64,2019,Missouri,SEC,penalties,83,2019 Missouri
+65,2019,Missouri,SEC,puntReturnTDs,1,2019 Missouri
+66,2021,Missouri,SEC,fourthDowns,19,2021 Missouri
+67,2015,Missouri,SEC,interceptions,12,2015 Missouri
+68,2015,Missouri,SEC,puntReturnYards,158,2015 Missouri
+69,2007,Missouri,Big 12,passCompletions,394,2007 Missouri
+70,2008,Missouri,Big 12,totalYards,6778,2008 Missouri
+71,2017,Missouri,SEC,passingTDs,44,2017 Missouri
+72,2019,Missouri,SEC,interceptions,8,2019 Missouri
+74,2015,Missouri,SEC,passesIntercepted,9,2015 Missouri
+75,2006,Missouri,Big 12,puntReturns,34,2006 Missouri
+76,2004,Missouri,Big 12,puntReturnTDs,0,2004 Missouri
+77,2020,Missouri,SEC,interceptions,6,2020 Missouri
+78,2014,Missouri,SEC,fumblesLost,3,2014 Missouri
+79,2018,Missouri,SEC,tacklesForLoss,76,2018 Missouri
+80,2018,Missouri,SEC,fourthDownConversions,8,2018 Missouri
+81,2016,Missouri,SEC,fumblesRecovered,5,2016 Missouri
+82,2012,Missouri,SEC,penaltyYards,519,2012 Missouri
+83,2013,Missouri,SEC,fourthDownConversions,10,2013 Missouri
+84,2014,Missouri,SEC,possessionTime,24280,2014 Missouri
+85,2020,Missouri,SEC,kickReturnYards,163,2020 Missouri
+86,2005,Missouri,Big 12,rushingTDs,26,2005 Missouri
+87,2013,Missouri,SEC,interceptionTDs,2,2013 Missouri
+88,2021,Missouri,SEC,sacks,29,2021 Missouri
+89,2018,Missouri,SEC,interceptionYards,117,2018 Missouri
+90,2012,Missouri,SEC,interceptionYards,124,2012 Missouri
+92,2004,Missouri,Big 12,interceptionYards,176,2004 Missouri
+94,2006,Missouri,Big 12,puntReturnYards,187,2006 Missouri
+95,2004,Missouri,Big 12,puntReturnYards,247,2004 Missouri
+96,2016,Missouri,SEC,puntReturns,27,2016 Missouri
+97,2022,Missouri,SEC,interceptions,8,2022 Missouri
+98,2020,Missouri,SEC,tacklesForLoss,50,2020 Missouri
+99,2019,Missouri,SEC,rushingYards,1820,2019 Missouri
+100,2017,Missouri,SEC,rushingTDs,16,2017 Missouri
+101,2017,Missouri,SEC,turnovers,25,2017 Missouri
+102,2013,Missouri,SEC,passAttempts,454,2013 Missouri
+104,2016,Missouri,SEC,passAttempts,448,2016 Missouri
+105,2008,Missouri,Big 12,puntReturns,47,2008 Missouri
+106,2021,Missouri,SEC,puntReturns,14,2021 Missouri
+107,2012,Missouri,SEC,rushingYards,1662,2012 Missouri
+108,2017,Missouri,SEC,passCompletions,247,2017 Missouri
+109,2018,Missouri,SEC,passesIntercepted,10,2018 Missouri
+110,2014,Missouri,SEC,fumblesRecovered,13,2014 Missouri
+111,2007,Missouri,Big 12,interceptions,13,2007 Missouri
+112,2019,Missouri,SEC,passAttempts,376,2019 Missouri
+113,2015,Missouri,SEC,thirdDowns,179,2015 Missouri
+114,2018,Missouri,SEC,fourthDowns,15,2018 Missouri
+115,2020,Missouri,SEC,fourthDownConversions,10,2020 Missouri
+117,2006,Missouri,Big 12,rushingTDs,16,2006 Missouri
+118,2021,Missouri,SEC,interceptions,11,2021 Missouri
+119,2019,Missouri,SEC,possessionTime,21529,2019 Missouri
+120,2006,Missouri,Big 12,passesIntercepted,11,2006 Missouri
+121,2006,Missouri,Big 12,fumblesLost,17,2006 Missouri
+122,2006,Missouri,Big 12,penalties,59,2006 Missouri
+123,2022,Missouri,SEC,penalties,47,2022 Missouri
+124,2013,Missouri,SEC,fourthDowns,16,2013 Missouri
+125,2013,Missouri,SEC,interceptions,8,2013 Missouri
+126,2020,Missouri,SEC,totalYards,4030,2020 Missouri
+127,2014,Missouri,SEC,rushingYards,2490,2014 Missouri
+128,2018,Missouri,SEC,passCompletions,281,2018 Missouri
+129,2011,Missouri,Big 12,interceptions,11,2011 Missouri
+130,2016,Missouri,SEC,rushingAttempts,500,2016 Missouri
+131,2017,Missouri,SEC,kickReturnYards,908,2017 Missouri
+132,2014,Missouri,SEC,firstDowns,270,2014 Missouri
+133,2016,Missouri,SEC,rushingTDs,24,2016 Missouri
+134,2022,Missouri,SEC,rushingAttempts,229,2022 Missouri
+135,2004,Missouri,Big 12,passesIntercepted,15,2004 Missouri
+136,2013,Missouri,SEC,fumblesLost,8,2013 Missouri
+137,2013,Missouri,SEC,kickReturnYards,692,2013 Missouri
+139,2021,Missouri,SEC,passAttempts,455,2021 Missouri
+140,2004,Missouri,Big 12,thirdDowns,197,2004 Missouri
+141,2014,Missouri,SEC,puntReturns,27,2014 Missouri
+142,2018,Missouri,SEC,netPassingYards,3632,2018 Missouri
+144,2012,Missouri,SEC,penalties,67,2012 Missouri
+145,2013,Missouri,SEC,puntReturns,25,2013 Missouri
+146,2008,Missouri,Big 12,penalties,58,2008 Missouri
+147,2022,Missouri,SEC,kickReturnYards,107,2022 Missouri
+148,2011,Missouri,Big 12,passesIntercepted,13,2011 Missouri
+149,2019,Missouri,SEC,thirdDownConversions,66,2019 Missouri
+150,2006,Missouri,Big 12,rushingAttempts,457,2006 Missouri
+151,2009,Missouri,Big 12,rushingTDs,15,2009 Missouri
+152,2012,Missouri,SEC,passCompletions,228,2012 Missouri
+153,2005,Missouri,Big 12,fourthDowns,28,2005 Missouri
+154,2020,Missouri,SEC,kickReturnTDs,0,2020 Missouri
+155,2010,Missouri,Big 12,netPassingYards,3434,2010 Missouri
+156,2008,Missouri,Big 12,passAttempts,565,2008 Missouri
+159,2013,Missouri,SEC,thirdDownConversions,85,2013 Missouri
+160,2022,Missouri,SEC,fumblesRecovered,8,2022 Missouri
+161,2009,Missouri,Big 12,kickReturnTDs,0,2009 Missouri
+163,2004,Missouri,Big 12,fourthDowns,20,2004 Missouri
+164,2022,Missouri,SEC,firstDowns,109,2022 Missouri
+165,2021,Missouri,SEC,firstDowns,282,2021 Missouri
+166,2008,Missouri,Big 12,possessionTime,13488,2008 Missouri
+167,2021,Missouri,SEC,fourthDownConversions,11,2021 Missouri
+171,2012,Missouri,SEC,possessionTime,21354,2012 Missouri
+172,2016,Missouri,SEC,netPassingYards,3545,2016 Missouri
+173,2006,Missouri,Big 12,games,13,2006 Missouri
+174,2009,Missouri,Big 12,interceptions,11,2009 Missouri
+176,2014,Missouri,SEC,thirdDowns,217,2014 Missouri
+177,2007,Missouri,Big 12,rushingTDs,29,2007 Missouri
+178,2004,Missouri,Big 12,passingTDs,18,2004 Missouri
+180,2004,Missouri,Big 12,rushingTDs,13,2004 Missouri
+181,2004,Missouri,Big 12,fumblesRecovered,9,2004 Missouri
+182,2019,Missouri,SEC,fumblesLost,6,2019 Missouri
+183,2011,Missouri,Big 12,turnovers,19,2011 Missouri
+184,2019,Missouri,SEC,interceptionYards,266,2019 Missouri
+185,2011,Missouri,Big 12,thirdDownConversions,73,2011 Missouri
+187,2019,Missouri,SEC,fourthDowns,13,2019 Missouri
+188,2016,Missouri,SEC,passesIntercepted,15,2016 Missouri
+189,2013,Missouri,SEC,fumblesRecovered,12,2013 Missouri
+190,2009,Missouri,Big 12,games,13,2009 Missouri
+191,2014,Missouri,SEC,kickReturns,26,2014 Missouri
+193,2017,Missouri,SEC,thirdDowns,173,2017 Missouri
+194,2017,Missouri,SEC,fourthDowns,11,2017 Missouri
+195,2009,Missouri,Big 12,penalties,69,2009 Missouri
+196,2005,Missouri,Big 12,possessionTime,12659,2005 Missouri
+197,2022,Missouri,SEC,passCompletions,112,2022 Missouri
+198,2005,Missouri,Big 12,netPassingYards,2846,2005 Missouri
+199,2011,Missouri,Big 12,rushingTDs,30,2011 Missouri
+200,2013,Missouri,SEC,interceptionYards,232,2013 Missouri
+201,2006,Missouri,Big 12,turnovers,28,2006 Missouri
+202,2022,Missouri,SEC,fourthDowns,6,2022 Missouri
+203,2020,Missouri,SEC,penalties,58,2020 Missouri
+204,2005,Missouri,Big 12,rushingAttempts,512,2005 Missouri
+206,2015,Missouri,SEC,interceptionYards,156,2015 Missouri
+208,2019,Missouri,SEC,totalYards,4491,2019 Missouri
+209,2005,Missouri,Big 12,rushingYards,2463,2005 Missouri
+210,2016,Missouri,SEC,passingTDs,25,2016 Missouri
+211,2020,Missouri,SEC,puntReturnTDs,0,2020 Missouri
+212,2013,Missouri,SEC,rushingYards,3330,2013 Missouri
+213,2006,Missouri,Big 12,passingTDs,29,2006 Missouri
+214,2004,Missouri,Big 12,interceptions,11,2004 Missouri
+216,2013,Missouri,SEC,kickReturnTDs,0,2013 Missouri
+218,2010,Missouri,Big 12,penaltyYards,747,2010 Missouri
+219,2007,Missouri,Big 12,netPassingYards,4569,2007 Missouri
+220,2018,Missouri,SEC,games,13,2018 Missouri
+221,2009,Missouri,Big 12,kickReturnYards,1313,2009 Missouri
+222,2015,Missouri,SEC,turnovers,17,2015 Missouri
+224,2013,Missouri,SEC,penaltyYards,543,2013 Missouri
+225,2020,Missouri,SEC,thirdDowns,141,2020 Missouri
+226,2020,Missouri,SEC,fourthDowns,18,2020 Missouri
+227,2007,Missouri,Big 12,games,14,2007 Missouri
+228,2017,Missouri,SEC,puntReturnYards,232,2017 Missouri
+229,2006,Missouri,Big 12,fourthDowns,17,2006 Missouri
+230,2005,Missouri,Big 12,firstDowns,281,2005 Missouri
+231,2019,Missouri,SEC,puntReturns,21,2019 Missouri
+233,2014,Missouri,SEC,interceptionTDs,1,2014 Missouri
+234,2010,Missouri,Big 12,rushingTDs,28,2010 Missouri
+235,2006,Missouri,Big 12,fourthDownConversions,9,2006 Missouri
+236,2005,Missouri,Big 12,games,12,2005 Missouri
+237,2022,Missouri,SEC,puntReturnYards,116,2022 Missouri
+238,2022,Missouri,SEC,sacks,12,2022 Missouri
+239,2020,Missouri,SEC,kickReturns,10,2020 Missouri
+240,2009,Missouri,Big 12,passingTDs,26,2009 Missouri
+241,2022,Missouri,SEC,rushingTDs,10,2022 Missouri
+242,2021,Missouri,SEC,interceptionTDs,1,2021 Missouri
+243,2010,Missouri,Big 12,rushingYards,2033,2010 Missouri
+244,2014,Missouri,SEC,interceptionYards,197,2014 Missouri
+245,2017,Missouri,SEC,fumblesLost,11,2017 Missouri
+246,2017,Missouri,SEC,tacklesForLoss,103,2017 Missouri
+248,2008,Missouri,Big 12,thirdDownConversions,87,2008 Missouri
+249,2013,Missouri,SEC,turnovers,16,2013 Missouri
+251,2017,Missouri,SEC,rushingAttempts,486,2017 Missouri
+253,2013,Missouri,SEC,penalties,73,2013 Missouri
+254,2007,Missouri,Big 12,interceptionYards,171,2007 Missouri
+255,2014,Missouri,SEC,interceptions,13,2014 Missouri
+257,2019,Missouri,SEC,passingTDs,17,2019 Missouri
+258,2015,Missouri,SEC,totalYards,3361,2015 Missouri
+259,2021,Missouri,SEC,puntReturnTDs,0,2021 Missouri
+260,2009,Missouri,Big 12,passesIntercepted,8,2009 Missouri
+262,2010,Missouri,Big 12,totalYards,5325,2010 Missouri
+263,2017,Missouri,SEC,penalties,96,2017 Missouri
+264,2015,Missouri,SEC,fumblesLost,5,2015 Missouri
+265,2019,Missouri,SEC,penaltyYards,809,2019 Missouri
+266,2022,Missouri,SEC,netPassingYards,1246,2022 Missouri
+267,2009,Missouri,Big 12,fourthDowns,20,2009 Missouri
+268,2005,Missouri,Big 12,passesIntercepted,12,2005 Missouri
+269,2019,Missouri,SEC,sacks,25,2019 Missouri
+270,2021,Missouri,SEC,passCompletions,301,2021 Missouri
+271,2011,Missouri,Big 12,fumblesLost,8,2011 Missouri
+272,2020,Missouri,SEC,interceptionTDs,1,2020 Missouri
+273,2021,Missouri,SEC,thirdDowns,190,2021 Missouri
+274,2019,Missouri,SEC,netPassingYards,2671,2019 Missouri
+275,2019,Missouri,SEC,tacklesForLoss,92,2019 Missouri
+276,2008,Missouri,Big 12,fumblesLost,8,2008 Missouri
+277,2021,Missouri,SEC,rushingAttempts,464,2021 Missouri
+278,2007,Missouri,Big 12,thirdDowns,202,2007 Missouri
+279,2009,Missouri,Big 12,firstDowns,268,2009 Missouri
+280,2016,Missouri,SEC,kickReturns,43,2016 Missouri
+281,2004,Missouri,Big 12,turnovers,18,2004 Missouri
+282,2021,Missouri,SEC,kickReturnYards,621,2021 Missouri
+283,2014,Missouri,SEC,puntReturnYards,281,2014 Missouri
+284,2016,Missouri,SEC,games,12,2016 Missouri
+285,2005,Missouri,Big 12,penaltyYards,0,2005 Missouri
+286,2018,Missouri,SEC,turnovers,15,2018 Missouri
+287,2019,Missouri,SEC,passCompletions,226,2019 Missouri
+288,2010,Missouri,Big 12,games,13,2010 Missouri
+289,2022,Missouri,SEC,fourthDownConversions,4,2022 Missouri
+291,2018,Missouri,SEC,totalYards,6263,2018 Missouri
+292,2009,Missouri,Big 12,netPassingYards,3904,2009 Missouri
+293,2020,Missouri,SEC,thirdDownConversions,61,2020 Missouri
+294,2019,Missouri,SEC,kickReturns,9,2019 Missouri
+295,2020,Missouri,SEC,passingTDs,9,2020 Missouri
+296,2016,Missouri,SEC,interceptionYards,170,2016 Missouri
+297,2007,Missouri,Big 12,rushingYards,2467,2007 Missouri
+298,2021,Missouri,SEC,possessionTime,23636,2021 Missouri
+299,2021,Missouri,SEC,puntReturnYards,69,2021 Missouri
+300,2009,Missouri,Big 12,penaltyYards,716,2009 Missouri
+302,2017,Missouri,SEC,totalYards,6528,2017 Missouri
+303,2021,Missouri,SEC,interceptionYards,91,2021 Missouri
+304,2019,Missouri,SEC,rushingTDs,14,2019 Missouri
+305,2022,Missouri,SEC,thirdDownConversions,32,2022 Missouri
+306,2010,Missouri,Big 12,thirdDowns,184,2010 Missouri
+307,2014,Missouri,SEC,fourthDownConversions,13,2014 Missouri
+309,2004,Missouri,Big 12,puntReturns,37,2004 Missouri
+311,2007,Missouri,Big 12,penaltyYards,616,2007 Missouri
+312,2014,Missouri,SEC,fourthDowns,16,2014 Missouri
+313,2020,Missouri,SEC,turnovers,14,2020 Missouri
+314,2014,Missouri,SEC,puntReturnTDs,1,2014 Missouri
+315,2017,Missouri,SEC,fourthDownConversions,3,2017 Missouri
+316,2019,Missouri,SEC,thirdDowns,181,2019 Missouri
+317,2005,Missouri,Big 12,interceptions,11,2005 Missouri
+318,2014,Missouri,SEC,passingTDs,25,2014 Missouri
+319,2008,Missouri,Big 12,firstDowns,358,2008 Missouri
+320,2012,Missouri,SEC,fumblesLost,8,2012 Missouri
+321,2011,Missouri,Big 12,interceptionTDs,0,2011 Missouri
+322,2009,Missouri,Big 12,possessionTime,13115,2009 Missouri
+323,2018,Missouri,SEC,fumblesRecovered,6,2018 Missouri
+324,2009,Missouri,Big 12,fumblesLost,8,2009 Missouri
+326,2007,Missouri,Big 12,interceptionTDs,2,2007 Missouri
+327,2012,Missouri,SEC,kickReturnTDs,2,2012 Missouri
+328,2015,Missouri,SEC,fumblesRecovered,7,2015 Missouri
+329,2018,Missouri,SEC,kickReturns,17,2018 Missouri
+330,2019,Missouri,SEC,kickReturnTDs,0,2019 Missouri
+331,2004,Missouri,Big 12,interceptionTDs,1,2004 Missouri
+332,2012,Missouri,SEC,firstDowns,217,2012 Missouri
+333,2010,Missouri,Big 12,fumblesRecovered,11,2010 Missouri
+334,2020,Missouri,SEC,passAttempts,363,2020 Missouri
+335,2017,Missouri,SEC,interceptionYards,140,2017 Missouri
+336,2005,Missouri,Big 12,passCompletions,277,2005 Missouri
+337,2015,Missouri,SEC,puntReturnTDs,1,2015 Missouri
+339,2005,Missouri,Big 12,fumblesLost,17,2005 Missouri
+340,2005,Missouri,Big 12,puntReturns,40,2005 Missouri
+341,2012,Missouri,SEC,thirdDowns,186,2012 Missouri
+342,2012,Missouri,SEC,games,12,2012 Missouri
+343,2015,Missouri,SEC,thirdDownConversions,54,2015 Missouri
+344,2009,Missouri,Big 12,rushingYards,1651,2009 Missouri
+345,2018,Missouri,SEC,firstDowns,319,2018 Missouri
+348,2010,Missouri,Big 12,rushingAttempts,439,2010 Missouri
+349,2015,Missouri,SEC,firstDowns,181,2015 Missouri
+350,2016,Missouri,SEC,penaltyYards,657,2016 Missouri
+351,2018,Missouri,SEC,interceptionTDs,1,2018 Missouri
+352,2005,Missouri,Big 12,totalYards,5157,2005 Missouri
+353,2015,Missouri,SEC,passingTDs,10,2015 Missouri
+355,2018,Missouri,SEC,thirdDownConversions,96,2018 Missouri
+356,2008,Missouri,Big 12,puntReturnYards,300,2008 Missouri
+357,2016,Missouri,SEC,interceptionTDs,2,2016 Missouri
+358,2006,Missouri,Big 12,passCompletions,291,2006 Missouri
+360,2007,Missouri,Big 12,totalYards,6864,2007 Missouri
+361,2016,Missouri,SEC,firstDowns,291,2016 Missouri
+362,2004,Missouri,Big 12,passCompletions,197,2004 Missouri
+363,2015,Missouri,SEC,kickReturnTDs,0,2015 Missouri
+365,2007,Missouri,Big 12,penalties,73,2007 Missouri
+366,2012,Missouri,SEC,rushingTDs,16,2012 Missouri
+367,2004,Missouri,Big 12,passAttempts,377,2004 Missouri
+368,2018,Missouri,SEC,passingTDs,28,2018 Missouri
+369,2017,Missouri,SEC,puntReturnTDs,2,2017 Missouri
+370,2013,Missouri,SEC,rushingTDs,35,2013 Missouri
+371,2013,Missouri,SEC,firstDowns,343,2013 Missouri
+372,2020,Missouri,SEC,netPassingYards,2668,2020 Missouri
+373,2018,Missouri,SEC,interceptions,8,2018 Missouri
+374,2016,Missouri,SEC,rushingYards,2461,2016 Missouri
+375,2014,Missouri,SEC,passAttempts,415,2014 Missouri
+376,2019,Missouri,SEC,interceptionTDs,4,2019 Missouri
+377,2012,Missouri,SEC,fourthDownConversions,10,2012 Missouri
+378,2021,Missouri,SEC,games,13,2021 Missouri
+379,2022,Missouri,SEC,puntReturnTDs,1,2022 Missouri
+380,2013,Missouri,SEC,netPassingYards,3540,2013 Missouri
+381,2006,Missouri,Big 12,penaltyYards,480,2006 Missouri
+383,2008,Missouri,Big 12,fourthDownConversions,6,2008 Missouri
+384,2011,Missouri,Big 12,rushingAttempts,589,2011 Missouri
+385,2007,Missouri,Big 12,fourthDowns,10,2007 Missouri
+388,2004,Missouri,Big 12,fourthDownConversions,10,2004 Missouri
+389,2017,Missouri,SEC,interceptionTDs,1,2017 Missouri
+390,2011,Missouri,Big 12,thirdDowns,184,2011 Missouri
+391,2009,Missouri,Big 12,thirdDownConversions,68,2009 Missouri
+392,2018,Missouri,SEC,passAttempts,451,2018 Missouri
+393,2017,Missouri,SEC,netPassingYards,4012,2017 Missouri
+394,2008,Missouri,Big 12,passesIntercepted,14,2008 Missouri
+396,2009,Missouri,Big 12,interceptionTDs,1,2009 Missouri
+397,2010,Missouri,Big 12,turnovers,18,2010 Missouri
+398,2013,Missouri,SEC,thirdDowns,194,2013 Missouri
+399,2014,Missouri,SEC,thirdDownConversions,93,2014 Missouri
+400,2020,Missouri,SEC,firstDowns,222,2020 Missouri
+401,2016,Missouri,SEC,kickReturnTDs,0,2016 Missouri
+404,2009,Missouri,Big 12,rushingAttempts,444,2009 Missouri
+405,2015,Missouri,SEC,penaltyYards,507,2015 Missouri
+406,2006,Missouri,Big 12,interceptions,11,2006 Missouri
+407,2012,Missouri,SEC,fourthDowns,23,2012 Missouri
+408,2014,Missouri,SEC,games,14,2014 Missouri
+409,2007,Missouri,Big 12,turnovers,21,2007 Missouri
+411,2016,Missouri,SEC,passCompletions,249,2016 Missouri
+413,2012,Missouri,SEC,rushingAttempts,453,2012 Missouri
+415,2017,Missouri,SEC,penaltyYards,774,2017 Missouri
+417,2020,Missouri,SEC,rushingTDs,21,2020 Missouri
+418,2006,Missouri,Big 12,rushingYards,1943,2006 Missouri
+419,2007,Missouri,Big 12,fumblesRecovered,19,2007 Missouri
+420,2007,Missouri,Big 12,passingTDs,34,2007 Missouri
+421,2011,Missouri,Big 12,games,13,2011 Missouri
+422,2010,Missouri,Big 12,penalties,79,2010 Missouri
+423,2010,Missouri,Big 12,kickReturnYards,696,2010 Missouri
+424,2010,Missouri,Big 12,puntReturns,44,2010 Missouri
+425,2011,Missouri,Big 12,kickReturnYards,967,2011 Missouri
+426,2008,Missouri,Big 12,passCompletions,404,2008 Missouri
+427,2017,Missouri,SEC,thirdDownConversions,78,2017 Missouri
+428,2018,Missouri,SEC,rushingAttempts,553,2018 Missouri
+429,2005,Missouri,Big 12,fourthDownConversions,17,2005 Missouri
+430,2016,Missouri,SEC,puntReturnTDs,1,2016 Missouri
+432,2010,Missouri,Big 12,fourthDownConversions,6,2010 Missouri
+433,2010,Missouri,Big 12,kickReturns,33,2010 Missouri
+434,2010,Missouri,Big 12,kickReturnTDs,1,2010 Missouri
+435,2008,Missouri,Big 12,games,14,2008 Missouri
+437,2019,Missouri,SEC,rushingAttempts,476,2019 Missouri
+438,2017,Missouri,SEC,passAttempts,430,2017 Missouri
+439,2018,Missouri,SEC,fumblesLost,7,2018 Missouri
+440,2020,Missouri,SEC,puntReturnYards,56,2020 Missouri
+442,2009,Missouri,Big 12,puntReturns,46,2009 Missouri
+443,2006,Missouri,Big 12,passAttempts,465,2006 Missouri
+444,2021,Missouri,SEC,kickReturns,34,2021 Missouri
+445,2013,Missouri,SEC,puntReturnTDs,0,2013 Missouri
+447,2004,Missouri,Big 12,rushingAttempts,457,2004 Missouri
+448,2009,Missouri,Big 12,kickReturns,64,2009 Missouri
+449,2019,Missouri,SEC,puntReturnYards,223,2019 Missouri
+450,2008,Missouri,Big 12,passingTDs,41,2008 Missouri
+451,2011,Missouri,Big 12,fourthDowns,17,2011 Missouri
+452,2007,Missouri,Big 12,firstDowns,377,2007 Missouri
+453,2020,Missouri,SEC,fumblesLost,8,2020 Missouri
+454,2018,Missouri,SEC,penalties,90,2018 Missouri
+455,2011,Missouri,Big 12,passAttempts,383,2011 Missouri
+456,2020,Missouri,SEC,rushingAttempts,350,2020 Missouri
+457,2008,Missouri,Big 12,penaltyYards,533,2008 Missouri
+458,2014,Missouri,SEC,turnovers,16,2014 Missouri
+459,2010,Missouri,Big 12,passesIntercepted,18,2010 Missouri
+460,2005,Missouri,Big 12,penalties,0,2005 Missouri
+461,2013,Missouri,SEC,kickReturns,30,2013 Missouri
+462,2017,Missouri,SEC,fumblesRecovered,3,2017 Missouri
+463,2017,Missouri,SEC,interceptions,14,2017 Missouri
+464,2010,Missouri,Big 12,puntReturnTDs,0,2010 Missouri
+465,2008,Missouri,Big 12,rushingAttempts,417,2008 Missouri
+466,2008,Missouri,Big 12,interceptions,18,2008 Missouri
+467,2014,Missouri,SEC,penalties,102,2014 Missouri
+469,2011,Missouri,Big 12,penalties,70,2011 Missouri
+470,2008,Missouri,Big 12,rushingYards,2153,2008 Missouri
+471,2009,Missouri,Big 12,thirdDowns,185,2009 Missouri
+472,2018,Missouri,SEC,puntReturns,20,2018 Missouri
+473,2011,Missouri,Big 12,rushingYards,3172,2011 Missouri
+474,2014,Missouri,SEC,passCompletions,221,2014 Missouri
+475,2009,Missouri,Big 12,puntReturnTDs,0,2009 Missouri
+476,2011,Missouri,Big 12,possessionTime,14216,2011 Missouri
+477,2021,Missouri,SEC,penalties,83,2021 Missouri
+478,2019,Missouri,SEC,fumblesRecovered,13,2019 Missouri
+479,2006,Missouri,Big 12,thirdDownConversions,92,2006 Missouri
+480,2012,Missouri,SEC,puntReturnYards,421,2012 Missouri
+482,2016,Missouri,SEC,sacks,27,2016 Missouri
+483,2012,Missouri,SEC,turnovers,22,2012 Missouri
+485,2004,Missouri,Big 12,rushingYards,1815,2004 Missouri
+487,2007,Missouri,Big 12,rushingAttempts,530,2007 Missouri
+488,2014,Missouri,SEC,netPassingYards,2648,2014 Missouri
+489,2018,Missouri,SEC,rushingYards,2631,2018 Missouri
+490,2020,Missouri,SEC,passCompletions,246,2020 Missouri
+491,2005,Missouri,Big 12,fumblesRecovered,13,2005 Missouri
+492,2011,Missouri,Big 12,firstDowns,315,2011 Missouri
+493,2004,Missouri,Big 12,games,11,2004 Missouri
+494,2015,Missouri,SEC,interceptionTDs,0,2015 Missouri
+495,2008,Missouri,Big 12,fumblesRecovered,11,2008 Missouri
+496,2012,Missouri,SEC,kickReturnYards,864,2012 Missouri
+498,2012,Missouri,SEC,fumblesRecovered,16,2012 Missouri
+499,2009,Missouri,Big 12,fourthDownConversions,11,2009 Missouri
+500,2018,Missouri,SEC,rushingTDs,27,2018 Missouri
+503,2010,Missouri,Big 12,interceptionTDs,0,2010 Missouri
+504,2005,Missouri,Big 12,thirdDowns,210,2005 Missouri
+505,2006,Missouri,Big 12,netPassingYards,3750,2006 Missouri
+506,2015,Missouri,SEC,rushingAttempts,397,2015 Missouri
+507,2006,Missouri,Big 12,totalYards,5533,2006 Missouri
+508,2012,Missouri,SEC,totalYards,4277,2012 Missouri
+509,2007,Missouri,Big 12,passAttempts,582,2007 Missouri
+510,2016,Missouri,SEC,interceptions,10,2016 Missouri
+513,2015,Missouri,SEC,passCompletions,186,2015 Missouri
+514,2016,Missouri,SEC,totalYards,6006,2016 Missouri
+516,2009,Missouri,Big 12,puntReturnYards,238,2009 Missouri
+517,2015,Missouri,SEC,fourthDownConversions,7,2015 Missouri
+518,2016,Missouri,SEC,kickReturnYards,811,2016 Missouri
+519,2010,Missouri,Big 12,passAttempts,490,2010 Missouri
+520,2012,Missouri,SEC,passingTDs,15,2012 Missouri
+521,2014,Missouri,SEC,passesIntercepted,12,2014 Missouri
+522,2020,Missouri,SEC,interceptionYards,67,2020 Missouri
+523,2018,Missouri,SEC,puntReturnYards,52,2018 Missouri
+525,2010,Missouri,Big 12,passCompletions,312,2010 Missouri
+526,2007,Missouri,Big 12,passesIntercepted,17,2007 Missouri
+527,2020,Missouri,SEC,games,10,2020 Missouri
+528,2010,Missouri,Big 12,interceptionYards,359,2010 Missouri
+529,2014,Missouri,SEC,rushingAttempts,539,2014 Missouri
+530,2011,Missouri,Big 12,puntReturnYards,169,2011 Missouri
+531,2017,Missouri,SEC,possessionTime,19517,2017 Missouri
+532,2018,Missouri,SEC,possessionTime,23871,2018 Missouri
+533,2011,Missouri,Big 12,puntReturnTDs,1,2011 Missouri
+534,2015,Missouri,SEC,netPassingYards,1986,2015 Missouri
+535,2016,Missouri,SEC,tacklesForLoss,72,2016 Missouri
+536,2022,Missouri,SEC,possessionTime,10940,2022 Missouri
+537,2012,Missouri,SEC,puntReturnTDs,3,2012 Missouri
+538,2018,Missouri,SEC,puntReturnTDs,0,2018 Missouri
+539,2021,Missouri,SEC,passingTDs,19,2021 Missouri
+540,2012,Missouri,SEC,puntReturns,29,2012 Missouri
+542,2011,Missouri,Big 12,kickReturns,44,2011 Missouri
+543,2022,Missouri,SEC,passingTDs,5,2022 Missouri
+544,2011,Missouri,Big 12,passingTDs,23,2011 Missouri
+545,2004,Missouri,Big 12,firstDowns,213,2004 Missouri
+546,2010,Missouri,Big 12,interceptions,10,2010 Missouri
+547,2008,Missouri,Big 12,interceptionTDs,5,2008 Missouri
+548,2016,Missouri,SEC,thirdDowns,194,2016 Missouri
+550,2013,Missouri,SEC,passingTDs,31,2013 Missouri
+551,2018,Missouri,SEC,kickReturnTDs,0,2018 Missouri
+552,2013,Missouri,SEC,passCompletions,267,2013 Missouri
+554,2015,Missouri,SEC,puntReturns,29,2015 Missouri
+555,2013,Missouri,SEC,totalYards,6870,2013 Missouri
+556,2009,Missouri,Big 12,turnovers,19,2009 Missouri
+557,2015,Missouri,SEC,fourthDowns,17,2015 Missouri
+558,2016,Missouri,SEC,turnovers,23,2016 Missouri
+559,2021,Missouri,SEC,netPassingYards,3036,2021 Missouri
+561,2004,Missouri,Big 12,possessionTime,12342,2004 Missouri
+562,2019,Missouri,SEC,turnovers,14,2019 Missouri
+563,2014,Missouri,SEC,penaltyYards,815,2014 Missouri
+564,2018,Missouri,SEC,sacks,27,2018 Missouri
+565,2005,Missouri,Big 12,turnovers,28,2005 Missouri
+566,2019,Missouri,SEC,kickReturnYards,161,2019 Missouri
+567,2008,Missouri,Big 12,thirdDowns,163,2008 Missouri
+568,2004,Missouri,Big 12,netPassingYards,2456,2004 Missouri
+569,2010,Missouri,Big 12,fumblesLost,8,2010 Missouri
+570,2006,Missouri,Big 12,thirdDowns,190,2006 Missouri
+572,2012,Missouri,SEC,netPassingYards,2615,2012 Missouri
+573,2016,Missouri,SEC,possessionTime,16892,2016 Missouri
+574,2017,Missouri,SEC,puntReturns,14,2017 Missouri
+575,2017,Missouri,SEC,games,13,2017 Missouri
+576,2021,Missouri,SEC,turnovers,13,2021 Missouri
+579,2006,Missouri,Big 12,interceptionYards,187,2006 Missouri
+581,2008,Missouri,Big 12,turnovers,26,2008 Missouri
+582,2008,Missouri,Big 12,rushingTDs,28,2008 Missouri
+583,2005,Missouri,Big 12,puntReturnTDs,1,2005 Missouri
+584,2020,Missouri,SEC,possessionTime,18411,2020 Missouri
+586,2007,Missouri,Big 12,possessionTime,15185,2007 Missouri
+587,2006,Missouri,Big 12,firstDowns,291,2006 Missouri
+588,2021,Missouri,SEC,penaltyYards,770,2021 Missouri
+589,2022,Missouri,SEC,totalYards,2243,2022 Missouri
+590,2022,Missouri,SEC,turnovers,11,2022 Missouri
+591,2010,Missouri,Big 12,thirdDownConversions,70,2010 Missouri
+592,2015,Missouri,SEC,rushingYards,1375,2015 Missouri
+594,2011,Missouri,Big 12,penaltyYards,593,2011 Missouri
+595,2022,Missouri,SEC,passesIntercepted,5,2022 Missouri
+596,2009,Missouri,Big 12,interceptionYards,102,2009 Missouri
+597,2008,Missouri,Big 12,interceptionYards,268,2008 Missouri
+598,2022,Missouri,SEC,tacklesForLoss,38,2022 Missouri
+599,2021,Missouri,SEC,rushingTDs,22,2021 Missouri
+600,2022,Missouri,SEC,interceptionYards,58,2022 Missouri
+601,2020,Missouri,SEC,passesIntercepted,2,2020 Missouri
+602,2011,Missouri,Big 12,kickReturnTDs,0,2011 Missouri
+604,2017,Missouri,SEC,rushingYards,2516,2017 Missouri
+605,2006,Missouri,Big 12,interceptionTDs,2,2006 Missouri
+606,2020,Missouri,SEC,puntReturns,10,2020 Missouri
+608,2022,Missouri,SEC,passAttempts,177,2022 Missouri
+609,2005,Missouri,Big 12,interceptionTDs,3,2005 Missouri
+610,2007,Missouri,Big 12,puntReturnYards,307,2007 Missouri
+611,2012,Missouri,SEC,passAttempts,414,2012 Missouri
+612,2013,Missouri,SEC,rushingAttempts,588,2013 Missouri
+615,2012,Missouri,SEC,passesIntercepted,7,2012 Missouri
+616,2009,Missouri,Big 12,fumblesRecovered,15,2009 Missouri
+617,2008,Missouri,Big 12,netPassingYards,4719,2008 Missouri
+618,2016,Missouri,SEC,puntReturnYards,265,2016 Missouri
+619,2009,Missouri,Big 12,totalYards,5362,2009 Missouri
+620,2021,Missouri,SEC,fumblesRecovered,5,2021 Missouri
+621,2014,Missouri,SEC,kickReturnYards,641,2014 Missouri
+623,2014,Missouri,SEC,totalYards,5138,2014 Missouri
+624,2006,Missouri,Big 12,puntReturnTDs,0,2006 Missouri
+625,2017,Missouri,SEC,passesIntercepted,12,2017 Missouri
+626,2017,Missouri,SEC,sacks,33,2017 Missouri
+628,2004,Missouri,Big 12,penalties,0,2004 Missouri
+629,2011,Missouri,Big 12,netPassingYards,3128,2011 Missouri
+630,2015,Missouri,SEC,passAttempts,373,2015 Missouri
+631,2004,Missouri,Big 12,fumblesLost,7,2004 Missouri
+632,2005,Missouri,Big 12,passingTDs,15,2005 Missouri
+633,2016,Missouri,SEC,fumblesLost,13,2016 Missouri
+634,2010,Missouri,Big 12,puntReturnYards,158,2010 Missouri
+635,2017,Missouri,SEC,kickReturnTDs,0,2017 Missouri
+636,2008,Missouri,Big 12,fourthDowns,14,2008 Missouri
+637,2022,Missouri,SEC,thirdDowns,86,2022 Missouri
+638,2011,Missouri,Big 12,puntReturns,40,2011 Missouri
+640,2013,Missouri,SEC,puntReturnYards,168,2013 Missouri
+641,2021,Missouri,SEC,passesIntercepted,11,2021 Missouri
+642,2015,Missouri,SEC,possessionTime,19464,2015 Missouri
+643,2015,Missouri,SEC,rushingTDs,5,2015 Missouri
+645,2022,Missouri,SEC,puntReturns,7,2022 Missouri
+646,2016,Missouri,SEC,fourthDowns,24,2016 Missouri
+647,2005,Missouri,Big 12,interceptionYards,234,2005 Missouri
+649,2016,Missouri,SEC,thirdDownConversions,83,2016 Missouri
+650,2006,Missouri,Big 12,fumblesRecovered,21,2006 Missouri
+651,2015,Missouri,SEC,games,12,2015 Missouri
+652,2007,Missouri,Big 12,thirdDownConversions,107,2007 Missouri
+654,2016,Missouri,SEC,fourthDownConversions,13,2016 Missouri
+657,2008,Missouri,Big 12,puntReturnTDs,1,2008 Missouri
+658,2016,Missouri,SEC,penalties,80,2016 Missouri
+659,2004,Missouri,Big 12,totalYards,4098,2004 Missouri
+661,2007,Missouri,Big 12,fumblesLost,8,2007 Missouri
+665,2017,Missouri,SEC,firstDowns,304,2017 Missouri
+666,2014,Missouri,SEC,kickReturnTDs,2,2014 Missouri
+667,2019,Missouri,SEC,fourthDownConversions,7,2019 Missouri
+668,2007,Missouri,Big 12,fourthDownConversions,6,2007 Missouri
+669,2012,Missouri,SEC,interceptionTDs,1,2012 Missouri
+670,2004,Missouri,Big 12,thirdDownConversions,76,2004 Missouri
